@@ -37,6 +37,7 @@ mean(Exp1) == mean(Exp2)
 # do code for slide 17 and 18, slide deck Logical Values
 
 # class 1-26-22:
+# slide deck Exercises on Functions i think
 
 # Create a function my_range() that returns the value of the range of a numeric vector.
 
@@ -79,7 +80,7 @@ quantile(rn, .85)
 
 # 1-28-22:
 
-#8 of 17 slide deck unknown
+#8 of 17 slide deck Exercises on Functions
 # We've created separate functions for range_85() and range_95(). In addition we have the built-in function IQR(), which is
 # essentially range_75(). Create a function gen_range(x,pct), where the parameter pct takes the place of 75, 85, and 95 in our examples.
 
@@ -120,3 +121,32 @@ y = rnorm(1000)
 mad(x,y)
   
 #his code slide 13
+
+#slide 15: his x should be the rn
+
+#slide 16: 
+# Create an inverse of the quantile() function, qinv(x,val). The parameter s is a numeric vector. The parameter val is a
+# single number. The function returns the fraction of the values of x that are less than val.
+
+#his code:
+qinv = function(x,val){
+ return(mean(x<val))
+}
+
+
+# Go thru DC tidyverse course before moving on here
+#recommended to read Moderndive (top of moodle) on tidyverse
+
+# Tidyverse slide deck
+#slide 4:
+# Create a new version of diamonds, called d. Cut, color, and clarity should be simple character variables. Make a new
+# variable ppc, the price per carat.
+
+#his code slide 5:
+#x,y,z are the dimensions of the diamond; need dimensions to be greater than zero
+
+#slide 6
+
+
+
+
