@@ -1,3 +1,5 @@
+# Slide deck: Exercises on ggplot2 (2)
+
 library(tidyverse)
 load("county_clean.Rdata")
 state_region <- read_csv("state_region.csv")

@@ -1,3 +1,5 @@
+# Slide deck: Dplyr Exercises (slides 1-14)
+
 library(tidyverse)
 load("cdc.Rdata")
 
@@ -40,7 +42,7 @@ cdcOdd <- cdc %>%
            (gender == "f" & weight > 200)
         )
 # need to finish
-
+# Slide deck: Dplyr Exercises (slides 1-14)
 
 
 
