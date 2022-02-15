@@ -1,3 +1,5 @@
+# FYI - rdrr.io has an online interpreter
+
 # Ctrl+Enter (or Run button) runs the line of code the cursor is on
 # Ctrl+Shift+Enter or # Ctrl+Shift+S (or Source button) runs all the code in the R file
 
@@ -35,6 +37,8 @@ str(county)
 # install.packages("dplyr")
 # only need to install a package when the package isn't previously installed on the computer (installation called in another R script installs it on the computer)
 # after the initial installation, it'll be available on all future RStudio projects by using library()
+
+# FYI - rdrr.io has thousands of packages
 
 library(dplyr)  # need this to use glimpse()
 glimpse(county)  # similar output as str()
