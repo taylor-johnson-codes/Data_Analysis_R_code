@@ -1,3 +1,6 @@
+# Ctrl+Enter (or Run button) runs the line of code the cursor is on
+# Ctrl+Shift+Enter or # Ctrl+Shift+S (or Source button) runs all the code in the R file
+
 x <- rnorm(20)  # rnorm(number of observations, mean = 0, standard deviation = 1)
 x  # see values in console
 summary(x)  # returns min, median, mean, max
