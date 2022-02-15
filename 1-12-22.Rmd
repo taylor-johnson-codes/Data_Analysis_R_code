@@ -5,10 +5,14 @@ date: "1/12/2022"
 output: word_document
 ---
 
-# Change
-## title sizes
-### by using 
-#### hashtags
+FYI - Bookdown is an extension of Markdown and has many free books at bookdown.org
+
+# Title sizes:
+# 1 hashtag
+## 2 hashtags
+### 3 hashtags
+
+#### 4 hashtags is italicized 
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
