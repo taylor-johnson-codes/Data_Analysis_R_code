@@ -1,3 +1,26 @@
+# Slide deck: Counts and Proportions
+
+# Create a vector with numerical values.
+x = 1:10
+x  # 1  2  3  4  5  6  7  8  9 10
+
+# What proportion of the values are greater than 7? Create a logical vector based on the values of x.
+x_gt_7 = x > 7
+x_gt_7  # FALSE FALSE FALSE FALSE FALSE FALSE FALSE  TRUE  TRUE  TRUE
+str(x_gt_7)  # logi [1:10] FALSE FALSE FALSE FALSE FALSE FALSE ...
+# The values in this vector are logical, not numerical.
+
+# What happens if we use the sum() and/or mean() functions?
+sum(x_gt_7)  # prints 3
+mean(x_gt_7)  # prints 0.3
+
+# Using logical values in place of numbers, TRUE becomes 1 and FALSE becomes 0.
+# The sum of a logical expression is the count of cases for which the logical expression is true.
+# The mean of a logical expression is the fraction of cases for which the logical expression is true.
+# Note that the logical vector is not necessary. The expression is enough.
+mean(x > 7)  # prints 0.3
+
+
 # Slide deck: Logical Values
 
 # Dealing with NA Values
