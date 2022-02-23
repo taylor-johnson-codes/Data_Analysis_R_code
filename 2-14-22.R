@@ -1,3 +1,7 @@
+# Slide deck: Importing Weather Data
+# weather data/csv file obtained from NOAA website 
+# (order/use shopping cart to select what you want then the file will be emailed to you, it's free)
+
 library(tidyverse)
 library(readr)
 
@@ -18,10 +22,15 @@ glimpse(oly_airport)
 summary(oly_airport)
 
 # Inspect the NA values and drop these records.
-oly_airport %>% filter(is.na(TMAX))  # view NA values in TMAX column
-oly_airport %>% filter(is.na(TMIN))  # view NA values in TMIN column
-oly_airport = oly_airport %>% drop_na()  # drop NA observations with NA values
+oly_airport %>% 
+  filter(is.na(TMAX) | is.na(TMIN))  # view NA values in TMAX and TMIN columns
+
+oly_airport = oly_airport %>% 
+  drop_na()  # drop observations with NA values
+
 summary(oly_airport)
+
+library(ggplot2)
 
 # Get density with rug plots for TMAX and TMIN.
 oly_airport %>% 
@@ -29,12 +38,14 @@ oly_airport %>%
   geom_density() +
   geom_rug() +
   ggtitle("TMAX")
+# Note the peak at a moderate temperature and a shoulder with a secondary peak to the right of the primary peak.
 
 oly_airport %>% 
   ggplot(aes(x = TMIN)) +
   geom_density() +
   geom_rug() +
   ggtitle("TMIN")
+# Note the pronounced left skew and the single primary peak with weak shoulders to the left and right.
 
 # Load the package lubridate. Then use the functions year(), month() and day() to create the variables yr, mo, and dy. 
 # Make these variables factors. Use glimpse() and summary() to verify the results.
