@@ -1,3 +1,5 @@
+# Top 50 ggplot2 Visualizations: http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+
 # Slide deck: Exercises on ggplot2
 
 library(tidyverse)
