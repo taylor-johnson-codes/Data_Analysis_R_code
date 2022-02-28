@@ -1,0 +1,1674 @@
+"Notes"	"State"	"State Code"	"Age of Mother 9"	"Age of Mother 9 Code"	"Year"	"Year Code"	Births	Female Population	Fertility Rate
+	"Alabama"	"01"	"Under 15 years"	"15"	"2003"	"2003"	172	Not Available	Not Available
+	"Alabama"	"01"	"Under 15 years"	"15"	"2004"	"2004"	162	Not Available	Not Available
+	"Alabama"	"01"	"Under 15 years"	"15"	"2005"	"2005"	150	Not Available	Not Available
+	"Alabama"	"01"	"Under 15 years"	"15"	"2006"	"2006"	163	Not Available	Not Available
+	"Alabama"	"01"	"15-19 years"	"15-19"	"2003"	"2003"	8095	157477	51.40
+	"Alabama"	"01"	"15-19 years"	"15-19"	"2004"	"2004"	8126	159259	51.02
+	"Alabama"	"01"	"15-19 years"	"15-19"	"2005"	"2005"	7771	161701	48.06
+	"Alabama"	"01"	"15-19 years"	"15-19"	"2006"	"2006"	8537	164708	51.83
+	"Alabama"	"01"	"20-24 years"	"20-24"	"2003"	"2003"	18633	163919	113.67
+	"Alabama"	"01"	"20-24 years"	"20-24"	"2004"	"2004"	18581	163736	113.48
+	"Alabama"	"01"	"20-24 years"	"20-24"	"2005"	"2005"	19134	163672	116.90
+	"Alabama"	"01"	"20-24 years"	"20-24"	"2006"	"2006"	19766	162871	121.36
+	"Alabama"	"01"	"25-29 years"	"25-29"	"2003"	"2003"	15925	142041	112.12
+	"Alabama"	"01"	"25-29 years"	"25-29"	"2004"	"2004"	16212	143951	112.62
+	"Alabama"	"01"	"25-29 years"	"25-29"	"2005"	"2005"	16743	147499	113.51
+	"Alabama"	"01"	"25-29 years"	"25-29"	"2006"	"2006"	17989	153897	116.89
+	"Alabama"	"01"	"30-34 years"	"30-34"	"2003"	"2003"	11464	153006	74.93
+	"Alabama"	"01"	"30-34 years"	"30-34"	"2004"	"2004"	11044	152100	72.61
+	"Alabama"	"01"	"30-34 years"	"30-34"	"2005"	"2005"	11138	149728	74.39
+	"Alabama"	"01"	"30-34 years"	"30-34"	"2006"	"2006"	11007	146533	75.12
+	"Alabama"	"01"	"35-39 years"	"35-39"	"2003"	"2003"	4361	159449	27.35
+	"Alabama"	"01"	"35-39 years"	"35-39"	"2004"	"2004"	4445	155830	28.52
+	"Alabama"	"01"	"35-39 years"	"35-39"	"2005"	"2005"	4546	154736	29.38
+	"Alabama"	"01"	"35-39 years"	"35-39"	"2006"	"2006"	4804	157188	30.56
+	"Alabama"	"01"	"40-44 years"	"40-44"	"2003"	"2003"	868	175672	4.94
+	"Alabama"	"01"	"40-44 years"	"40-44"	"2004"	"2004"	898	174844	5.14
+	"Alabama"	"01"	"40-44 years"	"40-44"	"2005"	"2005"	926	173653	5.33
+	"Alabama"	"01"	"40-44 years"	"40-44"	"2006"	"2006"	914	170861	5.35
+	"Alabama"	"01"	"45-49 years"	"45-49"	"2003"	"2003"	32	Not Available	Not Available
+	"Alabama"	"01"	"45-49 years"	"45-49"	"2004"	"2004"	38	Not Available	Not Available
+	"Alabama"	"01"	"45-49 years"	"45-49"	"2005"	"2005"	43	Not Available	Not Available
+	"Alabama"	"01"	"45-49 years"	"45-49"	"2006"	"2006"	49	Not Available	Not Available
+	"Alaska"	"02"	"Under 15 years"	"15"	"2003"	"2003"	15	Not Available	Not Available
+	"Alaska"	"02"	"Under 15 years"	"15"	"2005"	"2005"	12	Not Available	Not Available
+	"Alaska"	"02"	"15-19 years"	"15-19"	"2003"	"2003"	1051	25514	41.19
+	"Alaska"	"02"	"15-19 years"	"15-19"	"2004"	"2004"	1073	25744	41.68
+	"Alaska"	"02"	"15-19 years"	"15-19"	"2005"	"2005"	1038	26002	39.92
+	"Alaska"	"02"	"15-19 years"	"15-19"	"2006"	"2006"	1101	26323	41.83
+	"Alaska"	"02"	"20-24 years"	"20-24"	"2003"	"2003"	2907	21783	133.45
+	"Alaska"	"02"	"20-24 years"	"20-24"	"2004"	"2004"	3031	22888	132.43
+	"Alaska"	"02"	"20-24 years"	"20-24"	"2005"	"2005"	3051	23591	129.33
+	"Alaska"	"02"	"20-24 years"	"20-24"	"2006"	"2006"	3258	24261	134.29
+	"Alaska"	"02"	"25-29 years"	"25-29"	"2003"	"2003"	2661	20234	131.51
+	"Alaska"	"02"	"25-29 years"	"25-29"	"2004"	"2004"	2733	20752	131.70
+	"Alaska"	"02"	"25-29 years"	"25-29"	"2005"	"2005"	2915	21690	134.39
+	"Alaska"	"02"	"25-29 years"	"25-29"	"2006"	"2006"	3068	22535	136.14
+	"Alaska"	"02"	"30-34 years"	"30-34"	"2003"	"2003"	2081	21873	95.14
+	"Alaska"	"02"	"30-34 years"	"30-34"	"2004"	"2004"	2113	21624	97.72
+	"Alaska"	"02"	"30-34 years"	"30-34"	"2005"	"2005"	2062	21308	96.77
+	"Alaska"	"02"	"30-34 years"	"30-34"	"2006"	"2006"	2098	21020	99.81
+	"Alaska"	"02"	"35-39 years"	"35-39"	"2003"	"2003"	1051	23570	44.59
+	"Alaska"	"02"	"35-39 years"	"35-39"	"2004"	"2004"	1098	22958	47.83
+	"Alaska"	"02"	"35-39 years"	"35-39"	"2005"	"2005"	1055	22382	47.14
+	"Alaska"	"02"	"35-39 years"	"35-39"	"2006"	"2006"	1170	22738	51.46
+	"Alaska"	"02"	"40-44 years"	"40-44"	"2003"	"2003"	298	27668	10.77
+	"Alaska"	"02"	"40-44 years"	"40-44"	"2004"	"2004"	257	27355	9.39
+	"Alaska"	"02"	"40-44 years"	"40-44"	"2005"	"2005"	306	26611	11.50
+	"Alaska"	"02"	"40-44 years"	"40-44"	"2006"	"2006"	271	25488	10.63
+	"Alaska"	"02"	"45-49 years"	"45-49"	"2003"	"2003"	22	Not Available	Not Available
+	"Alaska"	"02"	"45-49 years"	"45-49"	"2004"	"2004"	20	Not Available	Not Available
+	"Alaska"	"02"	"45-49 years"	"45-49"	"2005"	"2005"	19	Not Available	Not Available
+	"Alaska"	"02"	"45-49 years"	"45-49"	"2006"	"2006"	22	Not Available	Not Available
+	"Arizona"	"04"	"Under 15 years"	"15"	"2003"	"2003"	214	Not Available	Not Available
+	"Arizona"	"04"	"Under 15 years"	"15"	"2004"	"2004"	189	Not Available	Not Available
+	"Arizona"	"04"	"Under 15 years"	"15"	"2005"	"2005"	186	Not Available	Not Available
+	"Arizona"	"04"	"Under 15 years"	"15"	"2006"	"2006"	172	Not Available	Not Available
+	"Arizona"	"04"	"15-19 years"	"15-19"	"2003"	"2003"	11554	186620	61.91
+	"Arizona"	"04"	"15-19 years"	"15-19"	"2004"	"2004"	11738	193034	60.81
+	"Arizona"	"04"	"15-19 years"	"15-19"	"2005"	"2005"	11828	201497	58.70
+	"Arizona"	"04"	"15-19 years"	"15-19"	"2006"	"2006"	12824	209382	61.25
+	"Arizona"	"04"	"20-24 years"	"20-24"	"2003"	"2003"	25683	196007	131.03
+	"Arizona"	"04"	"20-24 years"	"20-24"	"2004"	"2004"	25915	197927	130.93
+	"Arizona"	"04"	"20-24 years"	"20-24"	"2005"	"2005"	26573	199191	133.40
+	"Arizona"	"04"	"20-24 years"	"20-24"	"2006"	"2006"	28379	201354	140.94
+	"Arizona"	"04"	"25-29 years"	"25-29"	"2003"	"2003"	24864	184301	134.91
+	"Arizona"	"04"	"25-29 years"	"25-29"	"2004"	"2004"	25688	191984	133.80
+	"Arizona"	"04"	"25-29 years"	"25-29"	"2005"	"2005"	26730	203100	131.61
+	"Arizona"	"04"	"25-29 years"	"25-29"	"2006"	"2006"	28695	215474	133.17
+	"Arizona"	"04"	"30-34 years"	"30-34"	"2003"	"2003"	18575	187561	99.03
+	"Arizona"	"04"	"30-34 years"	"30-34"	"2004"	"2004"	19343	188998	102.34
+	"Arizona"	"04"	"30-34 years"	"30-34"	"2005"	"2005"	19895	191103	104.11
+	"Arizona"	"04"	"30-34 years"	"30-34"	"2006"	"2006"	20367	192985	105.54
+	"Arizona"	"04"	"35-39 years"	"35-39"	"2003"	"2003"	8233	187031	44.02
+	"Arizona"	"04"	"35-39 years"	"35-39"	"2004"	"2004"	8768	187295	46.81
+	"Arizona"	"04"	"35-39 years"	"35-39"	"2005"	"2005"	8992	192268	46.77
+	"Arizona"	"04"	"35-39 years"	"35-39"	"2006"	"2006"	9892	199961	49.47
+	"Arizona"	"04"	"40-44 years"	"40-44"	"2003"	"2003"	1745	200264	8.71
+	"Arizona"	"04"	"40-44 years"	"40-44"	"2004"	"2004"	1924	203763	9.44
+	"Arizona"	"04"	"40-44 years"	"40-44"	"2005"	"2005"	1888	206736	9.13
+	"Arizona"	"04"	"40-44 years"	"40-44"	"2006"	"2006"	1991	207042	9.62
+	"Arizona"	"04"	"45-49 years"	"45-49"	"2003"	"2003"	88	Not Available	Not Available
+	"Arizona"	"04"	"45-49 years"	"45-49"	"2004"	"2004"	93	Not Available	Not Available
+	"Arizona"	"04"	"45-49 years"	"45-49"	"2005"	"2005"	101	Not Available	Not Available
+	"Arizona"	"04"	"45-49 years"	"45-49"	"2006"	"2006"	99	Not Available	Not Available
+	"Arizona"	"04"	"50 years and over"	"50+"	"2003"	"2003"	11	Not Available	Not Available
+	"Arizona"	"04"	"50 years and over"	"50+"	"2006"	"2006"	10	Not Available	Not Available
+	"Arkansas"	"05"	"Under 15 years"	"15"	"2003"	"2003"	108	Not Available	Not Available
+	"Arkansas"	"05"	"Under 15 years"	"15"	"2004"	"2004"	110	Not Available	Not Available
+	"Arkansas"	"05"	"Under 15 years"	"15"	"2005"	"2005"	98	Not Available	Not Available
+	"Arkansas"	"05"	"Under 15 years"	"15"	"2006"	"2006"	97	Not Available	Not Available
+	"Arkansas"	"05"	"15-19 years"	"15-19"	"2003"	"2003"	5585	94148	59.32
+	"Arkansas"	"05"	"15-19 years"	"15-19"	"2004"	"2004"	5716	94768	60.32
+	"Arkansas"	"05"	"15-19 years"	"15-19"	"2005"	"2005"	5646	96279	58.64
+	"Arkansas"	"05"	"15-19 years"	"15-19"	"2006"	"2006"	5946	97758	60.82
+	"Arkansas"	"05"	"20-24 years"	"20-24"	"2003"	"2003"	12919	97837	132.05
+	"Arkansas"	"05"	"20-24 years"	"20-24"	"2004"	"2004"	13253	97880	135.40
+	"Arkansas"	"05"	"20-24 years"	"20-24"	"2005"	"2005"	13242	97189	136.25
+	"Arkansas"	"05"	"20-24 years"	"20-24"	"2006"	"2006"	13967	96435	144.83
+	"Arkansas"	"05"	"25-29 years"	"25-29"	"2003"	"2003"	10185	86011	118.42
+	"Arkansas"	"05"	"25-29 years"	"25-29"	"2004"	"2004"	10325	88688	116.42
+	"Arkansas"	"05"	"25-29 years"	"25-29"	"2005"	"2005"	10908	92360	118.10
+	"Arkansas"	"05"	"25-29 years"	"25-29"	"2006"	"2006"	11447	96388	118.76
+	"Arkansas"	"05"	"30-34 years"	"30-34"	"2003"	"2003"	6212	88242	70.40
+	"Arkansas"	"05"	"30-34 years"	"30-34"	"2004"	"2004"	6246	87877	71.08
+	"Arkansas"	"05"	"30-34 years"	"30-34"	"2005"	"2005"	6313	87213	72.39
+	"Arkansas"	"05"	"30-34 years"	"30-34"	"2006"	"2006"	6390	86295	74.05
+	"Arkansas"	"05"	"35-39 years"	"35-39"	"2003"	"2003"	2289	92574	24.73
+	"Arkansas"	"05"	"35-39 years"	"35-39"	"2004"	"2004"	2455	90303	27.19
+	"Arkansas"	"05"	"35-39 years"	"35-39"	"2005"	"2005"	2462	89850	27.40
+	"Arkansas"	"05"	"35-39 years"	"35-39"	"2006"	"2006"	2587	91533	28.26
+	"Arkansas"	"05"	"40-44 years"	"40-44"	"2003"	"2003"	456	101284	4.50
+	"Arkansas"	"05"	"40-44 years"	"40-44"	"2004"	"2004"	448	102069	4.39
+	"Arkansas"	"05"	"40-44 years"	"40-44"	"2005"	"2005"	512	101584	5.04
+	"Arkansas"	"05"	"40-44 years"	"40-44"	"2006"	"2006"	504	100043	5.04
+	"Arkansas"	"05"	"45-49 years"	"45-49"	"2003"	"2003"	30	Not Available	Not Available
+	"Arkansas"	"05"	"45-49 years"	"45-49"	"2004"	"2004"	18	Not Available	Not Available
+	"Arkansas"	"05"	"45-49 years"	"45-49"	"2005"	"2005"	27	Not Available	Not Available
+	"Arkansas"	"05"	"45-49 years"	"45-49"	"2006"	"2006"	20	Not Available	Not Available
+	"California"	"06"	"Under 15 years"	"15"	"2003"	"2003"	712	Not Available	Not Available
+	"California"	"06"	"Under 15 years"	"15"	"2004"	"2004"	695	Not Available	Not Available
+	"California"	"06"	"Under 15 years"	"15"	"2005"	"2005"	756	Not Available	Not Available
+	"California"	"06"	"Under 15 years"	"15"	"2006"	"2006"	682	Not Available	Not Available
+	"California"	"06"	"15-19 years"	"15-19"	"2003"	"2003"	49339	1231521	40.06
+	"California"	"06"	"15-19 years"	"15-19"	"2004"	"2004"	49751	1260373	39.47
+	"California"	"06"	"15-19 years"	"15-19"	"2005"	"2005"	50034	1293513	38.68
+	"California"	"06"	"15-19 years"	"15-19"	"2006"	"2006"	52800	1324135	39.88
+	"California"	"06"	"20-24 years"	"20-24"	"2003"	"2003"	123873	1253018	98.86
+	"California"	"06"	"20-24 years"	"20-24"	"2004"	"2004"	124361	1263972	98.39
+	"California"	"06"	"20-24 years"	"20-24"	"2005"	"2005"	125580	1264029	99.35
+	"California"	"06"	"20-24 years"	"20-24"	"2006"	"2006"	129202	1260991	102.46
+	"California"	"06"	"25-29 years"	"25-29"	"2003"	"2003"	140624	1224189	114.87
+	"California"	"06"	"25-29 years"	"25-29"	"2004"	"2004"	141684	1245004	113.80
+	"California"	"06"	"25-29 years"	"25-29"	"2005"	"2005"	143561	1268181	113.20
+	"California"	"06"	"25-29 years"	"25-29"	"2006"	"2006"	148359	1299943	114.13
+	"California"	"06"	"30-34 years"	"30-34"	"2003"	"2003"	134853	1319016	102.24
+	"California"	"06"	"30-34 years"	"30-34"	"2004"	"2004"	134629	1298333	103.69
+	"California"	"06"	"30-34 years"	"30-34"	"2005"	"2005"	133787	1263443	105.89
+	"California"	"06"	"30-34 years"	"30-34"	"2006"	"2006"	133517	1234424	108.16
+	"California"	"06"	"35-39 years"	"35-39"	"2003"	"2003"	72679	1334614	54.46
+	"California"	"06"	"35-39 years"	"35-39"	"2004"	"2004"	74607	1320199	56.51
+	"California"	"06"	"35-39 years"	"35-39"	"2005"	"2005"	75761	1322153	57.30
+	"California"	"06"	"35-39 years"	"35-39"	"2006"	"2006"	77853	1329355	58.56
+	"California"	"06"	"40-44 years"	"40-44"	"2003"	"2003"	17702	1378778	12.84
+	"California"	"06"	"40-44 years"	"40-44"	"2004"	"2004"	17932	1388361	12.92
+	"California"	"06"	"40-44 years"	"40-44"	"2005"	"2005"	17986	1375746	13.07
+	"California"	"06"	"40-44 years"	"40-44"	"2006"	"2006"	18600	1350502	13.77
+	"California"	"06"	"45-49 years"	"45-49"	"2003"	"2003"	1098	Not Available	Not Available
+	"California"	"06"	"45-49 years"	"45-49"	"2004"	"2004"	1091	Not Available	Not Available
+	"California"	"06"	"45-49 years"	"45-49"	"2005"	"2005"	1293	Not Available	Not Available
+	"California"	"06"	"45-49 years"	"45-49"	"2006"	"2006"	1302	Not Available	Not Available
+	"California"	"06"	"50 years and over"	"50+"	"2003"	"2003"	117	Not Available	Not Available
+	"California"	"06"	"50 years and over"	"50+"	"2004"	"2004"	93	Not Available	Not Available
+	"California"	"06"	"50 years and over"	"50+"	"2005"	"2005"	124	Not Available	Not Available
+	"California"	"06"	"50 years and over"	"50+"	"2006"	"2006"	125	Not Available	Not Available
+	"Colorado"	"08"	"Under 15 years"	"15"	"2003"	"2003"	114	Not Available	Not Available
+	"Colorado"	"08"	"Under 15 years"	"15"	"2004"	"2004"	100	Not Available	Not Available
+	"Colorado"	"08"	"Under 15 years"	"15"	"2005"	"2005"	96	Not Available	Not Available
+	"Colorado"	"08"	"Under 15 years"	"15"	"2006"	"2006"	112	Not Available	Not Available
+	"Colorado"	"08"	"15-19 years"	"15-19"	"2003"	"2003"	6700	155598	43.06
+	"Colorado"	"08"	"15-19 years"	"15-19"	"2004"	"2004"	6775	156480	43.30
+	"Colorado"	"08"	"15-19 years"	"15-19"	"2005"	"2005"	6646	158834	41.84
+	"Colorado"	"08"	"15-19 years"	"15-19"	"2006"	"2006"	6719	160426	41.88
+	"Colorado"	"08"	"20-24 years"	"20-24"	"2003"	"2003"	16899	159739	105.79
+	"Colorado"	"08"	"20-24 years"	"20-24"	"2004"	"2004"	16377	161168	101.61
+	"Colorado"	"08"	"20-24 years"	"20-24"	"2005"	"2005"	16312	162159	100.59
+	"Colorado"	"08"	"20-24 years"	"20-24"	"2006"	"2006"	16733	164229	101.89
+	"Colorado"	"08"	"25-29 years"	"25-29"	"2003"	"2003"	18332	154274	118.83
+	"Colorado"	"08"	"25-29 years"	"25-29"	"2004"	"2004"	18179	155801	116.68
+	"Colorado"	"08"	"25-29 years"	"25-29"	"2005"	"2005"	18676	158762	117.64
+	"Colorado"	"08"	"25-29 years"	"25-29"	"2006"	"2006"	19430	164307	118.25
+	"Colorado"	"08"	"30-34 years"	"30-34"	"2003"	"2003"	17304	167995	103.00
+	"Colorado"	"08"	"30-34 years"	"30-34"	"2004"	"2004"	16777	165807	101.18
+	"Colorado"	"08"	"30-34 years"	"30-34"	"2005"	"2005"	16670	162822	102.38
+	"Colorado"	"08"	"30-34 years"	"30-34"	"2006"	"2006"	16822	161002	104.48
+	"Colorado"	"08"	"35-39 years"	"35-39"	"2003"	"2003"	8057	165613	48.65
+	"Colorado"	"08"	"35-39 years"	"35-39"	"2004"	"2004"	8419	163074	51.63
+	"Colorado"	"08"	"35-39 years"	"35-39"	"2005"	"2005"	8626	164887	52.31
+	"Colorado"	"08"	"35-39 years"	"35-39"	"2006"	"2006"	9021	168682	53.48
+	"Colorado"	"08"	"40-44 years"	"40-44"	"2003"	"2003"	1812	188128	9.63
+	"Colorado"	"08"	"40-44 years"	"40-44"	"2004"	"2004"	1763	186278	9.46
+	"Colorado"	"08"	"40-44 years"	"40-44"	"2005"	"2005"	1826	183478	9.95
+	"Colorado"	"08"	"40-44 years"	"40-44"	"2006"	"2006"	1804	178746	10.09
+	"Colorado"	"08"	"45-49 years"	"45-49"	"2003"	"2003"	114	Not Available	Not Available
+	"Colorado"	"08"	"45-49 years"	"45-49"	"2004"	"2004"	110	Not Available	Not Available
+	"Colorado"	"08"	"45-49 years"	"45-49"	"2005"	"2005"	88	Not Available	Not Available
+	"Colorado"	"08"	"45-49 years"	"45-49"	"2006"	"2006"	103	Not Available	Not Available
+	"Connecticut"	"09"	"Under 15 years"	"15"	"2003"	"2003"	38	Not Available	Not Available
+	"Connecticut"	"09"	"Under 15 years"	"15"	"2004"	"2004"	39	Not Available	Not Available
+	"Connecticut"	"09"	"Under 15 years"	"15"	"2005"	"2005"	29	Not Available	Not Available
+	"Connecticut"	"09"	"Under 15 years"	"15"	"2006"	"2006"	34	Not Available	Not Available
+	"Connecticut"	"09"	"15-19 years"	"15-19"	"2003"	"2003"	2840	115313	24.63
+	"Connecticut"	"09"	"15-19 years"	"15-19"	"2004"	"2004"	2867	117644	24.37
+	"Connecticut"	"09"	"15-19 years"	"15-19"	"2005"	"2005"	2813	120587	23.33
+	"Connecticut"	"09"	"15-19 years"	"15-19"	"2006"	"2006"	2875	122279	23.51
+	"Connecticut"	"09"	"20-24 years"	"20-24"	"2003"	"2003"	7106	97403	72.95
+	"Connecticut"	"09"	"20-24 years"	"20-24"	"2004"	"2004"	6822	99075	68.86
+	"Connecticut"	"09"	"20-24 years"	"20-24"	"2005"	"2005"	7034	101706	69.16
+	"Connecticut"	"09"	"20-24 years"	"20-24"	"2006"	"2006"	7289	104266	69.91
+	"Connecticut"	"09"	"25-29 years"	"25-29"	"2003"	"2003"	9753	95516	102.11
+	"Connecticut"	"09"	"25-29 years"	"25-29"	"2004"	"2004"	9924	96270	103.09
+	"Connecticut"	"09"	"25-29 years"	"25-29"	"2005"	"2005"	9868	96649	102.10
+	"Connecticut"	"09"	"25-29 years"	"25-29"	"2006"	"2006"	10228	97813	104.57
+	"Connecticut"	"09"	"30-34 years"	"30-34"	"2003"	"2003"	13677	119747	114.22
+	"Connecticut"	"09"	"30-34 years"	"30-34"	"2004"	"2004"	12878	114846	112.13
+	"Connecticut"	"09"	"30-34 years"	"30-34"	"2005"	"2005"	12407	109343	113.47
+	"Connecticut"	"09"	"30-34 years"	"30-34"	"2006"	"2006"	11961	105250	113.64
+	"Connecticut"	"09"	"35-39 years"	"35-39"	"2003"	"2003"	7723	139135	55.51
+	"Connecticut"	"09"	"35-39 years"	"35-39"	"2004"	"2004"	7795	134759	57.84
+	"Connecticut"	"09"	"35-39 years"	"35-39"	"2005"	"2005"	7754	132162	58.67
+	"Connecticut"	"09"	"35-39 years"	"35-39"	"2006"	"2006"	7575	129584	58.46
+	"Connecticut"	"09"	"40-44 years"	"40-44"	"2003"	"2003"	1636	150979	10.84
+	"Connecticut"	"09"	"40-44 years"	"40-44"	"2004"	"2004"	1663	151119	11.00
+	"Connecticut"	"09"	"40-44 years"	"40-44"	"2005"	"2005"	1690	149491	11.31
+	"Connecticut"	"09"	"40-44 years"	"40-44"	"2006"	"2006"	1722	147220	11.70
+	"Connecticut"	"09"	"45-49 years"	"45-49"	"2003"	"2003"	92	Not Available	Not Available
+	"Connecticut"	"09"	"45-49 years"	"45-49"	"2004"	"2004"	99	Not Available	Not Available
+	"Connecticut"	"09"	"45-49 years"	"45-49"	"2005"	"2005"	105	Not Available	Not Available
+	"Connecticut"	"09"	"45-49 years"	"45-49"	"2006"	"2006"	127	Not Available	Not Available
+	"Connecticut"	"09"	"50 years and over"	"50+"	"2005"	"2005"	18	Not Available	Not Available
+	"Delaware"	"10"	"Under 15 years"	"15"	"2003"	"2003"	22	Not Available	Not Available
+	"Delaware"	"10"	"Under 15 years"	"15"	"2004"	"2004"	19	Not Available	Not Available
+	"Delaware"	"10"	"Under 15 years"	"15"	"2005"	"2005"	17	Not Available	Not Available
+	"Delaware"	"10"	"Under 15 years"	"15"	"2006"	"2006"	25	Not Available	Not Available
+	"Delaware"	"10"	"15-19 years"	"15-19"	"2003"	"2003"	1206	28962	41.64
+	"Delaware"	"10"	"15-19 years"	"15-19"	"2004"	"2004"	1181	29555	39.96
+	"Delaware"	"10"	"15-19 years"	"15-19"	"2005"	"2005"	1225	30564	40.08
+	"Delaware"	"10"	"15-19 years"	"15-19"	"2006"	"2006"	1263	31131	40.57
+	"Delaware"	"10"	"20-24 years"	"20-24"	"2003"	"2003"	2918	29014	100.57
+	"Delaware"	"10"	"20-24 years"	"20-24"	"2004"	"2004"	2865	28612	100.13
+	"Delaware"	"10"	"20-24 years"	"20-24"	"2005"	"2005"	2936	28981	101.31
+	"Delaware"	"10"	"20-24 years"	"20-24"	"2006"	"2006"	3079	29200	105.45
+	"Delaware"	"10"	"25-29 years"	"25-29"	"2003"	"2003"	2874	25561	112.44
+	"Delaware"	"10"	"25-29 years"	"25-29"	"2004"	"2004"	2988	27210	109.81
+	"Delaware"	"10"	"25-29 years"	"25-29"	"2005"	"2005"	3108	28209	110.18
+	"Delaware"	"10"	"25-29 years"	"25-29"	"2006"	"2006"	3250	29359	110.70
+	"Delaware"	"10"	"30-34 years"	"30-34"	"2003"	"2003"	2811	27632	101.73
+	"Delaware"	"10"	"30-34 years"	"30-34"	"2004"	"2004"	2696	27120	99.41
+	"Delaware"	"10"	"30-34 years"	"30-34"	"2005"	"2005"	2740	26507	103.37
+	"Delaware"	"10"	"30-34 years"	"30-34"	"2006"	"2006"	2719	25851	105.18
+	"Delaware"	"10"	"35-39 years"	"35-39"	"2003"	"2003"	1254	31242	40.14
+	"Delaware"	"10"	"35-39 years"	"35-39"	"2004"	"2004"	1321	30549	43.24
+	"Delaware"	"10"	"35-39 years"	"35-39"	"2005"	"2005"	1338	30361	44.07
+	"Delaware"	"10"	"35-39 years"	"35-39"	"2006"	"2006"	1389	30238	45.94
+	"Delaware"	"10"	"40-44 years"	"40-44"	"2003"	"2003"	235	33427	7.03
+	"Delaware"	"10"	"40-44 years"	"40-44"	"2004"	"2004"	282	33754	8.35
+	"Delaware"	"10"	"40-44 years"	"40-44"	"2005"	"2005"	260	33778	7.70
+	"Delaware"	"10"	"40-44 years"	"40-44"	"2006"	"2006"	248	33396	7.43
+	"Delaware"	"10"	"45-49 years"	"45-49"	"2004"	"2004"	17	Not Available	Not Available
+	"Delaware"	"10"	"45-49 years"	"45-49"	"2005"	"2005"	19	Not Available	Not Available
+	"Delaware"	"10"	"45-49 years"	"45-49"	"2006"	"2006"	16	Not Available	Not Available
+	"District of Columbia"	"11"	"Under 15 years"	"15"	"2003"	"2003"	27	Not Available	Not Available
+	"District of Columbia"	"11"	"Under 15 years"	"15"	"2004"	"2004"	23	Not Available	Not Available
+	"District of Columbia"	"11"	"Under 15 years"	"15"	"2005"	"2005"	22	Not Available	Not Available
+	"District of Columbia"	"11"	"Under 15 years"	"15"	"2006"	"2006"	24	Not Available	Not Available
+	"District of Columbia"	"11"	"15-19 years"	"15-19"	"2003"	"2003"	838	19807	42.31
+	"District of Columbia"	"11"	"15-19 years"	"15-19"	"2004"	"2004"	863	19820	43.54
+	"District of Columbia"	"11"	"15-19 years"	"15-19"	"2005"	"2005"	852	20254	42.07
+	"District of Columbia"	"11"	"15-19 years"	"15-19"	"2006"	"2006"	999	20772	48.09
+	"District of Columbia"	"11"	"20-24 years"	"20-24"	"2003"	"2003"	1783	27261	65.40
+	"District of Columbia"	"11"	"20-24 years"	"20-24"	"2004"	"2004"	1867	28073	66.51
+	"District of Columbia"	"11"	"20-24 years"	"20-24"	"2005"	"2005"	1827	28791	63.46
+	"District of Columbia"	"11"	"20-24 years"	"20-24"	"2006"	"2006"	1893	30199	62.68
+	"District of Columbia"	"11"	"25-29 years"	"25-29"	"2003"	"2003"	1578	27792	56.78
+	"District of Columbia"	"11"	"25-29 years"	"25-29"	"2004"	"2004"	1679	28304	59.32
+	"District of Columbia"	"11"	"25-29 years"	"25-29"	"2005"	"2005"	1757	28979	60.63
+	"District of Columbia"	"11"	"25-29 years"	"25-29"	"2006"	"2006"	1951	30217	64.57
+	"District of Columbia"	"11"	"30-34 years"	"30-34"	"2003"	"2003"	1919	25773	74.46
+	"District of Columbia"	"11"	"30-34 years"	"30-34"	"2004"	"2004"	1886	25663	73.49
+	"District of Columbia"	"11"	"30-34 years"	"30-34"	"2005"	"2005"	1860	25166	73.91
+	"District of Columbia"	"11"	"30-34 years"	"30-34"	"2006"	"2006"	1973	25226	78.21
+	"District of Columbia"	"11"	"35-39 years"	"35-39"	"2003"	"2003"	1152	21400	53.83
+	"District of Columbia"	"11"	"35-39 years"	"35-39"	"2004"	"2004"	1265	20861	60.64
+	"District of Columbia"	"11"	"35-39 years"	"35-39"	"2005"	"2005"	1287	21187	60.74
+	"District of Columbia"	"11"	"35-39 years"	"35-39"	"2006"	"2006"	1299	21407	60.68
+	"District of Columbia"	"11"	"40-44 years"	"40-44"	"2003"	"2003"	301	20527	14.66
+	"District of Columbia"	"11"	"40-44 years"	"40-44"	"2004"	"2004"	322	20301	15.86
+	"District of Columbia"	"11"	"40-44 years"	"40-44"	"2005"	"2005"	349	19556	17.85
+	"District of Columbia"	"11"	"40-44 years"	"40-44"	"2006"	"2006"	361	19281	18.72
+	"District of Columbia"	"11"	"45-49 years"	"45-49"	"2003"	"2003"	20	Not Available	Not Available
+	"District of Columbia"	"11"	"45-49 years"	"45-49"	"2004"	"2004"	24	Not Available	Not Available
+	"District of Columbia"	"11"	"45-49 years"	"45-49"	"2005"	"2005"	16	Not Available	Not Available
+	"District of Columbia"	"11"	"45-49 years"	"45-49"	"2006"	"2006"	23	Not Available	Not Available
+	"Florida"	"12"	"Under 15 years"	"15"	"2003"	"2003"	363	Not Available	Not Available
+	"Florida"	"12"	"Under 15 years"	"15"	"2004"	"2004"	405	Not Available	Not Available
+	"Florida"	"12"	"Under 15 years"	"15"	"2005"	"2005"	413	Not Available	Not Available
+	"Florida"	"12"	"Under 15 years"	"15"	"2006"	"2006"	345	Not Available	Not Available
+	"Florida"	"12"	"15-19 years"	"15-19"	"2003"	"2003"	22770	529737	42.98
+	"Florida"	"12"	"15-19 years"	"15-19"	"2004"	"2004"	23407	548497	42.67
+	"Florida"	"12"	"15-19 years"	"15-19"	"2005"	"2005"	24130	570551	42.29
+	"Florida"	"12"	"15-19 years"	"15-19"	"2006"	"2006"	25384	588718	43.12
+	"Florida"	"12"	"20-24 years"	"20-24"	"2003"	"2003"	54473	530781	102.63
+	"Florida"	"12"	"20-24 years"	"20-24"	"2004"	"2004"	56410	550803	102.41
+	"Florida"	"12"	"20-24 years"	"20-24"	"2005"	"2005"	58892	565124	104.21
+	"Florida"	"12"	"20-24 years"	"20-24"	"2006"	"2006"	62132	574546	108.14
+	"Florida"	"12"	"25-29 years"	"25-29"	"2003"	"2003"	54826	487620	112.44
+	"Florida"	"12"	"25-29 years"	"25-29"	"2004"	"2004"	56402	505597	111.56
+	"Florida"	"12"	"25-29 years"	"25-29"	"2005"	"2005"	59831	530397	112.80
+	"Florida"	"12"	"25-29 years"	"25-29"	"2006"	"2006"	63625	559213	113.78
+	"Florida"	"12"	"30-34 years"	"30-34"	"2003"	"2003"	49111	556149	88.31
+	"Florida"	"12"	"30-34 years"	"30-34"	"2004"	"2004"	49681	557992	89.04
+	"Florida"	"12"	"30-34 years"	"30-34"	"2005"	"2005"	50206	556169	90.27
+	"Florida"	"12"	"30-34 years"	"30-34"	"2006"	"2006"	50872	546998	93.00
+	"Florida"	"12"	"35-39 years"	"35-39"	"2003"	"2003"	24868	610302	40.75
+	"Florida"	"12"	"35-39 years"	"35-39"	"2004"	"2004"	25536	603011	42.35
+	"Florida"	"12"	"35-39 years"	"35-39"	"2005"	"2005"	26317	606421	43.40
+	"Florida"	"12"	"35-39 years"	"35-39"	"2006"	"2006"	27908	614409	45.42
+	"Florida"	"12"	"40-44 years"	"40-44"	"2003"	"2003"	5555	663557	8.37
+	"Florida"	"12"	"40-44 years"	"40-44"	"2004"	"2004"	5885	679610	8.66
+	"Florida"	"12"	"40-44 years"	"40-44"	"2005"	"2005"	6071	687836	8.83
+	"Florida"	"12"	"40-44 years"	"40-44"	"2006"	"2006"	6158	683854	9.00
+	"Florida"	"12"	"45-49 years"	"45-49"	"2003"	"2003"	270	Not Available	Not Available
+	"Florida"	"12"	"45-49 years"	"45-49"	"2004"	"2004"	313	Not Available	Not Available
+	"Florida"	"12"	"45-49 years"	"45-49"	"2005"	"2005"	371	Not Available	Not Available
+	"Florida"	"12"	"45-49 years"	"45-49"	"2006"	"2006"	349	Not Available	Not Available
+	"Florida"	"12"	"50 years and over"	"50+"	"2003"	"2003"	14	Not Available	Not Available
+	"Florida"	"12"	"50 years and over"	"50+"	"2004"	"2004"	14	Not Available	Not Available
+	"Florida"	"12"	"50 years and over"	"50+"	"2006"	"2006"	29	Not Available	Not Available
+	"Georgia"	"13"	"Under 15 years"	"15"	"2003"	"2003"	287	Not Available	Not Available
+	"Georgia"	"13"	"Under 15 years"	"15"	"2004"	"2004"	317	Not Available	Not Available
+	"Georgia"	"13"	"Under 15 years"	"15"	"2005"	"2005"	337	Not Available	Not Available
+	"Georgia"	"13"	"Under 15 years"	"15"	"2006"	"2006"	326	Not Available	Not Available
+	"Georgia"	"13"	"15-19 years"	"15-19"	"2003"	"2003"	15864	298811	53.09
+	"Georgia"	"13"	"15-19 years"	"15-19"	"2004"	"2004"	16191	307138	52.72
+	"Georgia"	"13"	"15-19 years"	"15-19"	"2005"	"2005"	16548	318344	51.98
+	"Georgia"	"13"	"15-19 years"	"15-19"	"2006"	"2006"	17693	329203	53.74
+	"Georgia"	"13"	"20-24 years"	"20-24"	"2003"	"2003"	37657	314693	119.66
+	"Georgia"	"13"	"20-24 years"	"20-24"	"2004"	"2004"	38420	318148	120.76
+	"Georgia"	"13"	"20-24 years"	"20-24"	"2005"	"2005"	39249	316003	124.20
+	"Georgia"	"13"	"20-24 years"	"20-24"	"2006"	"2006"	40910	318243	128.55
+	"Georgia"	"13"	"25-29 years"	"25-29"	"2003"	"2003"	35323	303606	116.34
+	"Georgia"	"13"	"25-29 years"	"25-29"	"2004"	"2004"	36587	308494	118.60
+	"Georgia"	"13"	"25-29 years"	"25-29"	"2005"	"2005"	38099	318063	119.78
+	"Georgia"	"13"	"25-29 years"	"25-29"	"2006"	"2006"	40443	332533	121.62
+	"Georgia"	"13"	"30-34 years"	"30-34"	"2003"	"2003"	30676	340248	90.16
+	"Georgia"	"13"	"30-34 years"	"30-34"	"2004"	"2004"	30433	337671	90.13
+	"Georgia"	"13"	"30-34 years"	"30-34"	"2005"	"2005"	30543	334361	91.35
+	"Georgia"	"13"	"30-34 years"	"30-34"	"2006"	"2006"	30657	329702	92.98
+	"Georgia"	"13"	"35-39 years"	"35-39"	"2003"	"2003"	13283	343221	38.70
+	"Georgia"	"13"	"35-39 years"	"35-39"	"2004"	"2004"	13909	339969	40.91
+	"Georgia"	"13"	"35-39 years"	"35-39"	"2005"	"2005"	14410	343246	41.98
+	"Georgia"	"13"	"35-39 years"	"35-39"	"2006"	"2006"	15420	353202	43.66
+	"Georgia"	"13"	"40-44 years"	"40-44"	"2003"	"2003"	2759	351488	7.85
+	"Georgia"	"13"	"40-44 years"	"40-44"	"2004"	"2004"	2861	356323	8.03
+	"Georgia"	"13"	"40-44 years"	"40-44"	"2005"	"2005"	2867	361041	7.94
+	"Georgia"	"13"	"40-44 years"	"40-44"	"2006"	"2006"	3028	362385	8.36
+	"Georgia"	"13"	"45-49 years"	"45-49"	"2003"	"2003"	125	Not Available	Not Available
+	"Georgia"	"13"	"45-49 years"	"45-49"	"2004"	"2004"	127	Not Available	Not Available
+	"Georgia"	"13"	"45-49 years"	"45-49"	"2005"	"2005"	144	Not Available	Not Available
+	"Georgia"	"13"	"45-49 years"	"45-49"	"2006"	"2006"	149	Not Available	Not Available
+	"Hawaii"	"15"	"Under 15 years"	"15"	"2003"	"2003"	22	Not Available	Not Available
+	"Hawaii"	"15"	"Under 15 years"	"15"	"2004"	"2004"	17	Not Available	Not Available
+	"Hawaii"	"15"	"Under 15 years"	"15"	"2005"	"2005"	16	Not Available	Not Available
+	"Hawaii"	"15"	"Under 15 years"	"15"	"2006"	"2006"	15	Not Available	Not Available
+	"Hawaii"	"15"	"15-19 years"	"15-19"	"2003"	"2003"	1502	39174	38.34
+	"Hawaii"	"15"	"15-19 years"	"15-19"	"2004"	"2004"	1448	39821	36.36
+	"Hawaii"	"15"	"15-19 years"	"15-19"	"2005"	"2005"	1480	40589	36.46
+	"Hawaii"	"15"	"15-19 years"	"15-19"	"2006"	"2006"	1619	41542	38.97
+	"Hawaii"	"15"	"20-24 years"	"20-24"	"2003"	"2003"	4543	42311	107.37
+	"Hawaii"	"15"	"20-24 years"	"20-24"	"2004"	"2004"	4630	43577	106.25
+	"Hawaii"	"15"	"20-24 years"	"20-24"	"2005"	"2005"	4383	43541	100.66
+	"Hawaii"	"15"	"20-24 years"	"20-24"	"2006"	"2006"	4668	43740	106.72
+	"Hawaii"	"15"	"25-29 years"	"25-29"	"2003"	"2003"	4515	39426	114.52
+	"Hawaii"	"15"	"25-29 years"	"25-29"	"2004"	"2004"	4748	40982	115.86
+	"Hawaii"	"15"	"25-29 years"	"25-29"	"2005"	"2005"	4780	43123	110.85
+	"Hawaii"	"15"	"25-29 years"	"25-29"	"2006"	"2006"	5123	44717	114.56
+	"Hawaii"	"15"	"30-34 years"	"30-34"	"2003"	"2003"	4351	41902	103.84
+	"Hawaii"	"15"	"30-34 years"	"30-34"	"2004"	"2004"	4353	41740	104.29
+	"Hawaii"	"15"	"30-34 years"	"30-34"	"2005"	"2005"	4108	40879	100.49
+	"Hawaii"	"15"	"30-34 years"	"30-34"	"2006"	"2006"	4273	40275	106.10
+	"Hawaii"	"15"	"35-39 years"	"35-39"	"2003"	"2003"	2542	43852	57.97
+	"Hawaii"	"15"	"35-39 years"	"35-39"	"2004"	"2004"	2420	43420	55.73
+	"Hawaii"	"15"	"35-39 years"	"35-39"	"2005"	"2005"	2494	43403	57.46
+	"Hawaii"	"15"	"35-39 years"	"35-39"	"2006"	"2006"	2599	43852	59.27
+	"Hawaii"	"15"	"40-44 years"	"40-44"	"2003"	"2003"	594	47344	12.55
+	"Hawaii"	"15"	"40-44 years"	"40-44"	"2004"	"2004"	626	47923	13.06
+	"Hawaii"	"15"	"40-44 years"	"40-44"	"2005"	"2005"	625	47324	13.21
+	"Hawaii"	"15"	"40-44 years"	"40-44"	"2006"	"2006"	646	46739	13.82
+	"Hawaii"	"15"	"45-49 years"	"45-49"	"2003"	"2003"	31	Not Available	Not Available
+	"Hawaii"	"15"	"45-49 years"	"45-49"	"2004"	"2004"	36	Not Available	Not Available
+	"Hawaii"	"15"	"45-49 years"	"45-49"	"2005"	"2005"	38	Not Available	Not Available
+	"Hawaii"	"15"	"45-49 years"	"45-49"	"2006"	"2006"	37	Not Available	Not Available
+	"Idaho"	"16"	"Under 15 years"	"15"	"2003"	"2003"	19	Not Available	Not Available
+	"Idaho"	"16"	"Under 15 years"	"15"	"2004"	"2004"	14	Not Available	Not Available
+	"Idaho"	"16"	"Under 15 years"	"15"	"2005"	"2005"	19	Not Available	Not Available
+	"Idaho"	"16"	"Under 15 years"	"15"	"2006"	"2006"	18	Not Available	Not Available
+	"Idaho"	"16"	"15-19 years"	"15-19"	"2003"	"2003"	2075	54143	38.32
+	"Idaho"	"16"	"15-19 years"	"15-19"	"2004"	"2004"	2050	54631	37.52
+	"Idaho"	"16"	"15-19 years"	"15-19"	"2005"	"2005"	2015	55386	36.38
+	"Idaho"	"16"	"15-19 years"	"15-19"	"2006"	"2006"	2140	56123	38.13
+	"Idaho"	"16"	"20-24 years"	"20-24"	"2003"	"2003"	6924	50644	136.72
+	"Idaho"	"16"	"20-24 years"	"20-24"	"2004"	"2004"	7182	51428	139.65
+	"Idaho"	"16"	"20-24 years"	"20-24"	"2005"	"2005"	7181	52112	137.80
+	"Idaho"	"16"	"20-24 years"	"20-24"	"2006"	"2006"	7510	52795	142.25
+	"Idaho"	"16"	"25-29 years"	"25-29"	"2003"	"2003"	6487	42268	153.47
+	"Idaho"	"16"	"25-29 years"	"25-29"	"2004"	"2004"	6747	43989	153.38
+	"Idaho"	"16"	"25-29 years"	"25-29"	"2005"	"2005"	7136	46485	153.51
+	"Idaho"	"16"	"25-29 years"	"25-29"	"2006"	"2006"	7667	48738	157.31
+	"Idaho"	"16"	"30-34 years"	"30-34"	"2003"	"2003"	4224	43223	97.73
+	"Idaho"	"16"	"30-34 years"	"30-34"	"2004"	"2004"	4339	43486	99.78
+	"Idaho"	"16"	"30-34 years"	"30-34"	"2005"	"2005"	4389	44112	99.50
+	"Idaho"	"16"	"30-34 years"	"30-34"	"2006"	"2006"	4534	44428	102.05
+	"Idaho"	"16"	"35-39 years"	"35-39"	"2003"	"2003"	1708	43632	39.15
+	"Idaho"	"16"	"35-39 years"	"35-39"	"2004"	"2004"	1781	43567	40.88
+	"Idaho"	"16"	"35-39 years"	"35-39"	"2005"	"2005"	1889	44487	42.46
+	"Idaho"	"16"	"35-39 years"	"35-39"	"2006"	"2006"	1942	46130	42.10
+	"Idaho"	"16"	"40-44 years"	"40-44"	"2003"	"2003"	343	49668	6.91
+	"Idaho"	"16"	"40-44 years"	"40-44"	"2004"	"2004"	387	49786	7.77
+	"Idaho"	"16"	"40-44 years"	"40-44"	"2005"	"2005"	404	49529	8.16
+	"Idaho"	"16"	"40-44 years"	"40-44"	"2006"	"2006"	350	48902	7.16
+	"Idaho"	"16"	"45-49 years"	"45-49"	"2003"	"2003"	18	Not Available	Not Available
+	"Idaho"	"16"	"45-49 years"	"45-49"	"2004"	"2004"	30	Not Available	Not Available
+	"Idaho"	"16"	"45-49 years"	"45-49"	"2005"	"2005"	23	Not Available	Not Available
+	"Idaho"	"16"	"45-49 years"	"45-49"	"2006"	"2006"	18	Not Available	Not Available
+	"Illinois"	"17"	"Under 15 years"	"15"	"2003"	"2003"	277	Not Available	Not Available
+	"Illinois"	"17"	"Under 15 years"	"15"	"2004"	"2004"	296	Not Available	Not Available
+	"Illinois"	"17"	"Under 15 years"	"15"	"2005"	"2005"	319	Not Available	Not Available
+	"Illinois"	"17"	"Under 15 years"	"15"	"2006"	"2006"	275	Not Available	Not Available
+	"Illinois"	"17"	"15-19 years"	"15-19"	"2003"	"2003"	17405	432588	40.23
+	"Illinois"	"17"	"15-19 years"	"15-19"	"2004"	"2004"	17520	436926	40.10
+	"Illinois"	"17"	"15-19 years"	"15-19"	"2005"	"2005"	17041	442469	38.51
+	"Illinois"	"17"	"15-19 years"	"15-19"	"2006"	"2006"	17752	446264	39.78
+	"Illinois"	"17"	"20-24 years"	"20-24"	"2003"	"2003"	42141	434837	96.91
+	"Illinois"	"17"	"20-24 years"	"20-24"	"2004"	"2004"	40941	436052	93.89
+	"Illinois"	"17"	"20-24 years"	"20-24"	"2005"	"2005"	39829	434166	91.74
+	"Illinois"	"17"	"20-24 years"	"20-24"	"2006"	"2006"	40564	430846	94.15
+	"Illinois"	"17"	"25-29 years"	"25-29"	"2003"	"2003"	48347	420611	114.94
+	"Illinois"	"17"	"25-29 years"	"25-29"	"2004"	"2004"	48283	423064	114.13
+	"Illinois"	"17"	"25-29 years"	"25-29"	"2005"	"2005"	49280	428576	114.99
+	"Illinois"	"17"	"25-29 years"	"25-29"	"2006"	"2006"	50121	439604	114.01
+	"Illinois"	"17"	"30-34 years"	"30-34"	"2003"	"2003"	46680	453238	102.99
+	"Illinois"	"17"	"30-34 years"	"30-34"	"2004"	"2004"	46017	444974	103.42
+	"Illinois"	"17"	"30-34 years"	"30-34"	"2005"	"2005"	44597	433781	102.81
+	"Illinois"	"17"	"30-34 years"	"30-34"	"2006"	"2006"	43827	423430	103.50
+	"Illinois"	"17"	"35-39 years"	"35-39"	"2003"	"2003"	22852	461777	49.49
+	"Illinois"	"17"	"35-39 years"	"35-39"	"2004"	"2004"	22782	450999	50.51
+	"Illinois"	"17"	"35-39 years"	"35-39"	"2005"	"2005"	23052	446753	51.60
+	"Illinois"	"17"	"35-39 years"	"35-39"	"2006"	"2006"	23053	448206	51.43
+	"Illinois"	"17"	"40-44 years"	"40-44"	"2003"	"2003"	4543	499315	9.10
+	"Illinois"	"17"	"40-44 years"	"40-44"	"2004"	"2004"	4637	494901	9.37
+	"Illinois"	"17"	"40-44 years"	"40-44"	"2005"	"2005"	4638	485896	9.55
+	"Illinois"	"17"	"40-44 years"	"40-44"	"2006"	"2006"	4663	472789	9.86
+	"Illinois"	"17"	"45-49 years"	"45-49"	"2003"	"2003"	246	Not Available	Not Available
+	"Illinois"	"17"	"45-49 years"	"45-49"	"2004"	"2004"	286	Not Available	Not Available
+	"Illinois"	"17"	"45-49 years"	"45-49"	"2005"	"2005"	250	Not Available	Not Available
+	"Illinois"	"17"	"45-49 years"	"45-49"	"2006"	"2006"	306	Not Available	Not Available
+	"Illinois"	"17"	"50 years and over"	"50+"	"2004"	"2004"	16	Not Available	Not Available
+	"Illinois"	"17"	"50 years and over"	"50+"	"2005"	"2005"	14	Not Available	Not Available
+	"Illinois"	"17"	"50 years and over"	"50+"	"2006"	"2006"	11	Not Available	Not Available
+	"Indiana"	"18"	"Under 15 years"	"15"	"2003"	"2003"	130	Not Available	Not Available
+	"Indiana"	"18"	"Under 15 years"	"15"	"2004"	"2004"	117	Not Available	Not Available
+	"Indiana"	"18"	"Under 15 years"	"15"	"2005"	"2005"	107	Not Available	Not Available
+	"Indiana"	"18"	"Under 15 years"	"15"	"2006"	"2006"	115	Not Available	Not Available
+	"Indiana"	"18"	"15-19 years"	"15-19"	"2003"	"2003"	9378	220090	42.61
+	"Indiana"	"18"	"15-19 years"	"15-19"	"2004"	"2004"	9478	222520	42.59
+	"Indiana"	"18"	"15-19 years"	"15-19"	"2005"	"2005"	9508	225603	42.14
+	"Indiana"	"18"	"15-19 years"	"15-19"	"2006"	"2006"	9549	228677	41.76
+	"Indiana"	"18"	"20-24 years"	"20-24"	"2003"	"2003"	25043	223526	112.04
+	"Indiana"	"18"	"20-24 years"	"20-24"	"2004"	"2004"	24966	224039	111.44
+	"Indiana"	"18"	"20-24 years"	"20-24"	"2005"	"2005"	24931	222589	112.00
+	"Indiana"	"18"	"20-24 years"	"20-24"	"2006"	"2006"	25652	221392	115.87
+	"Indiana"	"18"	"25-29 years"	"25-29"	"2003"	"2003"	24891	192750	129.14
+	"Indiana"	"18"	"25-29 years"	"25-29"	"2004"	"2004"	25303	194963	129.78
+	"Indiana"	"18"	"25-29 years"	"25-29"	"2005"	"2005"	25784	199981	128.93
+	"Indiana"	"18"	"25-29 years"	"25-29"	"2006"	"2006"	26424	205971	128.29
+	"Indiana"	"18"	"30-34 years"	"30-34"	"2003"	"2003"	18207	209122	87.06
+	"Indiana"	"18"	"30-34 years"	"30-34"	"2004"	"2004"	18202	206621	88.09
+	"Indiana"	"18"	"30-34 years"	"30-34"	"2005"	"2005"	17829	202989	87.83
+	"Indiana"	"18"	"30-34 years"	"30-34"	"2006"	"2006"	17672	198022	89.24
+	"Indiana"	"18"	"35-39 years"	"35-39"	"2003"	"2003"	7277	219619	33.13
+	"Indiana"	"18"	"35-39 years"	"35-39"	"2004"	"2004"	7423	213369	34.79
+	"Indiana"	"18"	"35-39 years"	"35-39"	"2005"	"2005"	7421	211705	35.05
+	"Indiana"	"18"	"35-39 years"	"35-39"	"2006"	"2006"	7729	213808	36.15
+	"Indiana"	"18"	"40-44 years"	"40-44"	"2003"	"2003"	1437	242887	5.92
+	"Indiana"	"18"	"40-44 years"	"40-44"	"2004"	"2004"	1588	241962	6.56
+	"Indiana"	"18"	"40-44 years"	"40-44"	"2005"	"2005"	1529	238706	6.41
+	"Indiana"	"18"	"40-44 years"	"40-44"	"2006"	"2006"	1411	232741	6.06
+	"Indiana"	"18"	"45-49 years"	"45-49"	"2003"	"2003"	70	Not Available	Not Available
+	"Indiana"	"18"	"45-49 years"	"45-49"	"2004"	"2004"	61	Not Available	Not Available
+	"Indiana"	"18"	"45-49 years"	"45-49"	"2005"	"2005"	76	Not Available	Not Available
+	"Indiana"	"18"	"45-49 years"	"45-49"	"2006"	"2006"	77	Not Available	Not Available
+	"Iowa"	"19"	"Under 15 years"	"15"	"2003"	"2003"	36	Not Available	Not Available
+	"Iowa"	"19"	"Under 15 years"	"15"	"2004"	"2004"	25	Not Available	Not Available
+	"Iowa"	"19"	"Under 15 years"	"15"	"2005"	"2005"	31	Not Available	Not Available
+	"Iowa"	"19"	"Under 15 years"	"15"	"2006"	"2006"	30	Not Available	Not Available
+	"Iowa"	"19"	"15-19 years"	"15-19"	"2003"	"2003"	3296	107851	30.56
+	"Iowa"	"19"	"15-19 years"	"15-19"	"2004"	"2004"	3238	107419	30.14
+	"Iowa"	"19"	"15-19 years"	"15-19"	"2005"	"2005"	3330	107179	31.07
+	"Iowa"	"19"	"15-19 years"	"15-19"	"2006"	"2006"	3495	107353	32.56
+	"Iowa"	"19"	"20-24 years"	"20-24"	"2003"	"2003"	10062	105938	94.98
+	"Iowa"	"19"	"20-24 years"	"20-24"	"2004"	"2004"	9967	107918	92.36
+	"Iowa"	"19"	"20-24 years"	"20-24"	"2005"	"2005"	10363	107910	96.03
+	"Iowa"	"19"	"20-24 years"	"20-24"	"2006"	"2006"	10668	107909	98.86
+	"Iowa"	"19"	"25-29 years"	"25-29"	"2003"	"2003"	11884	81954	145.01
+	"Iowa"	"19"	"25-29 years"	"25-29"	"2004"	"2004"	12279	82585	148.68
+	"Iowa"	"19"	"25-29 years"	"25-29"	"2005"	"2005"	12697	84188	150.82
+	"Iowa"	"19"	"25-29 years"	"25-29"	"2006"	"2006"	13376	86562	154.53
+	"Iowa"	"19"	"30-34 years"	"30-34"	"2003"	"2003"	8824	90538	97.46
+	"Iowa"	"19"	"30-34 years"	"30-34"	"2004"	"2004"	8676	88833	97.67
+	"Iowa"	"19"	"30-34 years"	"30-34"	"2005"	"2005"	8464	88056	96.12
+	"Iowa"	"19"	"30-34 years"	"30-34"	"2006"	"2006"	8598	86078	99.89
+	"Iowa"	"19"	"35-39 years"	"35-39"	"2003"	"2003"	3410	95479	35.71
+	"Iowa"	"19"	"35-39 years"	"35-39"	"2004"	"2004"	3548	92697	38.28
+	"Iowa"	"19"	"35-39 years"	"35-39"	"2005"	"2005"	3703	91409	40.51
+	"Iowa"	"19"	"35-39 years"	"35-39"	"2006"	"2006"	3746	92204	40.63
+	"Iowa"	"19"	"40-44 years"	"40-44"	"2003"	"2003"	632	112467	5.62
+	"Iowa"	"19"	"40-44 years"	"40-44"	"2004"	"2004"	668	111624	5.98
+	"Iowa"	"19"	"40-44 years"	"40-44"	"2005"	"2005"	685	108607	6.31
+	"Iowa"	"19"	"40-44 years"	"40-44"	"2006"	"2006"	656	104441	6.28
+	"Iowa"	"19"	"45-49 years"	"45-49"	"2003"	"2003"	28	Not Available	Not Available
+	"Iowa"	"19"	"45-49 years"	"45-49"	"2004"	"2004"	34	Not Available	Not Available
+	"Iowa"	"19"	"45-49 years"	"45-49"	"2005"	"2005"	38	Not Available	Not Available
+	"Iowa"	"19"	"45-49 years"	"45-49"	"2006"	"2006"	37	Not Available	Not Available
+	"Kansas"	"20"	"Under 15 years"	"15"	"2003"	"2003"	41	Not Available	Not Available
+	"Kansas"	"20"	"Under 15 years"	"15"	"2004"	"2004"	47	Not Available	Not Available
+	"Kansas"	"20"	"Under 15 years"	"15"	"2005"	"2005"	47	Not Available	Not Available
+	"Kansas"	"20"	"Under 15 years"	"15"	"2006"	"2006"	57	Not Available	Not Available
+	"Kansas"	"20"	"15-19 years"	"15-19"	"2003"	"2003"	4100	101716	40.31
+	"Kansas"	"20"	"15-19 years"	"15-19"	"2004"	"2004"	4013	101185	39.66
+	"Kansas"	"20"	"15-19 years"	"15-19"	"2005"	"2005"	4055	101110	40.10
+	"Kansas"	"20"	"15-19 years"	"15-19"	"2006"	"2006"	4109	100353	40.95
+	"Kansas"	"20"	"20-24 years"	"20-24"	"2003"	"2003"	11150	100429	111.02
+	"Kansas"	"20"	"20-24 years"	"20-24"	"2004"	"2004"	11241	102405	109.77
+	"Kansas"	"20"	"20-24 years"	"20-24"	"2005"	"2005"	11441	103199	110.86
+	"Kansas"	"20"	"20-24 years"	"20-24"	"2006"	"2006"	11588	102516	113.04
+	"Kansas"	"20"	"25-29 years"	"25-29"	"2003"	"2003"	11147	80009	139.32
+	"Kansas"	"20"	"25-29 years"	"25-29"	"2004"	"2004"	11484	80710	142.29
+	"Kansas"	"20"	"25-29 years"	"25-29"	"2005"	"2005"	11643	81791	142.35
+	"Kansas"	"20"	"25-29 years"	"25-29"	"2006"	"2006"	12328	84961	145.10
+	"Kansas"	"20"	"30-34 years"	"30-34"	"2003"	"2003"	8650	87629	98.71
+	"Kansas"	"20"	"30-34 years"	"30-34"	"2004"	"2004"	8464	86685	97.64
+	"Kansas"	"20"	"30-34 years"	"30-34"	"2005"	"2005"	8225	85316	96.41
+	"Kansas"	"20"	"30-34 years"	"30-34"	"2006"	"2006"	8323	83278	99.94
+	"Kansas"	"20"	"35-39 years"	"35-39"	"2003"	"2003"	3580	90067	39.75
+	"Kansas"	"20"	"35-39 years"	"35-39"	"2004"	"2004"	3605	87016	41.43
+	"Kansas"	"20"	"35-39 years"	"35-39"	"2005"	"2005"	3680	86296	42.64
+	"Kansas"	"20"	"35-39 years"	"35-39"	"2006"	"2006"	3741	87122	42.94
+	"Kansas"	"20"	"40-44 years"	"40-44"	"2003"	"2003"	760	106239	7.15
+	"Kansas"	"20"	"40-44 years"	"40-44"	"2004"	"2004"	769	104941	7.33
+	"Kansas"	"20"	"40-44 years"	"40-44"	"2005"	"2005"	757	102068	7.42
+	"Kansas"	"20"	"40-44 years"	"40-44"	"2006"	"2006"	771	97629	7.90
+	"Kansas"	"20"	"45-49 years"	"45-49"	"2003"	"2003"	43	Not Available	Not Available
+	"Kansas"	"20"	"45-49 years"	"45-49"	"2004"	"2004"	44	Not Available	Not Available
+	"Kansas"	"20"	"45-49 years"	"45-49"	"2005"	"2005"	40	Not Available	Not Available
+	"Kansas"	"20"	"45-49 years"	"45-49"	"2006"	"2006"	45	Not Available	Not Available
+	"Kentucky"	"21"	"Under 15 years"	"15"	"2003"	"2003"	115	Not Available	Not Available
+	"Kentucky"	"21"	"Under 15 years"	"15"	"2004"	"2004"	100	Not Available	Not Available
+	"Kentucky"	"21"	"Under 15 years"	"15"	"2005"	"2005"	79	Not Available	Not Available
+	"Kentucky"	"21"	"Under 15 years"	"15"	"2006"	"2006"	80	Not Available	Not Available
+	"Kentucky"	"21"	"15-19 years"	"15-19"	"2003"	"2003"	6752	137147	49.23
+	"Kentucky"	"21"	"15-19 years"	"15-19"	"2004"	"2004"	6702	137726	48.66
+	"Kentucky"	"21"	"15-19 years"	"15-19"	"2005"	"2005"	6726	139781	48.12
+	"Kentucky"	"21"	"15-19 years"	"15-19"	"2006"	"2006"	7412	141657	52.32
+	"Kentucky"	"21"	"20-24 years"	"20-24"	"2003"	"2003"	17102	149498	114.40
+	"Kentucky"	"21"	"20-24 years"	"20-24"	"2004"	"2004"	17077	149125	114.51
+	"Kentucky"	"21"	"20-24 years"	"20-24"	"2005"	"2005"	17197	146652	117.26
+	"Kentucky"	"21"	"20-24 years"	"20-24"	"2006"	"2006"	17582	142648	123.25
+	"Kentucky"	"21"	"25-29 years"	"25-29"	"2003"	"2003"	15336	131109	116.97
+	"Kentucky"	"21"	"25-29 years"	"25-29"	"2004"	"2004"	15518	132494	117.12
+	"Kentucky"	"21"	"25-29 years"	"25-29"	"2005"	"2005"	16315	136318	119.68
+	"Kentucky"	"21"	"25-29 years"	"25-29"	"2006"	"2006"	16944	141836	119.46
+	"Kentucky"	"21"	"30-34 years"	"30-34"	"2003"	"2003"	10736	143249	74.95
+	"Kentucky"	"21"	"30-34 years"	"30-34"	"2004"	"2004"	10875	141308	76.96
+	"Kentucky"	"21"	"30-34 years"	"30-34"	"2005"	"2005"	10794	139196	77.55
+	"Kentucky"	"21"	"30-34 years"	"30-34"	"2006"	"2006"	10711	135155	79.25
+	"Kentucky"	"21"	"35-39 years"	"35-39"	"2003"	"2003"	4327	150027	28.84
+	"Kentucky"	"21"	"35-39 years"	"35-39"	"2004"	"2004"	4565	146388	31.18
+	"Kentucky"	"21"	"35-39 years"	"35-39"	"2005"	"2005"	4436	144574	30.68
+	"Kentucky"	"21"	"35-39 years"	"35-39"	"2006"	"2006"	4613	146160	31.56
+	"Kentucky"	"21"	"40-44 years"	"40-44"	"2003"	"2003"	827	163097	5.07
+	"Kentucky"	"21"	"40-44 years"	"40-44"	"2004"	"2004"	850	162750	5.22
+	"Kentucky"	"21"	"40-44 years"	"40-44"	"2005"	"2005"	847	161375	5.25
+	"Kentucky"	"21"	"40-44 years"	"40-44"	"2006"	"2006"	851	158607	5.37
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"2003"	"2003"	39	Not Available	Not Available
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"2004"	"2004"	32	Not Available	Not Available
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"2005"	"2005"	46	Not Available	Not Available
+	"Kentucky"	"21"	"45-49 years"	"45-49"	"2006"	"2006"	50	Not Available	Not Available
+	"Louisiana"	"22"	"Under 15 years"	"15"	"2003"	"2003"	184	Not Available	Not Available
+	"Louisiana"	"22"	"Under 15 years"	"15"	"2004"	"2004"	187	Not Available	Not Available
+	"Louisiana"	"22"	"Under 15 years"	"15"	"2005"	"2005"	172	Not Available	Not Available
+	"Louisiana"	"22"	"Under 15 years"	"15"	"2006"	"2006"	188	Not Available	Not Available
+	"Louisiana"	"22"	"15-19 years"	"15-19"	"2003"	"2003"	9519	173763	54.78
+	"Louisiana"	"22"	"15-19 years"	"15-19"	"2004"	"2004"	9453	172976	54.65
+	"Louisiana"	"22"	"15-19 years"	"15-19"	"2005"	"2005"	8151	172155	47.35
+	"Louisiana"	"22"	"15-19 years"	"15-19"	"2006"	"2006"	8628	160905	53.62
+	"Louisiana"	"22"	"20-24 years"	"20-24"	"2003"	"2003"	21383	180472	118.48
+	"Louisiana"	"22"	"20-24 years"	"20-24"	"2004"	"2004"	21766	182028	119.58
+	"Louisiana"	"22"	"20-24 years"	"20-24"	"2005"	"2005"	20007	180269	110.98
+	"Louisiana"	"22"	"20-24 years"	"20-24"	"2006"	"2006"	21072	163849	128.61
+	"Louisiana"	"22"	"25-29 years"	"25-29"	"2003"	"2003"	16782	146073	114.89
+	"Louisiana"	"22"	"25-29 years"	"25-29"	"2004"	"2004"	17187	151224	113.65
+	"Louisiana"	"22"	"25-29 years"	"25-29"	"2005"	"2005"	16798	157865	106.41
+	"Louisiana"	"22"	"25-29 years"	"25-29"	"2006"	"2006"	17644	151176	116.71
+	"Louisiana"	"22"	"30-34 years"	"30-34"	"2003"	"2003"	11326	151286	74.86
+	"Louisiana"	"22"	"30-34 years"	"30-34"	"2004"	"2004"	10957	148820	73.63
+	"Louisiana"	"22"	"30-34 years"	"30-34"	"2005"	"2005"	10223	146036	70.00
+	"Louisiana"	"22"	"30-34 years"	"30-34"	"2006"	"2006"	10274	130715	78.60
+	"Louisiana"	"22"	"35-39 years"	"35-39"	"2003"	"2003"	4880	160027	30.49
+	"Louisiana"	"22"	"35-39 years"	"35-39"	"2004"	"2004"	4741	155497	30.49
+	"Louisiana"	"22"	"35-39 years"	"35-39"	"2005"	"2005"	4555	153221	29.73
+	"Louisiana"	"22"	"35-39 years"	"35-39"	"2006"	"2006"	4577	142649	32.09
+	"Louisiana"	"22"	"40-44 years"	"40-44"	"2003"	"2003"	913	177705	5.14
+	"Louisiana"	"22"	"40-44 years"	"40-44"	"2004"	"2004"	1027	176837	5.81
+	"Louisiana"	"22"	"40-44 years"	"40-44"	"2005"	"2005"	981	173090	5.67
+	"Louisiana"	"22"	"40-44 years"	"40-44"	"2006"	"2006"	949	158571	5.98
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"2003"	"2003"	53	Not Available	Not Available
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"2004"	"2004"	49	Not Available	Not Available
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"2005"	"2005"	46	Not Available	Not Available
+	"Louisiana"	"22"	"45-49 years"	"45-49"	"2006"	"2006"	42	Not Available	Not Available
+	"Maine"	"23"	"Under 15 years"	"15"	"2005"	"2005"	11	Not Available	Not Available
+	"Maine"	"23"	"15-19 years"	"15-19"	"2003"	"2003"	1133	45488	24.91
+	"Maine"	"23"	"15-19 years"	"15-19"	"2004"	"2004"	1109	45548	24.35
+	"Maine"	"23"	"15-19 years"	"15-19"	"2005"	"2005"	1112	45651	24.36
+	"Maine"	"23"	"15-19 years"	"15-19"	"2006"	"2006"	1133	45514	24.89
+	"Maine"	"23"	"20-24 years"	"20-24"	"2003"	"2003"	3390	37778	89.73
+	"Maine"	"23"	"20-24 years"	"20-24"	"2004"	"2004"	3436	38293	89.73
+	"Maine"	"23"	"20-24 years"	"20-24"	"2005"	"2005"	3513	39210	89.59
+	"Maine"	"23"	"20-24 years"	"20-24"	"2006"	"2006"	3591	39488	90.94
+	"Maine"	"23"	"25-29 years"	"25-29"	"2003"	"2003"	3846	34667	110.94
+	"Maine"	"23"	"25-29 years"	"25-29"	"2004"	"2004"	4013	35304	113.67
+	"Maine"	"23"	"25-29 years"	"25-29"	"2005"	"2005"	4067	35600	114.24
+	"Maine"	"23"	"25-29 years"	"25-29"	"2006"	"2006"	4121	35828	115.02
+	"Maine"	"23"	"30-34 years"	"30-34"	"2003"	"2003"	3531	41251	85.60
+	"Maine"	"23"	"30-34 years"	"30-34"	"2004"	"2004"	3435	40094	85.67
+	"Maine"	"23"	"30-34 years"	"30-34"	"2005"	"2005"	3398	38436	88.41
+	"Maine"	"23"	"30-34 years"	"30-34"	"2006"	"2006"	3284	37178	88.33
+	"Maine"	"23"	"35-39 years"	"35-39"	"2003"	"2003"	1589	48914	32.49
+	"Maine"	"23"	"35-39 years"	"35-39"	"2004"	"2004"	1603	47165	33.99
+	"Maine"	"23"	"35-39 years"	"35-39"	"2005"	"2005"	1691	46152	36.64
+	"Maine"	"23"	"35-39 years"	"35-39"	"2006"	"2006"	1686	45608	36.97
+	"Maine"	"23"	"40-44 years"	"40-44"	"2003"	"2003"	337	56112	6.01
+	"Maine"	"23"	"40-44 years"	"40-44"	"2004"	"2004"	323	55697	5.80
+	"Maine"	"23"	"40-44 years"	"40-44"	"2005"	"2005"	294	54661	5.38
+	"Maine"	"23"	"40-44 years"	"40-44"	"2006"	"2006"	311	52909	5.88
+	"Maine"	"23"	"45-49 years"	"45-49"	"2003"	"2003"	20	Not Available	Not Available
+	"Maine"	"23"	"45-49 years"	"45-49"	"2004"	"2004"	23	Not Available	Not Available
+	"Maine"	"23"	"45-49 years"	"45-49"	"2005"	"2005"	25	Not Available	Not Available
+	"Maine"	"23"	"45-49 years"	"45-49"	"2006"	"2006"	14	Not Available	Not Available
+	"Maryland"	"24"	"Under 15 years"	"15"	"2003"	"2003"	130	Not Available	Not Available
+	"Maryland"	"24"	"Under 15 years"	"15"	"2004"	"2004"	129	Not Available	Not Available
+	"Maryland"	"24"	"Under 15 years"	"15"	"2005"	"2005"	121	Not Available	Not Available
+	"Maryland"	"24"	"Under 15 years"	"15"	"2006"	"2006"	111	Not Available	Not Available
+	"Maryland"	"24"	"15-19 years"	"15-19"	"2003"	"2003"	6274	186039	33.72
+	"Maryland"	"24"	"15-19 years"	"15-19"	"2004"	"2004"	6245	190776	32.73
+	"Maryland"	"24"	"15-19 years"	"15-19"	"2005"	"2005"	6282	195645	32.11
+	"Maryland"	"24"	"15-19 years"	"15-19"	"2006"	"2006"	6705	199139	33.67
+	"Maryland"	"24"	"20-24 years"	"20-24"	"2003"	"2003"	15014	175167	85.71
+	"Maryland"	"24"	"20-24 years"	"20-24"	"2004"	"2004"	14879	178092	83.55
+	"Maryland"	"24"	"20-24 years"	"20-24"	"2005"	"2005"	15343	180393	85.05
+	"Maryland"	"24"	"20-24 years"	"20-24"	"2006"	"2006"	16365	182242	89.80
+	"Maryland"	"24"	"25-29 years"	"25-29"	"2003"	"2003"	18478	173304	106.62
+	"Maryland"	"24"	"25-29 years"	"25-29"	"2004"	"2004"	18768	178188	105.33
+	"Maryland"	"24"	"25-29 years"	"25-29"	"2005"	"2005"	19126	184118	103.88
+	"Maryland"	"24"	"25-29 years"	"25-29"	"2006"	"2006"	20120	190231	105.77
+	"Maryland"	"24"	"30-34 years"	"30-34"	"2003"	"2003"	21026	201521	104.34
+	"Maryland"	"24"	"30-34 years"	"30-34"	"2004"	"2004"	20410	195414	104.44
+	"Maryland"	"24"	"30-34 years"	"30-34"	"2005"	"2005"	19628	189049	103.82
+	"Maryland"	"24"	"30-34 years"	"30-34"	"2006"	"2006"	19599	183166	107.00
+	"Maryland"	"24"	"35-39 years"	"35-39"	"2003"	"2003"	11417	227518	50.18
+	"Maryland"	"24"	"35-39 years"	"35-39"	"2004"	"2004"	11340	220962	51.32
+	"Maryland"	"24"	"35-39 years"	"35-39"	"2005"	"2005"	11612	217229	53.46
+	"Maryland"	"24"	"35-39 years"	"35-39"	"2006"	"2006"	11667	214791	54.32
+	"Maryland"	"24"	"40-44 years"	"40-44"	"2003"	"2003"	2466	241965	10.19
+	"Maryland"	"24"	"40-44 years"	"40-44"	"2004"	"2004"	2720	244139	11.14
+	"Maryland"	"24"	"40-44 years"	"40-44"	"2005"	"2005"	2694	242628	11.10
+	"Maryland"	"24"	"40-44 years"	"40-44"	"2006"	"2006"	2740	238522	11.49
+	"Maryland"	"24"	"45-49 years"	"45-49"	"2003"	"2003"	116	Not Available	Not Available
+	"Maryland"	"24"	"45-49 years"	"45-49"	"2004"	"2004"	133	Not Available	Not Available
+	"Maryland"	"24"	"45-49 years"	"45-49"	"2005"	"2005"	162	Not Available	Not Available
+	"Maryland"	"24"	"45-49 years"	"45-49"	"2006"	"2006"	176	Not Available	Not Available
+	"Maryland"	"24"	"50 years and over"	"50+"	"2005"	"2005"	12	Not Available	Not Available
+	"Maryland"	"24"	"50 years and over"	"50+"	"2006"	"2006"	11	Not Available	Not Available
+	"Massachusetts"	"25"	"Under 15 years"	"15"	"2003"	"2003"	56	Not Available	Not Available
+	"Massachusetts"	"25"	"Under 15 years"	"15"	"2004"	"2004"	42	Not Available	Not Available
+	"Massachusetts"	"25"	"Under 15 years"	"15"	"2005"	"2005"	59	Not Available	Not Available
+	"Massachusetts"	"25"	"Under 15 years"	"15"	"2006"	"2006"	56	Not Available	Not Available
+	"Massachusetts"	"25"	"15-19 years"	"15-19"	"2003"	"2003"	4643	218363	21.26
+	"Massachusetts"	"25"	"15-19 years"	"15-19"	"2004"	"2004"	4559	222450	20.49
+	"Massachusetts"	"25"	"15-19 years"	"15-19"	"2005"	"2005"	4540	226873	20.01
+	"Massachusetts"	"25"	"15-19 years"	"15-19"	"2006"	"2006"	4724	229846	20.55
+	"Massachusetts"	"25"	"20-24 years"	"20-24"	"2003"	"2003"	11901	215108	55.33
+	"Massachusetts"	"25"	"20-24 years"	"20-24"	"2004"	"2004"	11680	215448	54.21
+	"Massachusetts"	"25"	"20-24 years"	"20-24"	"2005"	"2005"	11809	216807	54.47
+	"Massachusetts"	"25"	"20-24 years"	"20-24"	"2006"	"2006"	12424	221505	56.09
+	"Massachusetts"	"25"	"25-29 years"	"25-29"	"2003"	"2003"	18443	209258	88.14
+	"Massachusetts"	"25"	"25-29 years"	"25-29"	"2004"	"2004"	17923	209294	85.64
+	"Massachusetts"	"25"	"25-29 years"	"25-29"	"2005"	"2005"	18040	209781	85.99
+	"Massachusetts"	"25"	"25-29 years"	"25-29"	"2006"	"2006"	18640	210919	88.38
+	"Massachusetts"	"25"	"30-34 years"	"30-34"	"2003"	"2003"	26832	233215	115.05
+	"Massachusetts"	"25"	"30-34 years"	"30-34"	"2004"	"2004"	25812	223359	115.56
+	"Massachusetts"	"25"	"30-34 years"	"30-34"	"2005"	"2005"	24157	212555	113.65
+	"Massachusetts"	"25"	"30-34 years"	"30-34"	"2006"	"2006"	23611	204192	115.63
+	"Massachusetts"	"25"	"35-39 years"	"35-39"	"2003"	"2003"	14890	256762	57.99
+	"Massachusetts"	"25"	"35-39 years"	"35-39"	"2004"	"2004"	14978	248042	60.38
+	"Massachusetts"	"25"	"35-39 years"	"35-39"	"2005"	"2005"	14748	243108	60.66
+	"Massachusetts"	"25"	"35-39 years"	"35-39"	"2006"	"2006"	14750	238939	61.73
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	"2003"	"2003"	3260	269453	12.10
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	"2004"	"2004"	3309	268487	12.32
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	"2005"	"2005"	3325	264902	12.55
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	"2006"	"2006"	3257	260081	12.52
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"2003"	"2003"	154	Not Available	Not Available
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"2004"	"2004"	176	Not Available	Not Available
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"2005"	"2005"	173	Not Available	Not Available
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	"2006"	"2006"	202	Not Available	Not Available
+	"Massachusetts"	"25"	"50 years and over"	"50+"	"2005"	"2005"	14	Not Available	Not Available
+	"Massachusetts"	"25"	"50 years and over"	"50+"	"2006"	"2006"	12	Not Available	Not Available
+	"Michigan"	"26"	"Under 15 years"	"15"	"2003"	"2003"	177	Not Available	Not Available
+	"Michigan"	"26"	"Under 15 years"	"15"	"2004"	"2004"	211	Not Available	Not Available
+	"Michigan"	"26"	"Under 15 years"	"15"	"2005"	"2005"	200	Not Available	Not Available
+	"Michigan"	"26"	"Under 15 years"	"15"	"2006"	"2006"	170	Not Available	Not Available
+	"Michigan"	"26"	"15-19 years"	"15-19"	"2003"	"2003"	12223	357363	34.20
+	"Michigan"	"26"	"15-19 years"	"15-19"	"2004"	"2004"	12243	360756	33.94
+	"Michigan"	"26"	"15-19 years"	"15-19"	"2005"	"2005"	11809	366583	32.21
+	"Michigan"	"26"	"15-19 years"	"15-19"	"2006"	"2006"	12322	370740	33.24
+	"Michigan"	"26"	"20-24 years"	"20-24"	"2003"	"2003"	31908	342237	93.23
+	"Michigan"	"26"	"20-24 years"	"20-24"	"2004"	"2004"	31319	342633	91.41
+	"Michigan"	"26"	"20-24 years"	"20-24"	"2005"	"2005"	31069	339954	91.39
+	"Michigan"	"26"	"20-24 years"	"20-24"	"2006"	"2006"	30961	335277	92.34
+	"Michigan"	"26"	"25-29 years"	"25-29"	"2003"	"2003"	36724	295212	124.40
+	"Michigan"	"26"	"25-29 years"	"25-29"	"2004"	"2004"	36846	295319	124.77
+	"Michigan"	"26"	"25-29 years"	"25-29"	"2005"	"2005"	36974	297919	124.11
+	"Michigan"	"26"	"25-29 years"	"25-29"	"2006"	"2006"	37294	303211	123.00
+	"Michigan"	"26"	"30-34 years"	"30-34"	"2003"	"2003"	32720	346089	94.54
+	"Michigan"	"26"	"30-34 years"	"30-34"	"2004"	"2004"	31827	336779	94.50
+	"Michigan"	"26"	"30-34 years"	"30-34"	"2005"	"2005"	30459	324266	93.93
+	"Michigan"	"26"	"30-34 years"	"30-34"	"2006"	"2006"	29763	307617	96.75
+	"Michigan"	"26"	"35-39 years"	"35-39"	"2003"	"2003"	14360	362733	39.59
+	"Michigan"	"26"	"35-39 years"	"35-39"	"2004"	"2004"	14214	352457	40.33
+	"Michigan"	"26"	"35-39 years"	"35-39"	"2005"	"2005"	14081	348197	40.44
+	"Michigan"	"26"	"35-39 years"	"35-39"	"2006"	"2006"	14077	346989	40.57
+	"Michigan"	"26"	"40-44 years"	"40-44"	"2003"	"2003"	2839	399813	7.10
+	"Michigan"	"26"	"40-44 years"	"40-44"	"2004"	"2004"	2941	395852	7.43
+	"Michigan"	"26"	"40-44 years"	"40-44"	"2005"	"2005"	2937	387144	7.59
+	"Michigan"	"26"	"40-44 years"	"40-44"	"2006"	"2006"	2733	375781	7.27
+	"Michigan"	"26"	"45-49 years"	"45-49"	"2003"	"2003"	135	Not Available	Not Available
+	"Michigan"	"26"	"45-49 years"	"45-49"	"2004"	"2004"	166	Not Available	Not Available
+	"Michigan"	"26"	"45-49 years"	"45-49"	"2005"	"2005"	168	Not Available	Not Available
+	"Michigan"	"26"	"45-49 years"	"45-49"	"2006"	"2006"	154	Not Available	Not Available
+	"Minnesota"	"27"	"Under 15 years"	"15"	"2003"	"2003"	61	Not Available	Not Available
+	"Minnesota"	"27"	"Under 15 years"	"15"	"2004"	"2004"	70	Not Available	Not Available
+	"Minnesota"	"27"	"Under 15 years"	"15"	"2005"	"2005"	58	Not Available	Not Available
+	"Minnesota"	"27"	"Under 15 years"	"15"	"2006"	"2006"	58	Not Available	Not Available
+	"Minnesota"	"27"	"15-19 years"	"15-19"	"2003"	"2003"	4898	186629	26.24
+	"Minnesota"	"27"	"15-19 years"	"15-19"	"2004"	"2004"	4916	187149	26.27
+	"Minnesota"	"27"	"15-19 years"	"15-19"	"2005"	"2005"	4780	187144	25.54
+	"Minnesota"	"27"	"15-19 years"	"15-19"	"2006"	"2006"	5090	186577	27.28
+	"Minnesota"	"27"	"20-24 years"	"20-24"	"2003"	"2003"	14784	173580	85.17
+	"Minnesota"	"27"	"20-24 years"	"20-24"	"2004"	"2004"	15010	176410	85.09
+	"Minnesota"	"27"	"20-24 years"	"20-24"	"2005"	"2005"	15027	179339	83.79
+	"Minnesota"	"27"	"20-24 years"	"20-24"	"2006"	"2006"	15770	181645	86.82
+	"Minnesota"	"27"	"25-29 years"	"25-29"	"2003"	"2003"	20318	155245	130.88
+	"Minnesota"	"27"	"25-29 years"	"25-29"	"2004"	"2004"	20984	158421	132.46
+	"Minnesota"	"27"	"25-29 years"	"25-29"	"2005"	"2005"	21655	161781	133.85
+	"Minnesota"	"27"	"25-29 years"	"25-29"	"2006"	"2006"	22875	166022	137.78
+	"Minnesota"	"27"	"30-34 years"	"30-34"	"2003"	"2003"	19331	170089	113.65
+	"Minnesota"	"27"	"30-34 years"	"30-34"	"2004"	"2004"	18837	165752	113.65
+	"Minnesota"	"27"	"30-34 years"	"30-34"	"2005"	"2005"	18333	161847	113.27
+	"Minnesota"	"27"	"30-34 years"	"30-34"	"2006"	"2006"	18472	158773	116.34
+	"Minnesota"	"27"	"35-39 years"	"35-39"	"2003"	"2003"	8768	183738	47.72
+	"Minnesota"	"27"	"35-39 years"	"35-39"	"2004"	"2004"	8978	178904	50.18
+	"Minnesota"	"27"	"35-39 years"	"35-39"	"2005"	"2005"	9078	176165	51.53
+	"Minnesota"	"27"	"35-39 years"	"35-39"	"2006"	"2006"	9310	175731	52.98
+	"Minnesota"	"27"	"40-44 years"	"40-44"	"2003"	"2003"	1783	210075	8.49
+	"Minnesota"	"27"	"40-44 years"	"40-44"	"2004"	"2004"	1716	208086	8.25
+	"Minnesota"	"27"	"40-44 years"	"40-44"	"2005"	"2005"	1881	203673	9.24
+	"Minnesota"	"27"	"40-44 years"	"40-44"	"2006"	"2006"	1799	197241	9.12
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"2003"	"2003"	100	Not Available	Not Available
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"2004"	"2004"	102	Not Available	Not Available
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"2005"	"2005"	96	Not Available	Not Available
+	"Minnesota"	"27"	"45-49 years"	"45-49"	"2006"	"2006"	141	Not Available	Not Available
+	"Minnesota"	"27"	"50 years and over"	"50+"	"2004"	"2004"	11	Not Available	Not Available
+	"Minnesota"	"27"	"50 years and over"	"50+"	"2005"	"2005"	11	Not Available	Not Available
+	"Minnesota"	"27"	"50 years and over"	"50+"	"2006"	"2006"	10	Not Available	Not Available
+	"Mississippi"	"28"	"Under 15 years"	"15"	"2003"	"2003"	153	Not Available	Not Available
+	"Mississippi"	"28"	"Under 15 years"	"15"	"2004"	"2004"	177	Not Available	Not Available
+	"Mississippi"	"28"	"Under 15 years"	"15"	"2005"	"2005"	184	Not Available	Not Available
+	"Mississippi"	"28"	"Under 15 years"	"15"	"2006"	"2006"	173	Not Available	Not Available
+	"Mississippi"	"28"	"15-19 years"	"15-19"	"2003"	"2003"	6625	108329	61.16
+	"Mississippi"	"28"	"15-19 years"	"15-19"	"2004"	"2004"	6543	108876	60.10
+	"Mississippi"	"28"	"15-19 years"	"15-19"	"2005"	"2005"	6411	109922	58.32
+	"Mississippi"	"28"	"15-19 years"	"15-19"	"2006"	"2006"	7404	110113	67.24
+	"Mississippi"	"28"	"20-24 years"	"20-24"	"2003"	"2003"	14748	112443	131.16
+	"Mississippi"	"28"	"20-24 years"	"20-24"	"2004"	"2004"	14919	112881	132.17
+	"Mississippi"	"28"	"20-24 years"	"20-24"	"2005"	"2005"	14687	110951	132.37
+	"Mississippi"	"28"	"20-24 years"	"20-24"	"2006"	"2006"	15954	107586	148.29
+	"Mississippi"	"28"	"25-29 years"	"25-29"	"2003"	"2003"	10836	92016	117.76
+	"Mississippi"	"28"	"25-29 years"	"25-29"	"2004"	"2004"	11074	93570	118.35
+	"Mississippi"	"28"	"25-29 years"	"25-29"	"2005"	"2005"	11277	96111	117.33
+	"Mississippi"	"28"	"25-29 years"	"25-29"	"2006"	"2006"	12382	98011	126.33
+	"Mississippi"	"28"	"30-34 years"	"30-34"	"2003"	"2003"	6857	98073	69.92
+	"Mississippi"	"28"	"30-34 years"	"30-34"	"2004"	"2004"	6901	97394	70.86
+	"Mississippi"	"28"	"30-34 years"	"30-34"	"2005"	"2005"	6698	95973	69.79
+	"Mississippi"	"28"	"30-34 years"	"30-34"	"2006"	"2006"	6753	92762	72.80
+	"Mississippi"	"28"	"35-39 years"	"35-39"	"2003"	"2003"	2592	99239	26.12
+	"Mississippi"	"28"	"35-39 years"	"35-39"	"2004"	"2004"	2663	97155	27.41
+	"Mississippi"	"28"	"35-39 years"	"35-39"	"2005"	"2005"	2590	96266	26.90
+	"Mississippi"	"28"	"35-39 years"	"35-39"	"2006"	"2006"	2811	96681	29.07
+	"Mississippi"	"28"	"40-44 years"	"40-44"	"2003"	"2003"	545	109805	4.96
+	"Mississippi"	"28"	"40-44 years"	"40-44"	"2004"	"2004"	521	109501	4.76
+	"Mississippi"	"28"	"40-44 years"	"40-44"	"2005"	"2005"	529	108251	4.89
+	"Mississippi"	"28"	"40-44 years"	"40-44"	"2006"	"2006"	543	105042	5.17
+	"Mississippi"	"28"	"45-49 years"	"45-49"	"2003"	"2003"	22	Not Available	Not Available
+	"Mississippi"	"28"	"45-49 years"	"45-49"	"2004"	"2004"	28	Not Available	Not Available
+	"Mississippi"	"28"	"45-49 years"	"45-49"	"2005"	"2005"	19	Not Available	Not Available
+	"Mississippi"	"28"	"45-49 years"	"45-49"	"2006"	"2006"	34	Not Available	Not Available
+	"Missouri"	"29"	"Under 15 years"	"15"	"2003"	"2003"	120	Not Available	Not Available
+	"Missouri"	"29"	"Under 15 years"	"15"	"2004"	"2004"	144	Not Available	Not Available
+	"Missouri"	"29"	"Under 15 years"	"15"	"2005"	"2005"	106	Not Available	Not Available
+	"Missouri"	"29"	"Under 15 years"	"15"	"2006"	"2006"	107	Not Available	Not Available
+	"Missouri"	"29"	"15-19 years"	"15-19"	"2003"	"2003"	8670	202666	42.78
+	"Missouri"	"29"	"15-19 years"	"15-19"	"2004"	"2004"	8754	204264	42.86
+	"Missouri"	"29"	"15-19 years"	"15-19"	"2005"	"2005"	8611	206534	41.69
+	"Missouri"	"29"	"15-19 years"	"15-19"	"2006"	"2006"	9183	208453	44.05
+	"Missouri"	"29"	"20-24 years"	"20-24"	"2003"	"2003"	22323	204557	109.13
+	"Missouri"	"29"	"20-24 years"	"20-24"	"2004"	"2004"	22453	206915	108.51
+	"Missouri"	"29"	"20-24 years"	"20-24"	"2005"	"2005"	22824	207122	110.20
+	"Missouri"	"29"	"20-24 years"	"20-24"	"2006"	"2006"	23535	205621	114.46
+	"Missouri"	"29"	"25-29 years"	"25-29"	"2003"	"2003"	21347	174703	122.19
+	"Missouri"	"29"	"25-29 years"	"25-29"	"2004"	"2004"	21659	178291	121.48
+	"Missouri"	"29"	"25-29 years"	"25-29"	"2005"	"2005"	22713	183848	123.54
+	"Missouri"	"29"	"25-29 years"	"25-29"	"2006"	"2006"	24039	192538	124.85
+	"Missouri"	"29"	"30-34 years"	"30-34"	"2003"	"2003"	16341	189059	86.43
+	"Missouri"	"29"	"30-34 years"	"30-34"	"2004"	"2004"	16232	186298	87.13
+	"Missouri"	"29"	"30-34 years"	"30-34"	"2005"	"2005"	15916	182725	87.10
+	"Missouri"	"29"	"30-34 years"	"30-34"	"2006"	"2006"	15880	177834	89.30
+	"Missouri"	"29"	"35-39 years"	"35-39"	"2003"	"2003"	6785	199363	34.03
+	"Missouri"	"29"	"35-39 years"	"35-39"	"2004"	"2004"	7000	193096	36.25
+	"Missouri"	"29"	"35-39 years"	"35-39"	"2005"	"2005"	6936	190707	36.37
+	"Missouri"	"29"	"35-39 years"	"35-39"	"2006"	"2006"	7138	192009	37.18
+	"Missouri"	"29"	"40-44 years"	"40-44"	"2003"	"2003"	1394	227652	6.12
+	"Missouri"	"29"	"40-44 years"	"40-44"	"2004"	"2004"	1439	226720	6.35
+	"Missouri"	"29"	"40-44 years"	"40-44"	"2005"	"2005"	1431	222759	6.42
+	"Missouri"	"29"	"40-44 years"	"40-44"	"2006"	"2006"	1416	215704	6.56
+	"Missouri"	"29"	"45-49 years"	"45-49"	"2003"	"2003"	62	Not Available	Not Available
+	"Missouri"	"29"	"45-49 years"	"45-49"	"2004"	"2004"	80	Not Available	Not Available
+	"Missouri"	"29"	"45-49 years"	"45-49"	"2005"	"2005"	77	Not Available	Not Available
+	"Missouri"	"29"	"45-49 years"	"45-49"	"2006"	"2006"	82	Not Available	Not Available
+	"Montana"	"30"	"Under 15 years"	"15"	"2005"	"2005"	16	Not Available	Not Available
+	"Montana"	"30"	"15-19 years"	"15-19"	"2003"	"2003"	1205	34643	34.78
+	"Montana"	"30"	"15-19 years"	"15-19"	"2004"	"2004"	1218	34384	35.42
+	"Montana"	"30"	"15-19 years"	"15-19"	"2005"	"2005"	1185	34338	34.51
+	"Montana"	"30"	"15-19 years"	"15-19"	"2006"	"2006"	1283	34158	37.56
+	"Montana"	"30"	"20-24 years"	"20-24"	"2003"	"2003"	3134	31580	99.24
+	"Montana"	"30"	"20-24 years"	"20-24"	"2004"	"2004"	3328	32538	102.28
+	"Montana"	"30"	"20-24 years"	"20-24"	"2005"	"2005"	3317	33534	98.91
+	"Montana"	"30"	"20-24 years"	"20-24"	"2006"	"2006"	3530	33942	104.00
+	"Montana"	"30"	"25-29 years"	"25-29"	"2003"	"2003"	3275	23532	139.17
+	"Montana"	"30"	"25-29 years"	"25-29"	"2004"	"2004"	3237	24417	132.57
+	"Montana"	"30"	"25-29 years"	"25-29"	"2005"	"2005"	3319	25075	132.36
+	"Montana"	"30"	"25-29 years"	"25-29"	"2006"	"2006"	3730	26264	142.02
+	"Montana"	"30"	"30-34 years"	"30-34"	"2003"	"2003"	2443	26300	92.89
+	"Montana"	"30"	"30-34 years"	"30-34"	"2004"	"2004"	2400	26229	91.50
+	"Montana"	"30"	"30-34 years"	"30-34"	"2005"	"2005"	2378	26212	90.72
+	"Montana"	"30"	"30-34 years"	"30-34"	"2006"	"2006"	2518	25827	97.49
+	"Montana"	"30"	"35-39 years"	"35-39"	"2003"	"2003"	1101	28579	38.52
+	"Montana"	"30"	"35-39 years"	"35-39"	"2004"	"2004"	1071	27570	38.85
+	"Montana"	"30"	"35-39 years"	"35-39"	"2005"	"2005"	1096	27356	40.06
+	"Montana"	"30"	"35-39 years"	"35-39"	"2006"	"2006"	1169	27657	42.27
+	"Montana"	"30"	"40-44 years"	"40-44"	"2003"	"2003"	240	36536	6.57
+	"Montana"	"30"	"40-44 years"	"40-44"	"2004"	"2004"	242	35809	6.76
+	"Montana"	"30"	"40-44 years"	"40-44"	"2005"	"2005"	255	34360	7.42
+	"Montana"	"30"	"40-44 years"	"40-44"	"2006"	"2006"	241	32941	7.32
+	"Montana"	"30"	"45-49 years"	"45-49"	"2003"	"2003"	16	Not Available	Not Available
+	"Montana"	"30"	"45-49 years"	"45-49"	"2004"	"2004"	19	Not Available	Not Available
+	"Montana"	"30"	"45-49 years"	"45-49"	"2005"	"2005"	17	Not Available	Not Available
+	"Montana"	"30"	"45-49 years"	"45-49"	"2006"	"2006"	26	Not Available	Not Available
+	"Nebraska"	"31"	"Under 15 years"	"15"	"2003"	"2003"	25	Not Available	Not Available
+	"Nebraska"	"31"	"Under 15 years"	"15"	"2004"	"2004"	24	Not Available	Not Available
+	"Nebraska"	"31"	"Under 15 years"	"15"	"2005"	"2005"	31	Not Available	Not Available
+	"Nebraska"	"31"	"Under 15 years"	"15"	"2006"	"2006"	32	Not Available	Not Available
+	"Nebraska"	"31"	"15-19 years"	"15-19"	"2003"	"2003"	2304	65985	34.92
+	"Nebraska"	"31"	"15-19 years"	"15-19"	"2004"	"2004"	2265	65068	34.81
+	"Nebraska"	"31"	"15-19 years"	"15-19"	"2005"	"2005"	2147	64914	33.07
+	"Nebraska"	"31"	"15-19 years"	"15-19"	"2006"	"2006"	2112	64478	32.76
+	"Nebraska"	"31"	"20-24 years"	"20-24"	"2003"	"2003"	6717	63289	106.13
+	"Nebraska"	"31"	"20-24 years"	"20-24"	"2004"	"2004"	6716	64582	103.99
+	"Nebraska"	"31"	"20-24 years"	"20-24"	"2005"	"2005"	6711	65729	102.10
+	"Nebraska"	"31"	"20-24 years"	"20-24"	"2006"	"2006"	6818	65865	103.51
+	"Nebraska"	"31"	"25-29 years"	"25-29"	"2003"	"2003"	7977	52237	152.71
+	"Nebraska"	"31"	"25-29 years"	"25-29"	"2004"	"2004"	8179	52502	155.78
+	"Nebraska"	"31"	"25-29 years"	"25-29"	"2005"	"2005"	8228	52838	155.72
+	"Nebraska"	"31"	"25-29 years"	"25-29"	"2006"	"2006"	8573	54583	157.06
+	"Nebraska"	"31"	"30-34 years"	"30-34"	"2003"	"2003"	5981	55779	107.23
+	"Nebraska"	"31"	"30-34 years"	"30-34"	"2004"	"2004"	6094	55520	109.76
+	"Nebraska"	"31"	"30-34 years"	"30-34"	"2005"	"2005"	5976	55611	107.46
+	"Nebraska"	"31"	"30-34 years"	"30-34"	"2006"	"2006"	6058	54987	110.17
+	"Nebraska"	"31"	"35-39 years"	"35-39"	"2003"	"2003"	2389	56630	42.19
+	"Nebraska"	"31"	"35-39 years"	"35-39"	"2004"	"2004"	2508	55213	45.42
+	"Nebraska"	"31"	"35-39 years"	"35-39"	"2005"	"2005"	2569	54522	47.12
+	"Nebraska"	"31"	"35-39 years"	"35-39"	"2006"	"2006"	2591	54944	47.16
+	"Nebraska"	"31"	"40-44 years"	"40-44"	"2003"	"2003"	507	66682	7.60
+	"Nebraska"	"31"	"40-44 years"	"40-44"	"2004"	"2004"	521	66098	7.88
+	"Nebraska"	"31"	"40-44 years"	"40-44"	"2005"	"2005"	456	64051	7.12
+	"Nebraska"	"31"	"40-44 years"	"40-44"	"2006"	"2006"	513	61237	8.38
+	"Nebraska"	"31"	"45-49 years"	"45-49"	"2003"	"2003"	17	Not Available	Not Available
+	"Nebraska"	"31"	"45-49 years"	"45-49"	"2004"	"2004"	24	Not Available	Not Available
+	"Nebraska"	"31"	"45-49 years"	"45-49"	"2005"	"2005"	26	Not Available	Not Available
+	"Nebraska"	"31"	"45-49 years"	"45-49"	"2006"	"2006"	30	Not Available	Not Available
+	"Nevada"	"32"	"Under 15 years"	"15"	"2003"	"2003"	67	Not Available	Not Available
+	"Nevada"	"32"	"Under 15 years"	"15"	"2004"	"2004"	68	Not Available	Not Available
+	"Nevada"	"32"	"Under 15 years"	"15"	"2005"	"2005"	58	Not Available	Not Available
+	"Nevada"	"32"	"Under 15 years"	"15"	"2006"	"2006"	68	Not Available	Not Available
+	"Nevada"	"32"	"15-19 years"	"15-19"	"2003"	"2003"	3723	67830	54.89
+	"Nevada"	"32"	"15-19 years"	"15-19"	"2004"	"2004"	3794	71681	52.93
+	"Nevada"	"32"	"15-19 years"	"15-19"	"2005"	"2005"	3921	76001	51.59
+	"Nevada"	"32"	"15-19 years"	"15-19"	"2006"	"2006"	4287	80340	53.36
+	"Nevada"	"32"	"20-24 years"	"20-24"	"2003"	"2003"	8927	72801	122.62
+	"Nevada"	"32"	"20-24 years"	"20-24"	"2004"	"2004"	9425	76005	124.00
+	"Nevada"	"32"	"20-24 years"	"20-24"	"2005"	"2005"	10061	78903	127.51
+	"Nevada"	"32"	"20-24 years"	"20-24"	"2006"	"2006"	10558	81221	129.99
+	"Nevada"	"32"	"25-29 years"	"25-29"	"2003"	"2003"	9318	76128	122.40
+	"Nevada"	"32"	"25-29 years"	"25-29"	"2004"	"2004"	9733	80979	120.19
+	"Nevada"	"32"	"25-29 years"	"25-29"	"2005"	"2005"	10423	86646	120.29
+	"Nevada"	"32"	"25-29 years"	"25-29"	"2006"	"2006"	11486	92835	123.72
+	"Nevada"	"32"	"30-34 years"	"30-34"	"2003"	"2003"	7373	82895	88.94
+	"Nevada"	"32"	"30-34 years"	"30-34"	"2004"	"2004"	7687	84846	90.60
+	"Nevada"	"32"	"30-34 years"	"30-34"	"2005"	"2005"	7911	85430	92.60
+	"Nevada"	"32"	"30-34 years"	"30-34"	"2006"	"2006"	8307	86215	96.35
+	"Nevada"	"32"	"35-39 years"	"35-39"	"2003"	"2003"	3461	82754	41.82
+	"Nevada"	"32"	"35-39 years"	"35-39"	"2004"	"2004"	3686	84280	43.74
+	"Nevada"	"32"	"35-39 years"	"35-39"	"2005"	"2005"	3930	86947	45.20
+	"Nevada"	"32"	"35-39 years"	"35-39"	"2006"	"2006"	4341	91230	47.58
+	"Nevada"	"32"	"40-44 years"	"40-44"	"2003"	"2003"	725	84371	8.59
+	"Nevada"	"32"	"40-44 years"	"40-44"	"2004"	"2004"	765	87979	8.70
+	"Nevada"	"32"	"40-44 years"	"40-44"	"2005"	"2005"	906	90260	10.04
+	"Nevada"	"32"	"40-44 years"	"40-44"	"2006"	"2006"	922	91348	10.09
+	"Nevada"	"32"	"45-49 years"	"45-49"	"2003"	"2003"	50	Not Available	Not Available
+	"Nevada"	"32"	"45-49 years"	"45-49"	"2004"	"2004"	39	Not Available	Not Available
+	"Nevada"	"32"	"45-49 years"	"45-49"	"2005"	"2005"	56	Not Available	Not Available
+	"Nevada"	"32"	"45-49 years"	"45-49"	"2006"	"2006"	57	Not Available	Not Available
+	"New Hampshire"	"33"	"15-19 years"	"15-19"	"2003"	"2003"	825	45848	17.99
+	"New Hampshire"	"33"	"15-19 years"	"15-19"	"2004"	"2004"	846	46765	18.09
+	"New Hampshire"	"33"	"15-19 years"	"15-19"	"2005"	"2005"	850	47345	17.95
+	"New Hampshire"	"33"	"15-19 years"	"15-19"	"2006"	"2006"	865	47716	18.13
+	"New Hampshire"	"33"	"20-24 years"	"20-24"	"2003"	"2003"	2656	38452	69.07
+	"New Hampshire"	"33"	"20-24 years"	"20-24"	"2004"	"2004"	2681	39378	68.08
+	"New Hampshire"	"33"	"20-24 years"	"20-24"	"2005"	"2005"	2708	40455	66.94
+	"New Hampshire"	"33"	"20-24 years"	"20-24"	"2006"	"2006"	2874	40748	70.53
+	"New Hampshire"	"33"	"25-29 years"	"25-29"	"2003"	"2003"	3813	32875	115.98
+	"New Hampshire"	"33"	"25-29 years"	"25-29"	"2004"	"2004"	3900	33287	117.16
+	"New Hampshire"	"33"	"25-29 years"	"25-29"	"2005"	"2005"	3838	33431	114.80
+	"New Hampshire"	"33"	"25-29 years"	"25-29"	"2006"	"2006"	4002	34261	116.81
+	"New Hampshire"	"33"	"30-34 years"	"30-34"	"2003"	"2003"	4536	43451	104.39
+	"New Hampshire"	"33"	"30-34 years"	"30-34"	"2004"	"2004"	4432	41822	105.97
+	"New Hampshire"	"33"	"30-34 years"	"30-34"	"2005"	"2005"	4398	40261	109.24
+	"New Hampshire"	"33"	"30-34 years"	"30-34"	"2006"	"2006"	3960	38380	103.18
+	"New Hampshire"	"33"	"35-39 years"	"35-39"	"2003"	"2003"	2123	50702	41.87
+	"New Hampshire"	"33"	"35-39 years"	"35-39"	"2004"	"2004"	2205	49105	44.90
+	"New Hampshire"	"33"	"35-39 years"	"35-39"	"2005"	"2005"	2162	47848	45.18
+	"New Hampshire"	"33"	"35-39 years"	"35-39"	"2006"	"2006"	2190	47355	46.25
+	"New Hampshire"	"33"	"40-44 years"	"40-44"	"2003"	"2003"	428	58179	7.36
+	"New Hampshire"	"33"	"40-44 years"	"40-44"	"2004"	"2004"	478	57896	8.26
+	"New Hampshire"	"33"	"40-44 years"	"40-44"	"2005"	"2005"	428	57317	7.47
+	"New Hampshire"	"33"	"40-44 years"	"40-44"	"2006"	"2006"	449	55742	8.05
+	"New Hampshire"	"33"	"45-49 years"	"45-49"	"2003"	"2003"	11	Not Available	Not Available
+	"New Hampshire"	"33"	"45-49 years"	"45-49"	"2004"	"2004"	19	Not Available	Not Available
+	"New Hampshire"	"33"	"45-49 years"	"45-49"	"2005"	"2005"	30	Not Available	Not Available
+	"New Hampshire"	"33"	"45-49 years"	"45-49"	"2006"	"2006"	29	Not Available	Not Available
+	"New Jersey"	"34"	"Under 15 years"	"15"	"2003"	"2003"	91	Not Available	Not Available
+	"New Jersey"	"34"	"Under 15 years"	"15"	"2004"	"2004"	94	Not Available	Not Available
+	"New Jersey"	"34"	"Under 15 years"	"15"	"2005"	"2005"	91	Not Available	Not Available
+	"New Jersey"	"34"	"Under 15 years"	"15"	"2006"	"2006"	102	Not Available	Not Available
+	"New Jersey"	"34"	"15-19 years"	"15-19"	"2003"	"2003"	7141	269951	26.45
+	"New Jersey"	"34"	"15-19 years"	"15-19"	"2004"	"2004"	6927	276552	25.05
+	"New Jersey"	"34"	"15-19 years"	"15-19"	"2005"	"2005"	6874	283743	24.23
+	"New Jersey"	"34"	"15-19 years"	"15-19"	"2006"	"2006"	7159	288686	24.80
+	"New Jersey"	"34"	"20-24 years"	"20-24"	"2003"	"2003"	19372	244768	79.14
+	"New Jersey"	"34"	"20-24 years"	"20-24"	"2004"	"2004"	18953	246080	77.02
+	"New Jersey"	"34"	"20-24 years"	"20-24"	"2005"	"2005"	18955	247102	76.71
+	"New Jersey"	"34"	"20-24 years"	"20-24"	"2006"	"2006"	19711	248981	79.17
+	"New Jersey"	"34"	"25-29 years"	"25-29"	"2003"	"2003"	28401	260774	108.91
+	"New Jersey"	"34"	"25-29 years"	"25-29"	"2004"	"2004"	28335	262025	108.14
+	"New Jersey"	"34"	"25-29 years"	"25-29"	"2005"	"2005"	28595	265336	107.77
+	"New Jersey"	"34"	"25-29 years"	"25-29"	"2006"	"2006"	29011	266835	108.72
+	"New Jersey"	"34"	"30-34 years"	"30-34"	"2003"	"2003"	36817	309664	118.89
+	"New Jersey"	"34"	"30-34 years"	"30-34"	"2004"	"2004"	35553	301155	118.06
+	"New Jersey"	"34"	"30-34 years"	"30-34"	"2005"	"2005"	34400	289457	118.84
+	"New Jersey"	"34"	"30-34 years"	"30-34"	"2006"	"2006"	33741	279881	120.55
+	"New Jersey"	"34"	"35-39 years"	"35-39"	"2003"	"2003"	20503	349873	58.60
+	"New Jersey"	"34"	"35-39 years"	"35-39"	"2004"	"2004"	20644	339955	60.73
+	"New Jersey"	"34"	"35-39 years"	"35-39"	"2005"	"2005"	20125	333818	60.29
+	"New Jersey"	"34"	"35-39 years"	"35-39"	"2006"	"2006"	20578	329048	62.54
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"2003"	"2003"	4375	369507	11.84
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"2004"	"2004"	4444	370117	12.01
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"2005"	"2005"	4468	366754	12.18
+	"New Jersey"	"34"	"40-44 years"	"40-44"	"2006"	"2006"	4414	361238	12.22
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"2003"	"2003"	279	Not Available	Not Available
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"2004"	"2004"	281	Not Available	Not Available
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"2005"	"2005"	256	Not Available	Not Available
+	"New Jersey"	"34"	"45-49 years"	"45-49"	"2006"	"2006"	273	Not Available	Not Available
+	"New Jersey"	"34"	"50 years and over"	"50+"	"2004"	"2004"	22	Not Available	Not Available
+	"New Jersey"	"34"	"50 years and over"	"50+"	"2005"	"2005"	12	Not Available	Not Available
+	"New Jersey"	"34"	"50 years and over"	"50+"	"2006"	"2006"	31	Not Available	Not Available
+	"New Mexico"	"35"	"Under 15 years"	"15"	"2003"	"2003"	74	Not Available	Not Available
+	"New Mexico"	"35"	"Under 15 years"	"15"	"2004"	"2004"	62	Not Available	Not Available
+	"New Mexico"	"35"	"Under 15 years"	"15"	"2005"	"2005"	88	Not Available	Not Available
+	"New Mexico"	"35"	"Under 15 years"	"15"	"2006"	"2006"	61	Not Available	Not Available
+	"New Mexico"	"35"	"15-19 years"	"15-19"	"2003"	"2003"	4524	72033	62.80
+	"New Mexico"	"35"	"15-19 years"	"15-19"	"2004"	"2004"	4401	72610	60.61
+	"New Mexico"	"35"	"15-19 years"	"15-19"	"2005"	"2005"	4471	73095	61.17
+	"New Mexico"	"35"	"15-19 years"	"15-19"	"2006"	"2006"	4628	73765	62.74
+	"New Mexico"	"35"	"20-24 years"	"20-24"	"2003"	"2003"	8807	67009	131.43
+	"New Mexico"	"35"	"20-24 years"	"20-24"	"2004"	"2004"	9009	68545	131.43
+	"New Mexico"	"35"	"20-24 years"	"20-24"	"2005"	"2005"	8968	68670	130.60
+	"New Mexico"	"35"	"20-24 years"	"20-24"	"2006"	"2006"	9280	68471	135.53
+	"New Mexico"	"35"	"25-29 years"	"25-29"	"2003"	"2003"	6895	57707	119.48
+	"New Mexico"	"35"	"25-29 years"	"25-29"	"2004"	"2004"	7101	59705	118.93
+	"New Mexico"	"35"	"25-29 years"	"25-29"	"2005"	"2005"	7464	62297	119.81
+	"New Mexico"	"35"	"25-29 years"	"25-29"	"2006"	"2006"	7854	64522	121.73
+	"New Mexico"	"35"	"30-34 years"	"30-34"	"2003"	"2003"	4733	58995	80.23
+	"New Mexico"	"35"	"30-34 years"	"30-34"	"2004"	"2004"	4886	58775	83.13
+	"New Mexico"	"35"	"30-34 years"	"30-34"	"2005"	"2005"	4805	58020	82.82
+	"New Mexico"	"35"	"30-34 years"	"30-34"	"2006"	"2006"	4995	58162	85.88
+	"New Mexico"	"35"	"35-39 years"	"35-39"	"2003"	"2003"	2202	63099	34.90
+	"New Mexico"	"35"	"35-39 years"	"35-39"	"2004"	"2004"	2318	61740	37.54
+	"New Mexico"	"35"	"35-39 years"	"35-39"	"2005"	"2005"	2381	61496	38.72
+	"New Mexico"	"35"	"35-39 years"	"35-39"	"2006"	"2006"	2497	61821	40.39
+	"New Mexico"	"35"	"40-44 years"	"40-44"	"2003"	"2003"	552	72902	7.57
+	"New Mexico"	"35"	"40-44 years"	"40-44"	"2004"	"2004"	576	72576	7.94
+	"New Mexico"	"35"	"40-44 years"	"40-44"	"2005"	"2005"	612	71557	8.55
+	"New Mexico"	"35"	"40-44 years"	"40-44"	"2006"	"2006"	573	69764	8.21
+	"New Mexico"	"35"	"45-49 years"	"45-49"	"2003"	"2003"	34	Not Available	Not Available
+	"New Mexico"	"35"	"45-49 years"	"45-49"	"2004"	"2004"	30	Not Available	Not Available
+	"New Mexico"	"35"	"45-49 years"	"45-49"	"2005"	"2005"	45	Not Available	Not Available
+	"New Mexico"	"35"	"45-49 years"	"45-49"	"2006"	"2006"	47	Not Available	Not Available
+	"New York"	"36"	"Under 15 years"	"15"	"2003"	"2003"	236	Not Available	Not Available
+	"New York"	"36"	"Under 15 years"	"15"	"2004"	"2004"	272	Not Available	Not Available
+	"New York"	"36"	"Under 15 years"	"15"	"2005"	"2005"	261	Not Available	Not Available
+	"New York"	"36"	"Under 15 years"	"15"	"2006"	"2006"	220	Not Available	Not Available
+	"New York"	"36"	"15-19 years"	"15-19"	"2003"	"2003"	17624	644678	27.34
+	"New York"	"36"	"15-19 years"	"15-19"	"2004"	"2004"	17051	654015	26.07
+	"New York"	"36"	"15-19 years"	"15-19"	"2005"	"2005"	17068	665026	25.67
+	"New York"	"36"	"15-19 years"	"15-19"	"2006"	"2006"	17442	671850	25.96
+	"New York"	"36"	"20-24 years"	"20-24"	"2003"	"2003"	50931	646944	78.73
+	"New York"	"36"	"20-24 years"	"20-24"	"2004"	"2004"	49741	649505	76.58
+	"New York"	"36"	"20-24 years"	"20-24"	"2005"	"2005"	49572	650289	76.23
+	"New York"	"36"	"20-24 years"	"20-24"	"2006"	"2006"	51261	655210	78.24
+	"New York"	"36"	"25-29 years"	"25-29"	"2003"	"2003"	64063	649592	98.62
+	"New York"	"36"	"25-29 years"	"25-29"	"2004"	"2004"	63885	656898	97.25
+	"New York"	"36"	"25-29 years"	"25-29"	"2005"	"2005"	63833	663807	96.16
+	"New York"	"36"	"25-29 years"	"25-29"	"2006"	"2006"	65762	672948	97.72
+	"New York"	"36"	"30-34 years"	"30-34"	"2003"	"2003"	70527	701377	100.56
+	"New York"	"36"	"30-34 years"	"30-34"	"2004"	"2004"	68866	678249	101.53
+	"New York"	"36"	"30-34 years"	"30-34"	"2005"	"2005"	65840	651342	101.08
+	"New York"	"36"	"30-34 years"	"30-34"	"2006"	"2006"	65160	629903	103.44
+	"New York"	"36"	"35-39 years"	"35-39"	"2003"	"2003"	40086	749274	53.50
+	"New York"	"36"	"35-39 years"	"35-39"	"2004"	"2004"	39833	727866	54.73
+	"New York"	"36"	"35-39 years"	"35-39"	"2005"	"2005"	39517	714428	55.31
+	"New York"	"36"	"35-39 years"	"35-39"	"2006"	"2006"	40010	704167	56.82
+	"New York"	"36"	"40-44 years"	"40-44"	"2003"	"2003"	9570	780720	12.26
+	"New York"	"36"	"40-44 years"	"40-44"	"2004"	"2004"	9652	780057	12.37
+	"New York"	"36"	"40-44 years"	"40-44"	"2005"	"2005"	9581	768261	12.47
+	"New York"	"36"	"40-44 years"	"40-44"	"2006"	"2006"	9528	752639	12.66
+	"New York"	"36"	"45-49 years"	"45-49"	"2003"	"2003"	632	Not Available	Not Available
+	"New York"	"36"	"45-49 years"	"45-49"	"2004"	"2004"	601	Not Available	Not Available
+	"New York"	"36"	"45-49 years"	"45-49"	"2005"	"2005"	627	Not Available	Not Available
+	"New York"	"36"	"45-49 years"	"45-49"	"2006"	"2006"	645	Not Available	Not Available
+	"New York"	"36"	"50 years and over"	"50+"	"2003"	"2003"	45	Not Available	Not Available
+	"New York"	"36"	"50 years and over"	"50+"	"2004"	"2004"	46	Not Available	Not Available
+	"New York"	"36"	"50 years and over"	"50+"	"2005"	"2005"	52	Not Available	Not Available
+	"New York"	"36"	"50 years and over"	"50+"	"2006"	"2006"	76	Not Available	Not Available
+	"North Carolina"	"37"	"Under 15 years"	"15"	"2003"	"2003"	259	Not Available	Not Available
+	"North Carolina"	"37"	"Under 15 years"	"15"	"2004"	"2004"	285	Not Available	Not Available
+	"North Carolina"	"37"	"Under 15 years"	"15"	"2005"	"2005"	255	Not Available	Not Available
+	"North Carolina"	"37"	"Under 15 years"	"15"	"2006"	"2006"	256	Not Available	Not Available
+	"North Carolina"	"37"	"15-19 years"	"15-19"	"2003"	"2003"	13174	279109	47.20
+	"North Carolina"	"37"	"15-19 years"	"15-19"	"2004"	"2004"	13567	286693	47.32
+	"North Carolina"	"37"	"15-19 years"	"15-19"	"2005"	"2005"	13933	296626	46.97
+	"North Carolina"	"37"	"15-19 years"	"15-19"	"2006"	"2006"	14701	305573	48.11
+	"North Carolina"	"37"	"20-24 years"	"20-24"	"2003"	"2003"	31858	287849	110.68
+	"North Carolina"	"37"	"20-24 years"	"20-24"	"2004"	"2004"	32154	289591	111.03
+	"North Carolina"	"37"	"20-24 years"	"20-24"	"2005"	"2005"	32694	292509	111.77
+	"North Carolina"	"37"	"20-24 years"	"20-24"	"2006"	"2006"	34380	298583	115.14
+	"North Carolina"	"37"	"25-29 years"	"25-29"	"2003"	"2003"	31392	280111	112.07
+	"North Carolina"	"37"	"25-29 years"	"25-29"	"2004"	"2004"	32267	284358	113.47
+	"North Carolina"	"37"	"25-29 years"	"25-29"	"2005"	"2005"	33329	288860	115.38
+	"North Carolina"	"37"	"25-29 years"	"25-29"	"2006"	"2006"	34751	297511	116.81
+	"North Carolina"	"37"	"30-34 years"	"30-34"	"2003"	"2003"	27472	314898	87.24
+	"North Carolina"	"37"	"30-34 years"	"30-34"	"2004"	"2004"	27143	313025	86.71
+	"North Carolina"	"37"	"30-34 years"	"30-34"	"2005"	"2005"	27628	309482	89.27
+	"North Carolina"	"37"	"30-34 years"	"30-34"	"2006"	"2006"	27702	304696	90.92
+	"North Carolina"	"37"	"35-39 years"	"35-39"	"2003"	"2003"	11800	318019	37.10
+	"North Carolina"	"37"	"35-39 years"	"35-39"	"2004"	"2004"	12051	314878	38.27
+	"North Carolina"	"37"	"35-39 years"	"35-39"	"2005"	"2005"	12699	318943	39.82
+	"North Carolina"	"37"	"35-39 years"	"35-39"	"2006"	"2006"	13413	329689	40.68
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"2003"	"2003"	2272	336441	6.75
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"2004"	"2004"	2271	339777	6.68
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"2005"	"2005"	2423	342062	7.08
+	"North Carolina"	"37"	"40-44 years"	"40-44"	"2006"	"2006"	2534	340828	7.43
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"2003"	"2003"	94	Not Available	Not Available
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"2004"	"2004"	103	Not Available	Not Available
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"2005"	"2005"	127	Not Available	Not Available
+	"North Carolina"	"37"	"45-49 years"	"45-49"	"2006"	"2006"	119	Not Available	Not Available
+	"North Dakota"	"38"	"Under 15 years"	"15"	"2004"	"2004"	10	Not Available	Not Available
+	"North Dakota"	"38"	"15-19 years"	"15-19"	"2003"	"2003"	626	25381	24.66
+	"North Dakota"	"38"	"15-19 years"	"15-19"	"2004"	"2004"	622	25193	24.69
+	"North Dakota"	"38"	"15-19 years"	"15-19"	"2005"	"2005"	661	24500	26.98
+	"North Dakota"	"38"	"15-19 years"	"15-19"	"2006"	"2006"	633	24215	26.14
+	"North Dakota"	"38"	"20-24 years"	"20-24"	"2003"	"2003"	2147	26717	80.36
+	"North Dakota"	"38"	"20-24 years"	"20-24"	"2004"	"2004"	2205	27918	78.98
+	"North Dakota"	"38"	"20-24 years"	"20-24"	"2005"	"2005"	2306	28785	80.11
+	"North Dakota"	"38"	"20-24 years"	"20-24"	"2006"	"2006"	2316	29205	79.30
+	"North Dakota"	"38"	"25-29 years"	"25-29"	"2003"	"2003"	2510	16644	150.81
+	"North Dakota"	"38"	"25-29 years"	"25-29"	"2004"	"2004"	2612	16763	155.82
+	"North Dakota"	"38"	"25-29 years"	"25-29"	"2005"	"2005"	2735	16797	162.83
+	"North Dakota"	"38"	"25-29 years"	"25-29"	"2006"	"2006"	2931	17656	166.01
+	"North Dakota"	"38"	"30-34 years"	"30-34"	"2003"	"2003"	1798	18353	97.97
+	"North Dakota"	"38"	"30-34 years"	"30-34"	"2004"	"2004"	1869	18598	100.49
+	"North Dakota"	"38"	"30-34 years"	"30-34"	"2005"	"2005"	1835	18532	99.02
+	"North Dakota"	"38"	"30-34 years"	"30-34"	"2006"	"2006"	1809	18177	99.52
+	"North Dakota"	"38"	"35-39 years"	"35-39"	"2003"	"2003"	730	19398	37.63
+	"North Dakota"	"38"	"35-39 years"	"35-39"	"2004"	"2004"	699	18580	37.62
+	"North Dakota"	"38"	"35-39 years"	"35-39"	"2005"	"2005"	722	18236	39.59
+	"North Dakota"	"38"	"35-39 years"	"35-39"	"2006"	"2006"	756	17904	42.23
+	"North Dakota"	"38"	"40-44 years"	"40-44"	"2003"	"2003"	139	24221	5.74
+	"North Dakota"	"38"	"40-44 years"	"40-44"	"2004"	"2004"	159	23545	6.75
+	"North Dakota"	"38"	"40-44 years"	"40-44"	"2005"	"2005"	119	22644	5.26
+	"North Dakota"	"38"	"40-44 years"	"40-44"	"2006"	"2006"	162	21537	7.52
+	"North Dakota"	"38"	"45-49 years"	"45-49"	"2003"	"2003"	14	Not Available	Not Available
+	"North Dakota"	"38"	"45-49 years"	"45-49"	"2004"	"2004"	13	Not Available	Not Available
+	"Ohio"	"39"	"Under 15 years"	"15"	"2003"	"2003"	224	Not Available	Not Available
+	"Ohio"	"39"	"Under 15 years"	"15"	"2004"	"2004"	244	Not Available	Not Available
+	"Ohio"	"39"	"Under 15 years"	"15"	"2005"	"2005"	235	Not Available	Not Available
+	"Ohio"	"39"	"Under 15 years"	"15"	"2006"	"2006"	239	Not Available	Not Available
+	"Ohio"	"39"	"15-19 years"	"15-19"	"2003"	"2003"	15559	397110	39.18
+	"Ohio"	"39"	"15-19 years"	"15-19"	"2004"	"2004"	15291	400781	38.15
+	"Ohio"	"39"	"15-19 years"	"15-19"	"2005"	"2005"	15490	404101	38.33
+	"Ohio"	"39"	"15-19 years"	"15-19"	"2006"	"2006"	15872	407661	38.93
+	"Ohio"	"39"	"20-24 years"	"20-24"	"2003"	"2003"	39848	390866	101.95
+	"Ohio"	"39"	"20-24 years"	"20-24"	"2004"	"2004"	39430	386744	101.95
+	"Ohio"	"39"	"20-24 years"	"20-24"	"2005"	"2005"	39046	381326	102.40
+	"Ohio"	"39"	"20-24 years"	"20-24"	"2006"	"2006"	40259	376193	107.02
+	"Ohio"	"39"	"25-29 years"	"25-29"	"2003"	"2003"	40692	348371	116.81
+	"Ohio"	"39"	"25-29 years"	"25-29"	"2004"	"2004"	41444	356245	116.34
+	"Ohio"	"39"	"25-29 years"	"25-29"	"2005"	"2005"	42294	365127	115.83
+	"Ohio"	"39"	"25-29 years"	"25-29"	"2006"	"2006"	43636	372339	117.19
+	"Ohio"	"39"	"30-34 years"	"30-34"	"2003"	"2003"	35125	380489	92.32
+	"Ohio"	"39"	"30-34 years"	"30-34"	"2004"	"2004"	34236	369549	92.64
+	"Ohio"	"39"	"30-34 years"	"30-34"	"2005"	"2005"	33043	356822	92.60
+	"Ohio"	"39"	"30-34 years"	"30-34"	"2006"	"2006"	31995	342283	93.48
+	"Ohio"	"39"	"35-39 years"	"35-39"	"2003"	"2003"	15088	404929	37.26
+	"Ohio"	"39"	"35-39 years"	"35-39"	"2004"	"2004"	15181	394901	38.44
+	"Ohio"	"39"	"35-39 years"	"35-39"	"2005"	"2005"	15090	389262	38.77
+	"Ohio"	"39"	"35-39 years"	"35-39"	"2006"	"2006"	15502	389857	39.76
+	"Ohio"	"39"	"40-44 years"	"40-44"	"2003"	"2003"	2987	456422	6.54
+	"Ohio"	"39"	"40-44 years"	"40-44"	"2004"	"2004"	2976	449487	6.62
+	"Ohio"	"39"	"40-44 years"	"40-44"	"2005"	"2005"	3042	440062	6.91
+	"Ohio"	"39"	"40-44 years"	"40-44"	"2006"	"2006"	2929	425546	6.88
+	"Ohio"	"39"	"45-49 years"	"45-49"	"2003"	"2003"	152	Not Available	Not Available
+	"Ohio"	"39"	"45-49 years"	"45-49"	"2004"	"2004"	145	Not Available	Not Available
+	"Ohio"	"39"	"45-49 years"	"45-49"	"2005"	"2005"	142	Not Available	Not Available
+	"Ohio"	"39"	"45-49 years"	"45-49"	"2006"	"2006"	150	Not Available	Not Available
+	"Ohio"	"39"	"50 years and over"	"50+"	"2006"	"2006"	11	Not Available	Not Available
+	"Oklahoma"	"40"	"Under 15 years"	"15"	"2003"	"2003"	95	Not Available	Not Available
+	"Oklahoma"	"40"	"Under 15 years"	"15"	"2004"	"2004"	104	Not Available	Not Available
+	"Oklahoma"	"40"	"Under 15 years"	"15"	"2005"	"2005"	112	Not Available	Not Available
+	"Oklahoma"	"40"	"Under 15 years"	"15"	"2006"	"2006"	96	Not Available	Not Available
+	"Oklahoma"	"40"	"15-19 years"	"15-19"	"2003"	"2003"	6989	126436	55.28
+	"Oklahoma"	"40"	"15-19 years"	"15-19"	"2004"	"2004"	6859	126142	54.38
+	"Oklahoma"	"40"	"15-19 years"	"15-19"	"2005"	"2005"	6685	126681	52.77
+	"Oklahoma"	"40"	"15-19 years"	"15-19"	"2006"	"2006"	7227	127669	56.61
+	"Oklahoma"	"40"	"20-24 years"	"20-24"	"2003"	"2003"	17227	132331	130.18
+	"Oklahoma"	"40"	"20-24 years"	"20-24"	"2004"	"2004"	17173	133437	128.70
+	"Oklahoma"	"40"	"20-24 years"	"20-24"	"2005"	"2005"	17301	133020	130.06
+	"Oklahoma"	"40"	"20-24 years"	"20-24"	"2006"	"2006"	18002	132632	135.73
+	"Oklahoma"	"40"	"25-29 years"	"25-29"	"2003"	"2003"	13749	107285	128.15
+	"Oklahoma"	"40"	"25-29 years"	"25-29"	"2004"	"2004"	14075	109231	128.86
+	"Oklahoma"	"40"	"25-29 years"	"25-29"	"2005"	"2005"	14651	112407	130.34
+	"Oklahoma"	"40"	"25-29 years"	"25-29"	"2006"	"2006"	15433	117951	130.84
+	"Oklahoma"	"40"	"30-34 years"	"30-34"	"2003"	"2003"	8883	113028	78.59
+	"Oklahoma"	"40"	"30-34 years"	"30-34"	"2004"	"2004"	8872	112132	79.12
+	"Oklahoma"	"40"	"30-34 years"	"30-34"	"2005"	"2005"	8822	111388	79.20
+	"Oklahoma"	"40"	"30-34 years"	"30-34"	"2006"	"2006"	8710	110096	79.11
+	"Oklahoma"	"40"	"35-39 years"	"35-39"	"2003"	"2003"	3285	114174	28.77
+	"Oklahoma"	"40"	"35-39 years"	"35-39"	"2004"	"2004"	3508	110471	31.75
+	"Oklahoma"	"40"	"35-39 years"	"35-39"	"2005"	"2005"	3499	110293	31.72
+	"Oklahoma"	"40"	"35-39 years"	"35-39"	"2006"	"2006"	3784	112448	33.65
+	"Oklahoma"	"40"	"40-44 years"	"40-44"	"2003"	"2003"	721	132904	5.42
+	"Oklahoma"	"40"	"40-44 years"	"40-44"	"2004"	"2004"	681	131774	5.17
+	"Oklahoma"	"40"	"40-44 years"	"40-44"	"2005"	"2005"	697	128711	5.42
+	"Oklahoma"	"40"	"40-44 years"	"40-44"	"2006"	"2006"	722	124534	5.80
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	"2003"	"2003"	31	Not Available	Not Available
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	"2004"	"2004"	33	Not Available	Not Available
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	"2005"	"2005"	34	Not Available	Not Available
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	"2006"	"2006"	42	Not Available	Not Available
+	"Oregon"	"41"	"Under 15 years"	"15"	"2003"	"2003"	47	Not Available	Not Available
+	"Oregon"	"41"	"Under 15 years"	"15"	"2004"	"2004"	55	Not Available	Not Available
+	"Oregon"	"41"	"Under 15 years"	"15"	"2005"	"2005"	53	Not Available	Not Available
+	"Oregon"	"41"	"Under 15 years"	"15"	"2006"	"2006"	45	Not Available	Not Available
+	"Oregon"	"41"	"15-19 years"	"15-19"	"2003"	"2003"	4117	120219	34.25
+	"Oregon"	"41"	"15-19 years"	"15-19"	"2004"	"2004"	3999	120910	33.07
+	"Oregon"	"41"	"15-19 years"	"15-19"	"2005"	"2005"	4001	122427	32.68
+	"Oregon"	"41"	"15-19 years"	"15-19"	"2006"	"2006"	4285	124228	34.49
+	"Oregon"	"41"	"20-24 years"	"20-24"	"2003"	"2003"	11907	123189	96.66
+	"Oregon"	"41"	"20-24 years"	"20-24"	"2004"	"2004"	11781	122934	95.83
+	"Oregon"	"41"	"20-24 years"	"20-24"	"2005"	"2005"	11669	122738	95.07
+	"Oregon"	"41"	"20-24 years"	"20-24"	"2006"	"2006"	12182	122912	99.11
+	"Oregon"	"41"	"25-29 years"	"25-29"	"2003"	"2003"	13045	113302	115.13
+	"Oregon"	"41"	"25-29 years"	"25-29"	"2004"	"2004"	12964	114445	113.28
+	"Oregon"	"41"	"25-29 years"	"25-29"	"2005"	"2005"	13374	117954	113.38
+	"Oregon"	"41"	"25-29 years"	"25-29"	"2006"	"2006"	14302	122716	116.55
+	"Oregon"	"41"	"30-34 years"	"30-34"	"2003"	"2003"	10844	120191	90.22
+	"Oregon"	"41"	"30-34 years"	"30-34"	"2004"	"2004"	10705	118790	90.12
+	"Oregon"	"41"	"30-34 years"	"30-34"	"2005"	"2005"	10437	117735	88.65
+	"Oregon"	"41"	"30-34 years"	"30-34"	"2006"	"2006"	11177	117370	95.23
+	"Oregon"	"41"	"35-39 years"	"35-39"	"2003"	"2003"	4844	117888	41.09
+	"Oregon"	"41"	"35-39 years"	"35-39"	"2004"	"2004"	4989	116830	42.70
+	"Oregon"	"41"	"35-39 years"	"35-39"	"2005"	"2005"	5266	119526	44.06
+	"Oregon"	"41"	"35-39 years"	"35-39"	"2006"	"2006"	5521	122979	44.89
+	"Oregon"	"41"	"40-44 years"	"40-44"	"2003"	"2003"	1069	133903	7.98
+	"Oregon"	"41"	"40-44 years"	"40-44"	"2004"	"2004"	1099	132280	8.31
+	"Oregon"	"41"	"40-44 years"	"40-44"	"2005"	"2005"	1046	129581	8.07
+	"Oregon"	"41"	"40-44 years"	"40-44"	"2006"	"2006"	1083	127103	8.52
+	"Oregon"	"41"	"45-49 years"	"45-49"	"2003"	"2003"	77	Not Available	Not Available
+	"Oregon"	"41"	"45-49 years"	"45-49"	"2004"	"2004"	80	Not Available	Not Available
+	"Oregon"	"41"	"45-49 years"	"45-49"	"2005"	"2005"	71	Not Available	Not Available
+	"Oregon"	"41"	"45-49 years"	"45-49"	"2006"	"2006"	88	Not Available	Not Available
+	"Pennsylvania"	"42"	"Under 15 years"	"15"	"2003"	"2003"	234	Not Available	Not Available
+	"Pennsylvania"	"42"	"Under 15 years"	"15"	"2004"	"2004"	199	Not Available	Not Available
+	"Pennsylvania"	"42"	"Under 15 years"	"15"	"2005"	"2005"	232	Not Available	Not Available
+	"Pennsylvania"	"42"	"Under 15 years"	"15"	"2006"	"2006"	208	Not Available	Not Available
+	"Pennsylvania"	"42"	"15-19 years"	"15-19"	"2003"	"2003"	12925	428741	30.15
+	"Pennsylvania"	"42"	"15-19 years"	"15-19"	"2004"	"2004"	12791	435288	29.39
+	"Pennsylvania"	"42"	"15-19 years"	"15-19"	"2005"	"2005"	12910	442830	29.15
+	"Pennsylvania"	"42"	"15-19 years"	"15-19"	"2006"	"2006"	13599	447977	30.36
+	"Pennsylvania"	"42"	"20-24 years"	"20-24"	"2003"	"2003"	32248	398260	80.97
+	"Pennsylvania"	"42"	"20-24 years"	"20-24"	"2004"	"2004"	31877	400377	79.62
+	"Pennsylvania"	"42"	"20-24 years"	"20-24"	"2005"	"2005"	32268	402848	80.10
+	"Pennsylvania"	"42"	"20-24 years"	"20-24"	"2006"	"2006"	33428	407502	82.03
+	"Pennsylvania"	"42"	"25-29 years"	"25-29"	"2003"	"2003"	38821	350133	110.88
+	"Pennsylvania"	"42"	"25-29 years"	"25-29"	"2004"	"2004"	39107	358566	109.06
+	"Pennsylvania"	"42"	"25-29 years"	"25-29"	"2005"	"2005"	39733	367897	108.00
+	"Pennsylvania"	"42"	"25-29 years"	"25-29"	"2006"	"2006"	41252	376139	109.67
+	"Pennsylvania"	"42"	"30-34 years"	"30-34"	"2003"	"2003"	38730	393635	98.39
+	"Pennsylvania"	"42"	"30-34 years"	"30-34"	"2004"	"2004"	37927	381020	99.54
+	"Pennsylvania"	"42"	"30-34 years"	"30-34"	"2005"	"2005"	37032	367353	100.81
+	"Pennsylvania"	"42"	"30-34 years"	"30-34"	"2006"	"2006"	36898	354679	104.03
+	"Pennsylvania"	"42"	"35-39 years"	"35-39"	"2003"	"2003"	18985	441287	43.02
+	"Pennsylvania"	"42"	"35-39 years"	"35-39"	"2004"	"2004"	18839	429856	43.83
+	"Pennsylvania"	"42"	"35-39 years"	"35-39"	"2005"	"2005"	19041	422671	45.05
+	"Pennsylvania"	"42"	"35-39 years"	"35-39"	"2006"	"2006"	19574	420863	46.51
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"2003"	"2003"	3833	496459	7.72
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"2004"	"2004"	3811	490179	7.77
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"2005"	"2005"	3942	482097	8.18
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	"2006"	"2006"	3904	470673	8.29
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"2003"	"2003"	174	Not Available	Not Available
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"2004"	"2004"	187	Not Available	Not Available
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"2005"	"2005"	218	Not Available	Not Available
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	"2006"	"2006"	216	Not Available	Not Available
+	"Pennsylvania"	"42"	"50 years and over"	"50+"	"2004"	"2004"	10	Not Available	Not Available
+	"Pennsylvania"	"42"	"50 years and over"	"50+"	"2006"	"2006"	11	Not Available	Not Available
+	"Rhode Island"	"44"	"Under 15 years"	"15"	"2003"	"2003"	15	Not Available	Not Available
+	"Rhode Island"	"44"	"Under 15 years"	"15"	"2004"	"2004"	23	Not Available	Not Available
+	"Rhode Island"	"44"	"Under 15 years"	"15"	"2005"	"2005"	24	Not Available	Not Available
+	"Rhode Island"	"44"	"15-19 years"	"15-19"	"2003"	"2003"	1077	38730	27.81
+	"Rhode Island"	"44"	"15-19 years"	"15-19"	"2004"	"2004"	1150	39689	28.98
+	"Rhode Island"	"44"	"15-19 years"	"15-19"	"2005"	"2005"	1117	40207	27.78
+	"Rhode Island"	"44"	"15-19 years"	"15-19"	"2006"	"2006"	1127	40974	27.51
+	"Rhode Island"	"44"	"20-24 years"	"20-24"	"2003"	"2003"	2748	39085	70.31
+	"Rhode Island"	"44"	"20-24 years"	"20-24"	"2004"	"2004"	2563	38801	66.05
+	"Rhode Island"	"44"	"20-24 years"	"20-24"	"2005"	"2005"	2492	39117	63.71
+	"Rhode Island"	"44"	"20-24 years"	"20-24"	"2006"	"2006"	2564	39076	65.62
+	"Rhode Island"	"44"	"25-29 years"	"25-29"	"2003"	"2003"	3359	32723	102.65
+	"Rhode Island"	"44"	"25-29 years"	"25-29"	"2004"	"2004"	3244	33731	96.17
+	"Rhode Island"	"44"	"25-29 years"	"25-29"	"2005"	"2005"	3283	33756	97.26
+	"Rhode Island"	"44"	"25-29 years"	"25-29"	"2006"	"2006"	3260	34175	95.39
+	"Rhode Island"	"44"	"30-34 years"	"30-34"	"2003"	"2003"	3591	36675	97.91
+	"Rhode Island"	"44"	"30-34 years"	"30-34"	"2004"	"2004"	3489	35154	99.25
+	"Rhode Island"	"44"	"30-34 years"	"30-34"	"2005"	"2005"	3415	33189	102.90
+	"Rhode Island"	"44"	"30-34 years"	"30-34"	"2006"	"2006"	3144	31147	100.94
+	"Rhode Island"	"44"	"35-39 years"	"35-39"	"2003"	"2003"	1967	41027	47.94
+	"Rhode Island"	"44"	"35-39 years"	"35-39"	"2004"	"2004"	1892	39985	47.32
+	"Rhode Island"	"44"	"35-39 years"	"35-39"	"2005"	"2005"	1922	38991	49.29
+	"Rhode Island"	"44"	"35-39 years"	"35-39"	"2006"	"2006"	1869	38171	48.96
+	"Rhode Island"	"44"	"40-44 years"	"40-44"	"2003"	"2003"	429	44245	9.70
+	"Rhode Island"	"44"	"40-44 years"	"40-44"	"2004"	"2004"	391	43731	8.94
+	"Rhode Island"	"44"	"40-44 years"	"40-44"	"2005"	"2005"	414	42935	9.64
+	"Rhode Island"	"44"	"40-44 years"	"40-44"	"2006"	"2006"	384	41567	9.24
+	"Rhode Island"	"44"	"45-49 years"	"45-49"	"2003"	"2003"	22	Not Available	Not Available
+	"Rhode Island"	"44"	"45-49 years"	"45-49"	"2004"	"2004"	27	Not Available	Not Available
+	"Rhode Island"	"44"	"45-49 years"	"45-49"	"2005"	"2005"	25	Not Available	Not Available
+	"Rhode Island"	"44"	"45-49 years"	"45-49"	"2006"	"2006"	16	Not Available	Not Available
+	"South Carolina"	"45"	"Under 15 years"	"15"	"2003"	"2003"	133	Not Available	Not Available
+	"South Carolina"	"45"	"Under 15 years"	"15"	"2004"	"2004"	123	Not Available	Not Available
+	"South Carolina"	"45"	"Under 15 years"	"15"	"2005"	"2005"	137	Not Available	Not Available
+	"South Carolina"	"45"	"Under 15 years"	"15"	"2006"	"2006"	144	Not Available	Not Available
+	"South Carolina"	"45"	"15-19 years"	"15-19"	"2003"	"2003"	7247	146357	49.52
+	"South Carolina"	"45"	"15-19 years"	"15-19"	"2004"	"2004"	7470	150047	49.78
+	"South Carolina"	"45"	"15-19 years"	"15-19"	"2005"	"2005"	7478	153669	48.66
+	"South Carolina"	"45"	"15-19 years"	"15-19"	"2006"	"2006"	8175	157327	51.96
+	"South Carolina"	"45"	"20-24 years"	"20-24"	"2003"	"2003"	16272	149740	108.67
+	"South Carolina"	"45"	"20-24 years"	"20-24"	"2004"	"2004"	16578	151074	109.73
+	"South Carolina"	"45"	"20-24 years"	"20-24"	"2005"	"2005"	16785	150819	111.29
+	"South Carolina"	"45"	"20-24 years"	"20-24"	"2006"	"2006"	18299	151015	121.17
+	"South Carolina"	"45"	"25-29 years"	"25-29"	"2003"	"2003"	14745	133795	110.21
+	"South Carolina"	"45"	"25-29 years"	"25-29"	"2004"	"2004"	15106	137066	110.21
+	"South Carolina"	"45"	"25-29 years"	"25-29"	"2005"	"2005"	15759	141181	111.62
+	"South Carolina"	"45"	"25-29 years"	"25-29"	"2006"	"2006"	17170	147537	116.38
+	"South Carolina"	"45"	"30-34 years"	"30-34"	"2003"	"2003"	11511	143836	80.03
+	"South Carolina"	"45"	"30-34 years"	"30-34"	"2004"	"2004"	11312	142361	79.46
+	"South Carolina"	"45"	"30-34 years"	"30-34"	"2005"	"2005"	11376	140085	81.21
+	"South Carolina"	"45"	"30-34 years"	"30-34"	"2006"	"2006"	11815	137527	85.91
+	"South Carolina"	"45"	"35-39 years"	"35-39"	"2003"	"2003"	4742	151166	31.37
+	"South Carolina"	"45"	"35-39 years"	"35-39"	"2004"	"2004"	4931	147997	33.32
+	"South Carolina"	"45"	"35-39 years"	"35-39"	"2005"	"2005"	5162	147966	34.89
+	"South Carolina"	"45"	"35-39 years"	"35-39"	"2006"	"2006"	5492	150037	36.60
+	"South Carolina"	"45"	"40-44 years"	"40-44"	"2003"	"2003"	954	161622	5.90
+	"South Carolina"	"45"	"40-44 years"	"40-44"	"2004"	"2004"	1023	163791	6.25
+	"South Carolina"	"45"	"40-44 years"	"40-44"	"2005"	"2005"	972	163228	5.95
+	"South Carolina"	"45"	"40-44 years"	"40-44"	"2006"	"2006"	1018	162756	6.25
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"2003"	"2003"	45	Not Available	Not Available
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"2004"	"2004"	45	Not Available	Not Available
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"2005"	"2005"	41	Not Available	Not Available
+	"South Carolina"	"45"	"45-49 years"	"45-49"	"2006"	"2006"	56	Not Available	Not Available
+	"South Dakota"	"46"	"Under 15 years"	"15"	"2004"	"2004"	12	Not Available	Not Available
+	"South Dakota"	"46"	"Under 15 years"	"15"	"2006"	"2006"	11	Not Available	Not Available
+	"South Dakota"	"46"	"15-19 years"	"15-19"	"2003"	"2003"	1027	29961	34.28
+	"South Dakota"	"46"	"15-19 years"	"15-19"	"2004"	"2004"	1121	29637	37.82
+	"South Dakota"	"46"	"15-19 years"	"15-19"	"2005"	"2005"	1082	29416	36.78
+	"South Dakota"	"46"	"15-19 years"	"15-19"	"2006"	"2006"	1123	29044	38.67
+	"South Dakota"	"46"	"20-24 years"	"20-24"	"2003"	"2003"	3103	27691	112.06
+	"South Dakota"	"46"	"20-24 years"	"20-24"	"2004"	"2004"	3196	28623	111.66
+	"South Dakota"	"46"	"20-24 years"	"20-24"	"2005"	"2005"	3218	28765	111.87
+	"South Dakota"	"46"	"20-24 years"	"20-24"	"2006"	"2006"	3289	28845	114.02
+	"South Dakota"	"46"	"25-29 years"	"25-29"	"2003"	"2003"	3386	21528	157.28
+	"South Dakota"	"46"	"25-29 years"	"25-29"	"2004"	"2004"	3447	22016	156.57
+	"South Dakota"	"46"	"25-29 years"	"25-29"	"2005"	"2005"	3610	22707	158.98
+	"South Dakota"	"46"	"25-29 years"	"25-29"	"2006"	"2006"	3886	23327	166.59
+	"South Dakota"	"46"	"30-34 years"	"30-34"	"2003"	"2003"	2302	22207	103.66
+	"South Dakota"	"46"	"30-34 years"	"30-34"	"2004"	"2004"	2400	22110	108.55
+	"South Dakota"	"46"	"30-34 years"	"30-34"	"2005"	"2005"	2319	22065	105.10
+	"South Dakota"	"46"	"30-34 years"	"30-34"	"2006"	"2006"	2398	21774	110.13
+	"South Dakota"	"46"	"35-39 years"	"35-39"	"2003"	"2003"	984	24082	40.86
+	"South Dakota"	"46"	"35-39 years"	"35-39"	"2004"	"2004"	961	23163	41.49
+	"South Dakota"	"46"	"35-39 years"	"35-39"	"2005"	"2005"	1004	22612	44.40
+	"South Dakota"	"46"	"35-39 years"	"35-39"	"2006"	"2006"	1001	22705	44.09
+	"South Dakota"	"46"	"40-44 years"	"40-44"	"2003"	"2003"	205	29113	7.04
+	"South Dakota"	"46"	"40-44 years"	"40-44"	"2004"	"2004"	194	28763	6.74
+	"South Dakota"	"46"	"40-44 years"	"40-44"	"2005"	"2005"	207	27913	7.42
+	"South Dakota"	"46"	"40-44 years"	"40-44"	"2006"	"2006"	195	26788	7.28
+	"South Dakota"	"46"	"45-49 years"	"45-49"	"2003"	"2003"	11	Not Available	Not Available
+	"South Dakota"	"46"	"45-49 years"	"45-49"	"2005"	"2005"	13	Not Available	Not Available
+	"South Dakota"	"46"	"45-49 years"	"45-49"	"2006"	"2006"	16	Not Available	Not Available
+	"Tennessee"	"47"	"Under 15 years"	"15"	"2003"	"2003"	179	Not Available	Not Available
+	"Tennessee"	"47"	"Under 15 years"	"15"	"2004"	"2004"	184	Not Available	Not Available
+	"Tennessee"	"47"	"Under 15 years"	"15"	"2005"	"2005"	182	Not Available	Not Available
+	"Tennessee"	"47"	"Under 15 years"	"15"	"2006"	"2006"	160	Not Available	Not Available
+	"Tennessee"	"47"	"15-19 years"	"15-19"	"2003"	"2003"	10198	193403	52.73
+	"Tennessee"	"47"	"15-19 years"	"15-19"	"2004"	"2004"	10087	197422	51.09
+	"Tennessee"	"47"	"15-19 years"	"15-19"	"2005"	"2005"	10785	202438	53.28
+	"Tennessee"	"47"	"15-19 years"	"15-19"	"2006"	"2006"	10784	207130	52.06
+	"Tennessee"	"47"	"20-24 years"	"20-24"	"2003"	"2003"	24117	206901	116.56
+	"Tennessee"	"47"	"20-24 years"	"20-24"	"2004"	"2004"	23889	205454	116.27
+	"Tennessee"	"47"	"20-24 years"	"20-24"	"2005"	"2005"	24551	205455	119.50
+	"Tennessee"	"47"	"20-24 years"	"20-24"	"2006"	"2006"	25451	203297	125.19
+	"Tennessee"	"47"	"25-29 years"	"25-29"	"2003"	"2003"	20941	190333	110.02
+	"Tennessee"	"47"	"25-29 years"	"25-29"	"2004"	"2004"	21839	195625	111.64
+	"Tennessee"	"47"	"25-29 years"	"25-29"	"2005"	"2005"	22602	201337	112.26
+	"Tennessee"	"47"	"25-29 years"	"25-29"	"2006"	"2006"	23609	210502	112.16
+	"Tennessee"	"47"	"30-34 years"	"30-34"	"2003"	"2003"	15765	207606	75.94
+	"Tennessee"	"47"	"30-34 years"	"30-34"	"2004"	"2004"	15675	204939	76.49
+	"Tennessee"	"47"	"30-34 years"	"30-34"	"2005"	"2005"	15479	202205	76.55
+	"Tennessee"	"47"	"30-34 years"	"30-34"	"2006"	"2006"	15670	197632	79.29
+	"Tennessee"	"47"	"35-39 years"	"35-39"	"2003"	"2003"	6431	215754	29.81
+	"Tennessee"	"47"	"35-39 years"	"35-39"	"2004"	"2004"	6630	210806	31.45
+	"Tennessee"	"47"	"35-39 years"	"35-39"	"2005"	"2005"	6761	210271	32.15
+	"Tennessee"	"47"	"35-39 years"	"35-39"	"2006"	"2006"	7219	214474	33.66
+	"Tennessee"	"47"	"40-44 years"	"40-44"	"2003"	"2003"	1208	232083	5.21
+	"Tennessee"	"47"	"40-44 years"	"40-44"	"2004"	"2004"	1267	233362	5.43
+	"Tennessee"	"47"	"40-44 years"	"40-44"	"2005"	"2005"	1325	233034	5.69
+	"Tennessee"	"47"	"40-44 years"	"40-44"	"2006"	"2006"	1385	231661	5.98
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"2003"	"2003"	48	Not Available	Not Available
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"2004"	"2004"	68	Not Available	Not Available
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"2005"	"2005"	57	Not Available	Not Available
+	"Tennessee"	"47"	"45-49 years"	"45-49"	"2006"	"2006"	72	Not Available	Not Available
+	"Texas"	"48"	"Under 15 years"	"15"	"2003"	"2003"	967	Not Available	Not Available
+	"Texas"	"48"	"Under 15 years"	"15"	"2004"	"2004"	972	Not Available	Not Available
+	"Texas"	"48"	"Under 15 years"	"15"	"2005"	"2005"	899	Not Available	Not Available
+	"Texas"	"48"	"Under 15 years"	"15"	"2006"	"2006"	915	Not Available	Not Available
+	"Texas"	"48"	"15-19 years"	"15-19"	"2003"	"2003"	51091	815867	62.62
+	"Texas"	"48"	"15-19 years"	"15-19"	"2004"	"2004"	51389	827325	62.11
+	"Texas"	"48"	"15-19 years"	"15-19"	"2005"	"2005"	51180	841038	60.85
+	"Texas"	"48"	"15-19 years"	"15-19"	"2006"	"2006"	53093	862229	61.58
+	"Texas"	"48"	"20-24 years"	"20-24"	"2003"	"2003"	107371	829174	129.49
+	"Texas"	"48"	"20-24 years"	"20-24"	"2004"	"2004"	107949	839827	128.54
+	"Texas"	"48"	"20-24 years"	"20-24"	"2005"	"2005"	108130	843505	128.19
+	"Texas"	"48"	"20-24 years"	"20-24"	"2006"	"2006"	112894	851616	132.56
+	"Texas"	"48"	"25-29 years"	"25-29"	"2003"	"2003"	99447	777053	127.98
+	"Texas"	"48"	"25-29 years"	"25-29"	"2004"	"2004"	100960	790265	127.75
+	"Texas"	"48"	"25-29 years"	"25-29"	"2005"	"2005"	103355	810798	127.47
+	"Texas"	"48"	"25-29 years"	"25-29"	"2006"	"2006"	107728	845320	127.44
+	"Texas"	"48"	"30-34 years"	"30-34"	"2003"	"2003"	78252	822546	95.13
+	"Texas"	"48"	"30-34 years"	"30-34"	"2004"	"2004"	78583	825093	95.24
+	"Texas"	"48"	"30-34 years"	"30-34"	"2005"	"2005"	78657	822980	95.58
+	"Texas"	"48"	"30-34 years"	"30-34"	"2006"	"2006"	79497	824461	96.42
+	"Texas"	"48"	"35-39 years"	"35-39"	"2003"	"2003"	33238	803342	41.37
+	"Texas"	"48"	"35-39 years"	"35-39"	"2004"	"2004"	34017	798736	42.59
+	"Texas"	"48"	"35-39 years"	"35-39"	"2005"	"2005"	36095	808021	44.67
+	"Texas"	"48"	"35-39 years"	"35-39"	"2006"	"2006"	37646	837317	44.96
+	"Texas"	"48"	"40-44 years"	"40-44"	"2003"	"2003"	6753	853922	7.91
+	"Texas"	"48"	"40-44 years"	"40-44"	"2004"	"2004"	7061	862041	8.19
+	"Texas"	"48"	"40-44 years"	"40-44"	"2005"	"2005"	7216	859708	8.39
+	"Texas"	"48"	"40-44 years"	"40-44"	"2006"	"2006"	7379	856934	8.61
+	"Texas"	"48"	"45-49 years"	"45-49"	"2003"	"2003"	350	Not Available	Not Available
+	"Texas"	"48"	"45-49 years"	"45-49"	"2004"	"2004"	346	Not Available	Not Available
+	"Texas"	"48"	"45-49 years"	"45-49"	"2005"	"2005"	359	Not Available	Not Available
+	"Texas"	"48"	"45-49 years"	"45-49"	"2006"	"2006"	422	Not Available	Not Available
+	"Texas"	"48"	"50 years and over"	"50+"	"2004"	"2004"	16	Not Available	Not Available
+	"Texas"	"48"	"50 years and over"	"50+"	"2005"	"2005"	24	Not Available	Not Available
+	"Texas"	"48"	"50 years and over"	"50+"	"2006"	"2006"	29	Not Available	Not Available
+	"Utah"	"49"	"Under 15 years"	"15"	"2003"	"2003"	25	Not Available	Not Available
+	"Utah"	"49"	"Under 15 years"	"15"	"2004"	"2004"	29	Not Available	Not Available
+	"Utah"	"49"	"Under 15 years"	"15"	"2005"	"2005"	50	Not Available	Not Available
+	"Utah"	"49"	"Under 15 years"	"15"	"2006"	"2006"	26	Not Available	Not Available
+	"Utah"	"49"	"15-19 years"	"15-19"	"2003"	"2003"	3307	104124	31.76
+	"Utah"	"49"	"15-19 years"	"15-19"	"2004"	"2004"	3207	103674	30.93
+	"Utah"	"49"	"15-19 years"	"15-19"	"2005"	"2005"	3181	104382	30.47
+	"Utah"	"49"	"15-19 years"	"15-19"	"2006"	"2006"	3498	105061	33.29
+	"Utah"	"49"	"20-24 years"	"20-24"	"2003"	"2003"	15711	120293	130.61
+	"Utah"	"49"	"20-24 years"	"20-24"	"2004"	"2004"	15225	119184	127.74
+	"Utah"	"49"	"20-24 years"	"20-24"	"2005"	"2005"	14829	117683	126.01
+	"Utah"	"49"	"20-24 years"	"20-24"	"2006"	"2006"	14993	115729	129.55
+	"Utah"	"49"	"25-29 years"	"25-29"	"2003"	"2003"	16826	92863	181.19
+	"Utah"	"49"	"25-29 years"	"25-29"	"2004"	"2004"	17726	96309	184.05
+	"Utah"	"49"	"25-29 years"	"25-29"	"2005"	"2005"	18343	99886	183.64
+	"Utah"	"49"	"25-29 years"	"25-29"	"2006"	"2006"	19093	105473	181.02
+	"Utah"	"49"	"30-34 years"	"30-34"	"2003"	"2003"	9666	80187	120.54
+	"Utah"	"49"	"30-34 years"	"30-34"	"2004"	"2004"	9925	82628	120.12
+	"Utah"	"49"	"30-34 years"	"30-34"	"2005"	"2005"	10467	85921	121.82
+	"Utah"	"49"	"30-34 years"	"30-34"	"2006"	"2006"	11046	88019	125.50
+	"Utah"	"49"	"35-39 years"	"35-39"	"2003"	"2003"	3514	69995	50.20
+	"Utah"	"49"	"35-39 years"	"35-39"	"2004"	"2004"	3756	70378	53.37
+	"Utah"	"49"	"35-39 years"	"35-39"	"2005"	"2005"	3903	72990	53.47
+	"Utah"	"49"	"35-39 years"	"35-39"	"2006"	"2006"	4067	76585	53.10
+	"Utah"	"49"	"40-44 years"	"40-44"	"2003"	"2003"	768	75693	10.15
+	"Utah"	"49"	"40-44 years"	"40-44"	"2004"	"2004"	760	75607	10.05
+	"Utah"	"49"	"40-44 years"	"40-44"	"2005"	"2005"	745	74655	9.98
+	"Utah"	"49"	"40-44 years"	"40-44"	"2006"	"2006"	740	73748	10.03
+	"Utah"	"49"	"45-49 years"	"45-49"	"2003"	"2003"	41	Not Available	Not Available
+	"Utah"	"49"	"45-49 years"	"45-49"	"2004"	"2004"	41	Not Available	Not Available
+	"Utah"	"49"	"45-49 years"	"45-49"	"2005"	"2005"	34	Not Available	Not Available
+	"Utah"	"49"	"45-49 years"	"45-49"	"2006"	"2006"	40	Not Available	Not Available
+	"Vermont"	"50"	"15-19 years"	"15-19"	"2003"	"2003"	419	23587	17.76
+	"Vermont"	"50"	"15-19 years"	"15-19"	"2004"	"2004"	463	23732	19.51
+	"Vermont"	"50"	"15-19 years"	"15-19"	"2005"	"2005"	412	23687	17.39
+	"Vermont"	"50"	"15-19 years"	"15-19"	"2006"	"2006"	468	23597	19.83
+	"Vermont"	"50"	"20-24 years"	"20-24"	"2003"	"2003"	1441	20034	71.93
+	"Vermont"	"50"	"20-24 years"	"20-24"	"2004"	"2004"	1527	20787	73.46
+	"Vermont"	"50"	"20-24 years"	"20-24"	"2005"	"2005"	1385	21294	65.04
+	"Vermont"	"50"	"20-24 years"	"20-24"	"2006"	"2006"	1443	21630	66.71
+	"Vermont"	"50"	"25-29 years"	"25-29"	"2003"	"2003"	1750	15523	112.74
+	"Vermont"	"50"	"25-29 years"	"25-29"	"2004"	"2004"	1797	15378	116.86
+	"Vermont"	"50"	"25-29 years"	"25-29"	"2005"	"2005"	1773	15324	115.70
+	"Vermont"	"50"	"25-29 years"	"25-29"	"2006"	"2006"	1772	15815	112.05
+	"Vermont"	"50"	"30-34 years"	"30-34"	"2003"	"2003"	1795	19577	91.69
+	"Vermont"	"50"	"30-34 years"	"30-34"	"2004"	"2004"	1692	19002	89.04
+	"Vermont"	"50"	"30-34 years"	"30-34"	"2005"	"2005"	1627	18426	88.30
+	"Vermont"	"50"	"30-34 years"	"30-34"	"2006"	"2006"	1639	17672	92.75
+	"Vermont"	"50"	"35-39 years"	"35-39"	"2003"	"2003"	939	22495	41.74
+	"Vermont"	"50"	"35-39 years"	"35-39"	"2004"	"2004"	902	21636	41.69
+	"Vermont"	"50"	"35-39 years"	"35-39"	"2005"	"2005"	898	21152	42.45
+	"Vermont"	"50"	"35-39 years"	"35-39"	"2006"	"2006"	957	20917	45.75
+	"Vermont"	"50"	"40-44 years"	"40-44"	"2003"	"2003"	230	26340	8.73
+	"Vermont"	"50"	"40-44 years"	"40-44"	"2004"	"2004"	196	26061	7.52
+	"Vermont"	"50"	"40-44 years"	"40-44"	"2005"	"2005"	184	25444	7.23
+	"Vermont"	"50"	"40-44 years"	"40-44"	"2006"	"2006"	223	24521	9.09
+	"Vermont"	"50"	"45-49 years"	"45-49"	"2003"	"2003"	11	Not Available	Not Available
+	"Vermont"	"50"	"45-49 years"	"45-49"	"2004"	"2004"	19	Not Available	Not Available
+	"Vermont"	"50"	"45-49 years"	"45-49"	"2005"	"2005"	10	Not Available	Not Available
+	"Virginia"	"51"	"Under 15 years"	"15"	"2003"	"2003"	147	Not Available	Not Available
+	"Virginia"	"51"	"Under 15 years"	"15"	"2004"	"2004"	147	Not Available	Not Available
+	"Virginia"	"51"	"Under 15 years"	"15"	"2005"	"2005"	129	Not Available	Not Available
+	"Virginia"	"51"	"Under 15 years"	"15"	"2006"	"2006"	129	Not Available	Not Available
+	"Virginia"	"51"	"15-19 years"	"15-19"	"2003"	"2003"	8831	250902	35.20
+	"Virginia"	"51"	"15-19 years"	"15-19"	"2004"	"2004"	8776	256431	34.22
+	"Virginia"	"51"	"15-19 years"	"15-19"	"2005"	"2005"	8778	261454	33.57
+	"Virginia"	"51"	"15-19 years"	"15-19"	"2006"	"2006"	9105	266528	34.16
+	"Virginia"	"51"	"20-24 years"	"20-24"	"2003"	"2003"	23799	252432	94.28
+	"Virginia"	"51"	"20-24 years"	"20-24"	"2004"	"2004"	24557	260010	94.45
+	"Virginia"	"51"	"20-24 years"	"20-24"	"2005"	"2005"	24744	265247	93.29
+	"Virginia"	"51"	"20-24 years"	"20-24"	"2006"	"2006"	25591	269078	95.11
+	"Virginia"	"51"	"25-29 years"	"25-29"	"2003"	"2003"	25794	237530	108.59
+	"Virginia"	"51"	"25-29 years"	"25-29"	"2004"	"2004"	27038	242262	111.61
+	"Virginia"	"51"	"25-29 years"	"25-29"	"2005"	"2005"	27646	249123	110.97
+	"Virginia"	"51"	"25-29 years"	"25-29"	"2006"	"2006"	29233	257285	113.62
+	"Virginia"	"51"	"30-34 years"	"30-34"	"2003"	"2003"	26232	269902	97.19
+	"Virginia"	"51"	"30-34 years"	"30-34"	"2004"	"2004"	26358	266155	99.03
+	"Virginia"	"51"	"30-34 years"	"30-34"	"2005"	"2005"	25702	261047	98.46
+	"Virginia"	"51"	"30-34 years"	"30-34"	"2006"	"2006"	25900	254555	101.75
+	"Virginia"	"51"	"35-39 years"	"35-39"	"2003"	"2003"	13380	290523	46.05
+	"Virginia"	"51"	"35-39 years"	"35-39"	"2004"	"2004"	13833	285397	48.47
+	"Virginia"	"51"	"35-39 years"	"35-39"	"2005"	"2005"	14193	282637	50.22
+	"Virginia"	"51"	"35-39 years"	"35-39"	"2006"	"2006"	14587	283902	51.38
+	"Virginia"	"51"	"40-44 years"	"40-44"	"2003"	"2003"	2923	310366	9.42
+	"Virginia"	"51"	"40-44 years"	"40-44"	"2004"	"2004"	3048	313244	9.73
+	"Virginia"	"51"	"40-44 years"	"40-44"	"2005"	"2005"	3157	313150	10.08
+	"Virginia"	"51"	"40-44 years"	"40-44"	"2006"	"2006"	3068	308921	9.93
+	"Virginia"	"51"	"45-49 years"	"45-49"	"2003"	"2003"	141	Not Available	Not Available
+	"Virginia"	"51"	"45-49 years"	"45-49"	"2004"	"2004"	154	Not Available	Not Available
+	"Virginia"	"51"	"45-49 years"	"45-49"	"2005"	"2005"	194	Not Available	Not Available
+	"Virginia"	"51"	"45-49 years"	"45-49"	"2006"	"2006"	192	Not Available	Not Available
+	"Virginia"	"51"	"50 years and over"	"50+"	"2004"	"2004"	22	Not Available	Not Available
+	"Virginia"	"51"	"50 years and over"	"50+"	"2005"	"2005"	12	Not Available	Not Available
+	"Virginia"	"51"	"50 years and over"	"50+"	"2006"	"2006"	12	Not Available	Not Available
+	"Washington"	"53"	"Under 15 years"	"15"	"2003"	"2003"	86	Not Available	Not Available
+	"Washington"	"53"	"Under 15 years"	"15"	"2004"	"2004"	95	Not Available	Not Available
+	"Washington"	"53"	"Under 15 years"	"15"	"2005"	"2005"	84	Not Available	Not Available
+	"Washington"	"53"	"Under 15 years"	"15"	"2006"	"2006"	82	Not Available	Not Available
+	"Washington"	"53"	"15-19 years"	"15-19"	"2003"	"2003"	6736	211711	31.82
+	"Washington"	"53"	"15-19 years"	"15-19"	"2004"	"2004"	6733	214735	31.35
+	"Washington"	"53"	"15-19 years"	"15-19"	"2005"	"2005"	6746	217240	31.05
+	"Washington"	"53"	"15-19 years"	"15-19"	"2006"	"2006"	7110	220504	32.24
+	"Washington"	"53"	"20-24 years"	"20-24"	"2003"	"2003"	19543	214260	91.21
+	"Washington"	"53"	"20-24 years"	"20-24"	"2004"	"2004"	19943	216403	92.16
+	"Washington"	"53"	"20-24 years"	"20-24"	"2005"	"2005"	19932	216486	92.07
+	"Washington"	"53"	"20-24 years"	"20-24"	"2006"	"2006"	20697	217351	95.22
+	"Washington"	"53"	"25-29 years"	"25-29"	"2003"	"2003"	21879	194797	112.32
+	"Washington"	"53"	"25-29 years"	"25-29"	"2004"	"2004"	22675	201080	112.77
+	"Washington"	"53"	"25-29 years"	"25-29"	"2005"	"2005"	23222	209159	111.03
+	"Washington"	"53"	"25-29 years"	"25-29"	"2006"	"2006"	24956	219940	113.47
+	"Washington"	"53"	"30-34 years"	"30-34"	"2003"	"2003"	19976	214088	93.31
+	"Washington"	"53"	"30-34 years"	"30-34"	"2004"	"2004"	19909	211298	94.22
+	"Washington"	"53"	"30-34 years"	"30-34"	"2005"	"2005"	19832	205982	96.28
+	"Washington"	"53"	"30-34 years"	"30-34"	"2006"	"2006"	20318	203878	99.66
+	"Washington"	"53"	"35-39 years"	"35-39"	"2003"	"2003"	9886	221573	44.62
+	"Washington"	"53"	"35-39 years"	"35-39"	"2004"	"2004"	10000	219488	45.56
+	"Washington"	"53"	"35-39 years"	"35-39"	"2005"	"2005"	10509	221773	47.39
+	"Washington"	"53"	"35-39 years"	"35-39"	"2006"	"2006"	11119	226319	49.13
+	"Washington"	"53"	"40-44 years"	"40-44"	"2003"	"2003"	2230	246294	9.05
+	"Washington"	"53"	"40-44 years"	"40-44"	"2004"	"2004"	2238	245975	9.10
+	"Washington"	"53"	"40-44 years"	"40-44"	"2005"	"2005"	2233	242849	9.20
+	"Washington"	"53"	"40-44 years"	"40-44"	"2006"	"2006"	2434	237789	10.24
+	"Washington"	"53"	"45-49 years"	"45-49"	"2003"	"2003"	142	Not Available	Not Available
+	"Washington"	"53"	"45-49 years"	"45-49"	"2004"	"2004"	141	Not Available	Not Available
+	"Washington"	"53"	"45-49 years"	"45-49"	"2005"	"2005"	137	Not Available	Not Available
+	"Washington"	"53"	"45-49 years"	"45-49"	"2006"	"2006"	148	Not Available	Not Available
+	"Washington"	"53"	"50 years and over"	"50+"	"2003"	"2003"	11	Not Available	Not Available
+	"Washington"	"53"	"50 years and over"	"50+"	"2004"	"2004"	13	Not Available	Not Available
+	"Washington"	"53"	"50 years and over"	"50+"	"2006"	"2006"	12	Not Available	Not Available
+	"West Virginia"	"54"	"Under 15 years"	"15"	"2003"	"2003"	34	Not Available	Not Available
+	"West Virginia"	"54"	"Under 15 years"	"15"	"2004"	"2004"	28	Not Available	Not Available
+	"West Virginia"	"54"	"Under 15 years"	"15"	"2005"	"2005"	22	Not Available	Not Available
+	"West Virginia"	"54"	"Under 15 years"	"15"	"2006"	"2006"	19	Not Available	Not Available
+	"West Virginia"	"54"	"15-19 years"	"15-19"	"2003"	"2003"	2544	57528	44.22
+	"West Virginia"	"54"	"15-19 years"	"15-19"	"2004"	"2004"	2471	57625	42.88
+	"West Virginia"	"54"	"15-19 years"	"15-19"	"2005"	"2005"	2450	58066	42.19
+	"West Virginia"	"54"	"15-19 years"	"15-19"	"2006"	"2006"	2589	58551	44.22
+	"West Virginia"	"54"	"20-24 years"	"20-24"	"2003"	"2003"	6818	61904	110.14
+	"West Virginia"	"54"	"20-24 years"	"20-24"	"2004"	"2004"	6584	61228	107.53
+	"West Virginia"	"54"	"20-24 years"	"20-24"	"2005"	"2005"	6463	59561	108.51
+	"West Virginia"	"54"	"20-24 years"	"20-24"	"2006"	"2006"	6392	58332	109.58
+	"West Virginia"	"54"	"25-29 years"	"25-29"	"2003"	"2003"	5908	52254	113.06
+	"West Virginia"	"54"	"25-29 years"	"25-29"	"2004"	"2004"	6148	52732	116.59
+	"West Virginia"	"54"	"25-29 years"	"25-29"	"2005"	"2005"	6163	53760	114.64
+	"West Virginia"	"54"	"25-29 years"	"25-29"	"2006"	"2006"	6304	55114	114.38
+	"West Virginia"	"54"	"30-34 years"	"30-34"	"2003"	"2003"	3844	58212	66.03
+	"West Virginia"	"54"	"30-34 years"	"30-34"	"2004"	"2004"	3862	57411	67.27
+	"West Virginia"	"54"	"30-34 years"	"30-34"	"2005"	"2005"	3875	56708	68.33
+	"West Virginia"	"54"	"30-34 years"	"30-34"	"2006"	"2006"	3672	54880	66.91
+	"West Virginia"	"54"	"35-39 years"	"35-39"	"2003"	"2003"	1498	60014	24.96
+	"West Virginia"	"54"	"35-39 years"	"35-39"	"2004"	"2004"	1465	58849	24.89
+	"West Virginia"	"54"	"35-39 years"	"35-39"	"2005"	"2005"	1522	58212	26.15
+	"West Virginia"	"54"	"35-39 years"	"35-39"	"2006"	"2006"	1637	58964	27.76
+	"West Virginia"	"54"	"40-44 years"	"40-44"	"2003"	"2003"	270	68635	3.93
+	"West Virginia"	"54"	"40-44 years"	"40-44"	"2004"	"2004"	305	67326	4.53
+	"West Virginia"	"54"	"40-44 years"	"40-44"	"2005"	"2005"	326	65938	4.94
+	"West Virginia"	"54"	"40-44 years"	"40-44"	"2006"	"2006"	302	64139	4.71
+	"West Virginia"	"54"	"45-49 years"	"45-49"	"2003"	"2003"	19	Not Available	Not Available
+	"West Virginia"	"54"	"45-49 years"	"45-49"	"2004"	"2004"	17	Not Available	Not Available
+	"West Virginia"	"54"	"45-49 years"	"45-49"	"2005"	"2005"	13	Not Available	Not Available
+	"West Virginia"	"54"	"45-49 years"	"45-49"	"2006"	"2006"	14	Not Available	Not Available
+	"Wisconsin"	"55"	"Under 15 years"	"15"	"2003"	"2003"	84	Not Available	Not Available
+	"Wisconsin"	"55"	"Under 15 years"	"15"	"2004"	"2004"	91	Not Available	Not Available
+	"Wisconsin"	"55"	"Under 15 years"	"15"	"2005"	"2005"	86	Not Available	Not Available
+	"Wisconsin"	"55"	"Under 15 years"	"15"	"2006"	"2006"	92	Not Available	Not Available
+	"Wisconsin"	"55"	"15-19 years"	"15-19"	"2003"	"2003"	6234	202376	30.80
+	"Wisconsin"	"55"	"15-19 years"	"15-19"	"2004"	"2004"	5994	202116	29.66
+	"Wisconsin"	"55"	"15-19 years"	"15-19"	"2005"	"2005"	6011	202198	29.73
+	"Wisconsin"	"55"	"15-19 years"	"15-19"	"2006"	"2006"	6015	201480	29.85
+	"Wisconsin"	"55"	"20-24 years"	"20-24"	"2003"	"2003"	16015	189499	84.51
+	"Wisconsin"	"55"	"20-24 years"	"20-24"	"2004"	"2004"	16312	193014	84.51
+	"Wisconsin"	"55"	"20-24 years"	"20-24"	"2005"	"2005"	16435	195300	84.15
+	"Wisconsin"	"55"	"20-24 years"	"20-24"	"2006"	"2006"	17170	196548	87.36
+	"Wisconsin"	"55"	"25-29 years"	"25-29"	"2003"	"2003"	20185	156282	129.16
+	"Wisconsin"	"55"	"25-29 years"	"25-29"	"2004"	"2004"	20528	158058	129.88
+	"Wisconsin"	"55"	"25-29 years"	"25-29"	"2005"	"2005"	21347	160132	133.31
+	"Wisconsin"	"55"	"25-29 years"	"25-29"	"2006"	"2006"	22243	164720	135.04
+	"Wisconsin"	"55"	"30-34 years"	"30-34"	"2003"	"2003"	17867	178317	100.20
+	"Wisconsin"	"55"	"30-34 years"	"30-34"	"2004"	"2004"	17548	174748	100.42
+	"Wisconsin"	"55"	"30-34 years"	"30-34"	"2005"	"2005"	17391	171594	101.35
+	"Wisconsin"	"55"	"30-34 years"	"30-34"	"2006"	"2006"	16917	166644	101.52
+	"Wisconsin"	"55"	"35-39 years"	"35-39"	"2003"	"2003"	8098	197177	41.07
+	"Wisconsin"	"55"	"35-39 years"	"35-39"	"2004"	"2004"	7947	191171	41.57
+	"Wisconsin"	"55"	"35-39 years"	"35-39"	"2005"	"2005"	8074	187474	43.07
+	"Wisconsin"	"55"	"35-39 years"	"35-39"	"2006"	"2006"	8197	185820	44.11
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	"2003"	"2003"	1486	223788	6.64
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	"2004"	"2004"	1650	222684	7.41
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	"2005"	"2005"	1565	218550	7.16
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	"2006"	"2006"	1613	212085	7.61
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"2003"	"2003"	67	Not Available	Not Available
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"2004"	"2004"	74	Not Available	Not Available
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"2005"	"2005"	71	Not Available	Not Available
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	"2006"	"2006"	87	Not Available	Not Available
+	"Wyoming"	"56"	"15-19 years"	"15-19"	"2003"	"2003"	798	19200	41.56
+	"Wyoming"	"56"	"15-19 years"	"15-19"	"2004"	"2004"	811	18943	42.81
+	"Wyoming"	"56"	"15-19 years"	"15-19"	"2005"	"2005"	795	18617	42.70
+	"Wyoming"	"56"	"15-19 years"	"15-19"	"2006"	"2006"	850	18461	46.04
+	"Wyoming"	"56"	"20-24 years"	"20-24"	"2003"	"2003"	2321	18675	124.28
+	"Wyoming"	"56"	"20-24 years"	"20-24"	"2004"	"2004"	2290	19076	120.05
+	"Wyoming"	"56"	"20-24 years"	"20-24"	"2005"	"2005"	2414	19016	126.95
+	"Wyoming"	"56"	"20-24 years"	"20-24"	"2006"	"2006"	2543	19148	132.81
+	"Wyoming"	"56"	"25-29 years"	"25-29"	"2003"	"2003"	1869	13982	133.67
+	"Wyoming"	"56"	"25-29 years"	"25-29"	"2004"	"2004"	1921	14684	130.82
+	"Wyoming"	"56"	"25-29 years"	"25-29"	"2005"	"2005"	2196	15535	141.36
+	"Wyoming"	"56"	"25-29 years"	"25-29"	"2006"	"2006"	2339	16650	140.48
+	"Wyoming"	"56"	"30-34 years"	"30-34"	"2003"	"2003"	1164	14884	78.20
+	"Wyoming"	"56"	"30-34 years"	"30-34"	"2004"	"2004"	1177	14948	78.74
+	"Wyoming"	"56"	"30-34 years"	"30-34"	"2005"	"2005"	1207	14928	80.85
+	"Wyoming"	"56"	"30-34 years"	"30-34"	"2006"	"2006"	1255	14884	84.32
+	"Wyoming"	"56"	"35-39 years"	"35-39"	"2003"	"2003"	441	15449	28.55
+	"Wyoming"	"56"	"35-39 years"	"35-39"	"2004"	"2004"	481	14927	32.22
+	"Wyoming"	"56"	"35-39 years"	"35-39"	"2005"	"2005"	502	14850	33.80
+	"Wyoming"	"56"	"35-39 years"	"35-39"	"2006"	"2006"	542	15099	35.90
+	"Wyoming"	"56"	"40-44 years"	"40-44"	"2003"	"2003"	91	19885	4.58
+	"Wyoming"	"56"	"40-44 years"	"40-44"	"2004"	"2004"	115	19272	5.97
+	"Wyoming"	"56"	"40-44 years"	"40-44"	"2005"	"2005"	110	18479	5.95
+	"Wyoming"	"56"	"40-44 years"	"40-44"	"2006"	"2006"	127	17607	7.21
+"---"
+"Dataset: Natality, 2003-2006"
+"Query Parameters:"
+"Group By: State; Age of Mother 9; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: Default intercensal populations for years 2003-2006"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+"---"
+"Query Date: Feb 28, 2022 11:12:07 AM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data 2003-2006, on CDC"
+"WONDER Online Database, March 2009. Accessed at http://wonder.cdc.gov/natality-v2006.html on Feb 28, 2022 11:12:07 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Not Available' appears when the denominator population for a rate measure is not available."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality.html#Assurance of Confidentiality."
+"3. Each birth record represents one liveborn infant."
+"4. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, location, or year of birth, then the same sub-set for"
+"age, race, location and year applies to the denominator population. However, if you sub-set mother's age selecting some years"
+"not in the 15 - 44 range, those years of mother's age ouside this range will not be included in the denominator population. If"
+"you sub-set mother's age selecting only years outside the 15 - 44 range, the denominator population returned will be zero and"
+"flagged ""Not Available""."
+"5. Birth rates and fertility rates for years 2003-2006 are calculated using the revised intercensal bridged-race series of July"
+"1st estimates of the resident population, released by NCHS on October 26, 2012. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality.html#Denominator-Population-Sources."
