@@ -13,7 +13,7 @@ summary(oly_airport)
 # To summarize the annual pattern, we need to put all of the data into a single year. You could think of this as making a prediction for an arbitrary future year. We need to do this so we can have a date variable that doesn’t contain different years. 
 # We’ll use 2024 since it’s a leap year. We’ll call this new dataframe cal24. Use make_date() from the lubridate package. Run summary() on cal24 to verify that you succeeded.
 cal24 = oly_airport %>% 
-  mutate(DATE = make_date(2024,mo,dy),yr = year(DATE))
+  mutate(DATE = make_date(2024,mo,dy), yr = year(DATE))
 
 summary(cal24)
 
@@ -71,8 +71,7 @@ cal21 = oly_airport %>%
 cal24 %>% 
   ggplot(aes(x = DATE, y = TMIN)) +
   geom_point(size = .2, alpha = .2) +
-  geom_point(data = cal21,aes(x = DATE, y = TMIN),
-             color = "red",size=.5)
+  geom_point(data = cal21,aes(x = DATE, y = TMIN), color = "red",size=.5)
 
 # For each value of DATE compute a mean of TMIN and display the results in a graph.
 cal24 %>% 
