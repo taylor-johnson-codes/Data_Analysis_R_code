@@ -13,7 +13,7 @@
 - load("cdc.Rdata"), str(), summary()
 - Add new variables/columns to the dataset, table()
 - Look for/remove anomalies from the dataset
-- library(ggplot2), box plot, scatter plot, linear model lm()
+- library(ggplot2) for box plot, scatter plot, linear model lm()
 - library(dplyr) for piping %>%
 - head(), tail()
 
@@ -37,14 +37,71 @@
 - Create your own functions
 - Random number generator rnorm(), range(), quantile()
 
-### 1--22
--
+### 1-31-22
+- Packages tidyverse/ggplot2/dplyr
+- load("county.rda"), read_csv("UNRATE.csv"), load("cdc.Rdata")
+- scatter plot, geom_jitter, line graph, histogram, box plot, bar plot
 
-### 1--22
--
+### 2-2-22
+- Packages tidyverse/dplyr
+- load("cdc.Rdata"), load("county.rda")
+- Remove a column with select(-col_name)
+- head(), tail(), table(), group_by(), summarize(), ungroup(), is.na(), drop_na(), save(variable_name, file = "file_name.Rdata") 
 
-### 1--22
--
+### 2-7-22
+- Packages tidyverse/ggplot2
+- load("county_clean.Rdata"), read_csv("state_region.csv")
+- scatter plot, geom_smooth, geom_jitter, labs() for axis labels, left_join(), bar plot
 
-### 1--22
--
+### 2-9-22
+- Packages tidyverse/ggplot2
+- load("county_clean.Rdata"), read_csv("state_region.csv")
+- left_join, scatter plot, geom_jitter, geom_count, Cleveland style visual, bar plot, coord_flip(), group_by(), summarize(), ungroup(), geom_col, histogram, scale_x_log10
+
+### 2-11-22
+- Packages tidyverse/ggplot2
+- load("county_clean.Rdata"), read_csv("state_region.csv")
+- left_join, histogram, geom_histogram(aes(y = ..density..)), geom_density(), geom_rug(), facet_wrap()
+
+### 2-14-22
+- Packages tidyverse/readr/lubridate/ggplot2
+- Examines Olympia weather
+- Import csv file and change a column name at the same time: read_csv("file_name.csv", col_types = cols(DATE = col_character()))
+- as.Date(), is.na(), drop_na(), a couple plots
+- year(), month() and day() to create factor variables yr, mo, and dy with mutate()
+- save(variable_name, file = "file_name.Rdata") 
+
+### 2-16-22, 2-18-22, 2-23-22, 2-25-22
+- Packages tidyverse/lubridate/plotly
+- load("oly_airport.Rdata")
+- Uses dplyr/ggplot2/plotly functions to examine the data
+
+### 2-28-22
+- Packages tidyverse/plotly
+- Examines fertility data; uses read_delim() to get data from txt file; uses rbind() to combine two txt files
+- Manipulates the dataframe variables to show what we want
+- Uses dplyr/ggplot2/plotly functions to examine the data
+
+### 3--22
+-  Packages 
+- 
+
+### 3--22
+-  Packages 
+- 
+
+### 3--22
+-  Packages 
+- 
+
+### 3--22
+-  Packages 
+- 
+
+### 3--22
+-  Packages 
+- 
+
+### 3--22
+-  Packages 
+- 
