@@ -1,10 +1,11 @@
 # Slide deck: Fertility 1
 # data retrieved from https://wonder.cdc.gov/natality.html
+#      steps to retrieve: click 2003-2006 link; in 3 drop-downs select state, age of mother 9, year; check fertility rate; click in box to select all states; 
+#      click in box to select all years; uncheck show totals; check export results; send
 # video on how to retrieve: https://www.youtube.com/watch?v=Oiw7bm4GjvQ
 
 library(tidyverse)
 library(plotly)
-library(dplyr)
 
 # birth data by state from 2003 through 2006
 by_state_year_0306 <- read_delim("Natality, 2003-2006.txt", delim = "\t", escape_double = FALSE, trim_ws = TRUE)
