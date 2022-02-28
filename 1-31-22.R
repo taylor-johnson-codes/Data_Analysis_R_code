@@ -1,10 +1,14 @@
 # FYI - TidyTuesday on GitHub has lots of datasets to play with
 
+# Note - the tidyverse package includes all of these packages:
+# ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, forcats
+
 # Slide deck: The 5 Named Graphs
 
 library(tidyverse)
 library(ggplot2)
 library(dplyr)
+# not sure why he types out the last two packages when they're part of the first package
 
 load("county.rda")
 summary(county)
