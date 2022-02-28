@@ -1,3 +1,5 @@
+# Slide deck: Olympia Weather Factoids
+
 library(tidyverse)
 library(lubridate)
 load("oly_airport.Rdata")  # olympia airport weather from data May 13, 1941 to Feb 15, 2022
