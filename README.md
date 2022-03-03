@@ -82,26 +82,30 @@
 - Manipulates the dataframe variables to show what we want
 - Uses dplyr/ggplot2/plotly functions to examine the data
 
-### 3--22
+### 3-4-22
 -  Packages 
 - 
 
-### 3--22
+### 3-14-22
 -  Packages 
 - 
 
-### 3--22
+### 3-16-22
 -  Packages 
 - 
 
-### 3--22
+### 3-18-22
 -  Packages 
 - 
 
-### 3--22
+### 3-21-22
 -  Packages 
 - 
 
-### 3--22
+### 3-23-22
+-  Packages 
+- 
+
+### 3-25-22
 -  Packages 
 - 
