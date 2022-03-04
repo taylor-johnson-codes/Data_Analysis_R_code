@@ -78,34 +78,35 @@
 
 ### 2-28-22
 - Packages tidyverse/plotly
-- Examines fertility data; uses read_delim() to get data from txt file; uses rbind() to combine two txt files
+- Examines fertility data in the US; uses read_delim() to get data from txt file; uses rbind() to combine two txt files
 - Manipulates the dataframe variables to show what we want
 - Uses dplyr/ggplot2/plotly functions to examine the data
 
 ### 3-4-22
--  Packages 
-- 
+- Packages tidyverse/plotly
+- load("race_region_0320.Rdata") - fertility rates by race and region of US
+- Uses dplyr/ggplot2/plotly functions to examine the data
 
 ### 3-14-22
--  Packages 
+- Packages 
 - 
 
 ### 3-16-22
--  Packages 
+- Packages 
 - 
 
 ### 3-18-22
--  Packages 
+- Packages 
 - 
 
 ### 3-21-22
--  Packages 
+- Packages 
 - 
 
 ### 3-23-22
--  Packages 
+- Packages 
 - 
 
 ### 3-25-22
--  Packages 
+- Packages 
 - 
