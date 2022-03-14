@@ -88,8 +88,10 @@
 - Uses dplyr/ggplot2/plotly functions to examine the data
 
 ### 3-14-22
-- Packages 
-- 
+- Packages tidyverse/plotly
+- load("Gender.Rdata") - male vs female birth rates
+- Uses dplyr/ggplot2 functions to examine the data
+- Includes pivot_wider() to create new columns, rename() and mutate() to clean up the dataframe
 
 ### 3-16-22
 - Packages 
