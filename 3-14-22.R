@@ -59,21 +59,70 @@ Gender %>%
   summarize(Male = sum(Male),
             Female = sum(Female)) %>% 
   mutate(p = Male/(Male + Female))
+# proportion = 0.5116
 
 # https://www.ssa.gov/oact/STATS/table4c6.html
 # the Period of Life table shows death probability and life expectancy of males and females.
 # even though more males are born, males have a lower life expectancy and higher death probability
 
-# Use this data to ask if the Male ratio differs by Age, Race, or Region.
+# info about Confidence Intervals: https://rpubs.com/HaroldNelsonJr43/122215
+
+# Use this data to ask if the Male ratio differs by Age.
 Gender %>% 
   group_by(Age) %>% 
+  summarize(n = sum(Male + Female),  # number
+            p = sum(Male)/(n)) %>%  # proportion
+  mutate(se = sqrt(p*(1-p)/n),  # standard error
+         ub = p + 1.96 * se,  # upper bound
+         lb = p - 1.96 * se) %>%  # lower bound
+  ggplot(aes(y = Age ) )  +
+  geom_point(aes(x = p), color = "black") +
+  geom_point(aes(x = lb), color = "red") +
+  geom_point(aes(x = ub), color = "blue") +
+  ggtitle("95% Confidence Intervals for Male Ratio") +
+  geom_vline(aes(xintercept =.5116))
+
+# Use this data to ask if the Male ratio differs by Race.
+Gender %>% 
+  group_by(Race) %>% 
   summarize(n = sum(Male + Female),
             p = sum(Male)/(n)) %>% 
   mutate(se = sqrt(p*(1-p)/n),
          ub = p + 1.96 * se,
          lb = p - 1.96 * se) %>% 
-  ggplot(aes(x = Age)) +
-  geom_point(aes(y = p), color = "black") +
-  geom_point(aes(y = lb), color = "red") +
-  geom_point(aes(y = ub), color = "blue") +
-  coord_flip()
+  ggplot(aes(y = Race ) )  +
+  geom_point(aes(x = p), color = "black") +
+  geom_point(aes(x = lb), color = "red") +
+  geom_point(aes(x = ub), color = "blue") +
+  ggtitle("95% Confidence Intervals for Male Ratio") +
+  geom_vline(aes(xintercept =.5116))
+
+# Use this data to ask if the Male ratio differs by Year.
+Gender %>% 
+  group_by(Year) %>% 
+  summarize(n = sum(Male + Female),
+            p = sum(Male)/(n)) %>% 
+  mutate(se = sqrt(p*(1-p)/n),
+         ub = p + 1.96 * se,
+         lb = p - 1.96 * se) %>% 
+  ggplot(aes(y = Year ) )  +
+  geom_point(aes(x = p), color = "black") +
+  geom_point(aes(x = lb), color = "red") +
+  geom_point(aes(x = ub), color = "blue") +
+  ggtitle("95% Confidence Intervals for Male Ratio") +
+  geom_vline(aes(xintercept =.5116))
+
+# Use this data to ask if the Male ratio differs by Region.
+Gender %>% 
+  group_by(Region) %>% 
+  summarize(n = sum(Male + Female),
+            p = sum(Male)/(n)) %>% 
+  mutate(se = sqrt(p*(1-p)/n),
+         ub = p + 1.96 * se,
+         lb = p - 1.96 * se) %>% 
+  ggplot(aes(y = Region ) )  +
+  geom_point(aes(x = p), color = "black") +
+  geom_point(aes(x = lb), color = "red") +
+  geom_point(aes(x = ub), color = "blue") +
+  ggtitle("95% Confidence Intervals for Male Ratio") +
+  geom_vline(aes(xintercept =.5116))
