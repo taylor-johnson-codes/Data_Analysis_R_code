@@ -94,20 +94,18 @@
 - Includes pivot_wider() to create new columns, rename() and mutate() to clean up the dataframe
 
 ### 3-16-22
-- Packages 
-- 
+- Packages tidyverse/plotly
+- read_table() for Human Mortality dataset
+- Cleans up data and makes two scatterplots
 
 ### 3-18-22
-- Packages 
-- 
-
-### 3-21-22
-- Packages 
-- 
+- Packages tidyverse/plotly
+- load("USA_CAN.Rdata") for Human Mortality dataset
+- Scatterplots
 
 ### 3-23-22
-- Packages 
-- 
+- Packages tidyverse/rtweet/httpuv
+- Includes search_tweets(), get_timeline(), lookup_users(), table(), sort(), create table with tidyverse code
 
 ### 3-25-22
 - Packages 
