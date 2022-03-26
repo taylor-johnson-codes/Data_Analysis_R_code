@@ -108,5 +108,29 @@
 - Includes search_tweets(), get_timeline(), lookup_users(), table(), sort(), create table with tidyverse code
 
 ### 3-25-22
+- Packages plyr/rtweet/httpuv
+- Includes search_tweets(), plyr::count(), summarize(), filter out replies/retweets/quotes, function()
+
+### 3-28-22
 - Packages 
-- 
+
+### 3-30-22
+- Packages 
+
+### 4-1-22
+- Packages 
+
+### 4-4-22
+- Packages 
+
+### 4-6-22
+- Packages 
+
+### 4-8-22
+- Packages 
+
+### 4-11-22
+- Packages 
+
+### 4-13-22
+- Packages 
