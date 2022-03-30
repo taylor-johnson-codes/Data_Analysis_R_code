@@ -112,10 +112,12 @@
 - Includes search_tweets(), plyr::count(), summarize(), filter out replies/retweets/quotes, function()
 
 ### 3-28-22
-- Packages 
+- Packages plyr/tidyverse/rtweet/httpuv/lubridate
+- Includes function(), search_tweets(), filter out replies/retweets/quotes, bar plot, get_timeline(), get_trends(), ts_plot(), count plot
 
 ### 3-30-22
-- Packages 
+- Packages tidyverse/plotly/rtweet/httpuv/qdapRegex/tm/qdap/wordcloud/RColorBrewer
+- Includes search_tweets(), filter out replies/retweets/quotes, rm_twitter_url(), gsub(),VectorSource(), Corpus(), tm_map(), freq_terms(), subset(), bar plot, wordcloud()
 
 ### 4-1-22
 - Packages 
