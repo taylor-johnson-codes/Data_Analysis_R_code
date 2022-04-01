@@ -120,7 +120,8 @@
 - Includes search_tweets(), filter out replies/retweets/quotes, rm_twitter_url(), gsub(),VectorSource(), Corpus(), tm_map(), freq_terms(), subset(), bar plot, wordcloud()
 
 ### 4-1-22
-- Packages 
+- Packages tidyverse
+- Includes regression and built-in mpg dataset, lm(), predict(), scatter plot
 
 ### 4-4-22
 - Packages 
