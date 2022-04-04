@@ -124,7 +124,8 @@
 - Includes regression and built-in mpg dataset, lm(), predict(), scatter plot
 
 ### 4-4-22
-- Packages 
+- Packages tidyverse
+- Includes regression and built-in mpg dataset, table(), lm(), scatter plot, seq(), predict(), jitter plot
 
 ### 4-6-22
 - Packages 
