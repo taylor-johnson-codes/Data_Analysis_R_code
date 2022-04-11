@@ -120,21 +120,24 @@
 - Includes search_tweets(), filter out replies/retweets/quotes, rm_twitter_url(), gsub(),VectorSource(), Corpus(), tm_map(), freq_terms(), subset(), bar plot, wordcloud()
 
 ### 4-1-22
-- Packages tidyverse
+- Package tidyverse
 - Includes regression and built-in mpg dataset, lm(), predict(), scatter plot
 
 ### 4-4-22
-- Packages tidyverse
+- Package tidyverse
 - Includes regression and built-in mpg dataset, table(), lm(), scatter plot, seq(), predict(), jitter plot
 
 ### 4-6-22
-- Packages 
+- Package tidyverse
+- Includes regression, CDC dataset, built-in mpg dataset, dummy/bool variable, table(), lm(), tapply()
 
 ### 4-8-22
-- Packages 
+- Packages broom/ggplot2/dplyr/formula.tools
+- load("cdc2.Rdata"); Build a number of models, combine the key results in a dataframe and compare them, train and test sets
 
 ### 4-11-22
-- Packages 
+- Packages class/naivebayes/broom/ggplot2/dplyr/formula.tools
+- load("cdc2.Rdata"); Predict the gender of a person based on other characteristics with two model types: K Nearest Neighbors (KNN) and Naive Bayes
 
 ### 4-13-22
 - Packages 
