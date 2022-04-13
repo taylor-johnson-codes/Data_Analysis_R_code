@@ -140,4 +140,12 @@
 - load("cdc2.Rdata"); Predict the gender of a person based on other characteristics with two model types: K Nearest Neighbors (KNN) and Naive Bayes
 
 ### 4-13-22
+- Packages tidyverse/pROC
+- load("cdc2.Rdata") for Logistic Regression (using boolean variable)
+- glm(family = "binomial"), predict(), threshold, accuracy, roc(), plot(), auc() 
+
+### 4-20-22
+- Packages 
+
+### 4-22-22
 - Packages 
