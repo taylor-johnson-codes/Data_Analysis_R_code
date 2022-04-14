@@ -39,7 +39,7 @@ glance1 = glance(lm1)
 glance1$formula = as.character(fml1)
 glance1
 
-test$pred1 = predict(lm1,newdata = test)
+test$pred1 = predict(lm1, newdata = test)
 
 # Create an R function RMSE() with parameters predicted and actual to compute the root mean squared error. We will use this to compare the performance of our models on the test data. This is the value sigma from the glance() output.
 # Use the function to compare the actual and predicted values from the test dataframe. save the result as test_RMSE in glance1.
@@ -68,6 +68,7 @@ glance2
 test$pred2 = predict(lm2, newdata = test)
 
 glance2$test_RMSE = RMSE(test$DesActRatio, test$pred2)
+glance2
 
 # Repeat the entire exercise for a third model by adding genhlth. Do everything in one step.
 fml3 = DesActRatio ~ BMI + gender + genhlth
@@ -81,7 +82,6 @@ glance3$formula = as.character(fml3)
 test$pred3 = predict(lm3, newdata = test)
 
 glance3$test_RMSE = RMSE(test$DesActRatio, test$pred3)
-
 glance3
 
 # Model 4 is similar to Model 3, but the third variable is ageCat instead of genhlth.
@@ -97,7 +97,6 @@ glance4$formula = as.character(fml4)
 test$pred4 = predict(lm4, newdata = test)
 
 glance4$test_RMSE = RMSE(test$DesActRatio, test$pred4)
-
 glance4
 
 # Include gender, genhlth, and ageCat in the model. Rerun everything to produce glance5.
@@ -112,7 +111,6 @@ glance5$formula = as.character(fml5)
 test$pred5 = predict(lm5, newdata = test)
 
 glance5$test_RMSE = RMSE(test$DesActRatio, test$pred5)
-
 glance5
 
 # So far, we have always included gender as one of the categorical variables. In Model 6, just include genhlth and ageCat. Repeat all of the steps and produce glance6.
@@ -127,10 +125,9 @@ glance6$formula = as.character(fml6)
 test$pred6 = predict(lm6, newdata = test)
 
 glance6$test_RMSE = RMSE(test$DesActRatio, test$pred6)
-
 glance6
 
-# Use rbind() to combine glance1,…, glance6 in one dataframe. Keep only the formula and the test perormance statistics. use arrange() to order the dataframe by test_RMSE. Which model is best?
+# Use rbind() to combine glance1,…, glance6 in one dataframe. Keep only the formula and the test performance statistics. use arrange() to order the dataframe by test_RMSE. Which model is best?
 all6 = rbind(glance1, glance2, glance3, glance4, glance5, glance6) %>% 
   select(formula, test_RMSE) %>% 
   arrange(test_RMSE)
