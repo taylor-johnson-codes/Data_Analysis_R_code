@@ -145,7 +145,5 @@
 - glm(family = "binomial"), predict(), threshold, accuracy, roc(), plot(), auc() 
 
 ### 4-20-22
-- Packages 
-
-### 4-22-22
-- Packages 
+- Packages class/caret/caTools/ggplot2/plyr/dplyr/e1071/MASS/mboost/xgboost/ranger/gbm
+- load("cdc2.Rdata"); Predict the gender of a person based on other characteristics with Caret
